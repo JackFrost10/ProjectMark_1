@@ -1,0 +1,383 @@
+{"quizlist":[
+  
+	{
+	"question":"Cylinder oil is used for _________.?",
+	"option1":"2-stroke engine",
+	"option2":"4-stroke  and 2 stroke engine",
+	"option3":"4-stroke engine"
+	},
+
+	{
+	"question":"When there is sufficient reason that the relieving officer is not capable of watch keeping duties, the outgoing in charge of the engineering watch should?",
+	"option1":"notify the chief engineer officer",
+	"option2":"stop the main engine immediately",
+	"option3":"all of these"
+	},
+
+
+	{
+	"question":"Prior to taking over the engineering watch, which of following responsibilities shall an officer of an engineering watch rely to the incoming watch?",
+	"option1":"C/E standing orders of the day",
+	"option2":"Next port of call",
+	"option3":"Type and quantity of cargo"
+	},
+
+	{
+	"question":"When the machinery spaces are in the periodic unmanned condition, the designated duty officer of the engineering watch shall be ________________.?",
+	"option1":"in a ship compartment that has an alarm",
+	"option2":"at the poop deck and wait for the call of the able seaman",
+	"option3":"all of these"
+	},
+
+
+	{
+	"question":"Burned gas from each cylinder is directed to the exhaust manifold which is part of___________.?",
+	"option1":"2-stroke engine",
+	"option2":"4-stroke  and 2 stroke engine",
+	"option3":"4-stroke engine"
+	},
+
+
+	{
+	"question":"In relieving watch, the outgoing duty engineer should ________________.?",
+	"option1":"check that the reliever is capable to carry out watch keeping duties",
+	"option2":"stop the main engine before relieving time",
+	"option3":"leave the engine room immediately"
+	},
+
+	{
+	"question":"Dark exhaust gas from the engine is caused by ______.?",
+	"option1":"engine overload",
+	"option2":"engine running too cold",
+	"option3":"water in a cylinder"
+	},
+
+
+	{
+	"question":"Cracked cylinder liner of a 2-stroke engine is indicated by___________.?",
+	"option1":"hunting of jacket cooling water pressure",
+	"option2":"excessive loss of lubricating oil",
+	"option3":"black smoke"
+	},
+
+	{
+	"question":"What is the minimum number of hours of rest in a 24 hour period?",
+	"option1":"10 hours",
+	"option2":"12 hours",
+	"option3":"14 hours"
+	},
+
+	{
+	"question":"Which of the following statement is/are not safety precaution of gas welding in acetylene tank?",
+	"option1":"Keep the valve cap off when not in use",
+	"option2":"High level main condenser",
+	"option3":"High level lube oil storage tank"
+	},
+
+	{
+	"question":"When there is a fire in an electric motor, normally the first step is to ___________.?",
+	"option1":"secure the electrical supply",
+	"option2":"ventilate area to remove the smoke",
+	"option3":"start the fire pump and lead out hoses"
+	},
+
+	{
+	"question":"When maneuvering, you discover heavy smoke coming from the turbocharger casing. What action should you take first?",
+	"option1":"Notify the bridge and ask to shut the engine down",
+	"option2":"Check the air filter for dirt",
+	"option3":"Check for an exhaust leak"
+	},
+
+	{
+	"question":"Prior to engaging the turning gear, precautions should be taken to________________.?",
+	"option1":"shut off the starting air supply and open the indicator cocks",
+	"option2":"transfer M/E control to emergency control console of the engine",
+	"option3":"close the inlet and outlet valves of cooling water"
+	},
+
+
+	{
+	"question":"A good housekeeping on a vessel prevents fires by _________.?",
+	"option1":"eliminating potential fuel sources",
+	"option2":"allowing better access in an emergency",
+	"option3":"eliminating trip hazards"
+	},
+
+
+	{
+	"question":"Fuel oil enters the main engine cylinder through ______________.?",
+	"option1":"fuel is contaminated with water",
+	"option2":"fuel oil injector in one cylinder is leaking",
+	"option3":"turbocharger is dirty"
+	},
+
+	{
+	"question":"Too high exhaust gas temperature in all cylinders is cause by the following except________.?",
+	"option1":"stuck-up fuel injection pump",
+	"option2":"overload engine",
+	"option3":"charged air pressure is too low"
+	},
+
+	{
+	"question":"If the engineer on watch is doubtful of the accuracy of water level in the boiler gauge glass, he should ____.?",
+	"option1":"blow down the gauge glass",
+	"option2":"speed up the main feed pump",
+	"option3":"open the auxiliary feed line"
+	},
+
+
+	{
+	"question":"The expansion tank for the jacket cooling water which is a closed cooling type is used to ___________.?",
+	"option1":"maintain constant head in a system",
+	"option2":"allow easy release of air",
+	"option3":"prevent water leakage"
+	},
+
+	{
+	"question":"In testing the boiler water for chloride content will indicate the amount of ____.?",
+	"option1":"dissolved salts from sea contamination",
+	"option2":"total alkalinity in the water",
+	"option3":"phosphates present in the water"
+	},
+
+	{
+	"question":"The watch engineer finds the refrigeration compressor has blown the shaft seal. In this situation, he should __________.?",
+	"option1":"secure the compressor at once and close the suction and discharge valves",
+	"option2":"pump the system down and isolate the leak",
+	"option3":"close the suction valve, secure the compressor, and then replace the shaft seal"
+	},
+
+	{
+	"question":"To ensure that a bearing is receiving the proper oil supply, you should check the _______________.?",
+	"option1":"sight flow glass in the bearing oil supply line",
+	"option2":"bull's eye in the gravity tank overflow",
+	"option3":"lube oil temperature at the cooler outlet"
+	},
+
+	{
+	"question":"An engine with high exhaust temperature but low compression is due to_____________ .?",
+	"option1":"leaking valve",
+	"option2":"An orifice",
+	"option3":"A nozzle valve"
+	},
+
+
+	{
+	"question":"Not properly vented main engine jacket cooling water can __________.?",
+	"option1":"cause overheating",
+	"option2":"cause scaling",
+	"option3":"lower main engine power"
+	},
+
+
+	{
+	"question":"What condition shall the chief engineer officer consult with the master whether or not to maintain the same engineering watch as when under way??",
+	"option1":"Unsheltered anchorage",
+	"option2":"sheltered anchorage",
+	"option3":"Cold lay up"
+	},
+
+
+	{
+	"question":"One of the major components of centrifugal pump is___________.?",
+	"option1":"impeller",
+	"option2":"utilize a portable rubber impeller transfer pump",
+	"option3":"temporary stop the main enginepropulsion boiler"
+	},
+
+	{
+	"question":"Below are some of the causes of high exhaust gas temperature except __________.?",
+	"option1":"poor quality of fuel oil",
+	"option2":"excessive carbon deposit on the exhaust valve",
+	"option3":"injection of fuel is too late "
+	},
+
+	{
+	"question":"You would not see a flow through the sight glass of the lube oil gravity tank overflow line when the __________.?",
+	"option1":"the lube oil service pumps are secured",
+	"option2":"main engines are stationary at a stop bell",
+	"option3":"main engines are secured and the turning gear is engaged"
+	},
+
+	{
+	"question":"A salinity indicating system functions on the basic principle of measuring the____.?",
+	"option1":"Observe general performance of the boiler",
+	"option2":"Lift the safety valve by hand",
+	"option3":"Clean all duplex oil strainers"
+	},
+
+	{
+	"question":"The watch engineer has been unable to transfer the fuel oil to the settling tank while underway. As the tank level is becoming dangerously low, the engineer should now __________.?",
+	"option1":"call out other engineers for assistance",
+	"option2":"utilize a portable rubber impeller transfer pump",
+	"option3":"temporary stop the main enginepropulsion boiler"
+	},
+
+
+	{
+	"question":"An indication of excessive soot accumulation on boiler water tubes and economizer surfaces is due to____.?",
+	"option1":"high stack temperature",
+	"option2":"low stack temperature",
+	"option3":"lower feed water flow"
+	},
+
+
+	{
+	"question":"An auxiliary diesel generator continues to run after you try to shut down. Your next course of action should be to _________.?",
+	"option1":"block the flow of air supply to the engine",
+	"option2":"engage the jacking gear",
+	"option3":"secure the lube oil pump"
+	},
+
+	{
+	"question":"How many weeks shall an expection of 70 hours in a week be granted by the administration?",
+	"option1":"2 weeks",
+	"option2":"1 week",
+	"option3":"3 weeks"
+	},
+
+	{
+	"question":"The hours of rest may be divided into no more than two periods, one of which shall be at least how many hours?",
+	"option1":"6 hours",
+	"option2":"2 hours",
+	"option3":"3 hours"
+	},
+
+	{
+	"question":"Which of the following is an example of head hazard? I. Impact from falling, II. Flying Object, III. Hair entanglement?",
+	"option1":"I, II, and III",
+	"option2":"I and II",
+	"option3":"I and III"
+	},
+
+	{
+	"question":"Before the turning gear is engaged, precaution should be taken to________________.?",
+	"option1":"shut off the starting air supply and open the indicator cocks",
+	"option2":"transfer M/E control to emergency control console of the engine",
+	"option3":"close the inlet and outlet valves of cooling water"
+	},
+
+	{
+	"question":"While inspecting the steering gear at sea, you should check for __________.?",
+	"option1":"any leaks in the system",
+	"option2":"accuracy of the rudder angle indicator",
+	"option3":"movement of the trick wheel"
+	},
+
+	{
+	"question":"The flash point of a residual fuel oil should be used to determine the highest temperature to which the oil may be heated __________.?",
+	"option1":"in a storage tank",
+	"option2":"for atomizing",
+	"option3":"for centrifuging"
+	},
+
+	{
+	"question":"Safety is dependent on orderliness and cleanliness that may be kept by __________.?",
+	"option1":"storing all items in their proper place",
+	"option2":" storing all items in a common storage area",
+	"option3":" tagging all items according to their age and then storing them together"
+	},
+
+	{
+	"question":"Before using the steam soot blowers of boiler at sea, you should __________?",
+	"option1":"raise the water level",
+	"option2":"lower the water level",
+	"option3":"increase the firing rate"
+	},
+
+
+	{
+	"question":"All portable electric tools should have a ground connection to prevent _________.?",
+	"option1":"electric shock if the tool is shorted",
+	"option2":"burning out the motor from an overload",
+	"option3":"overloading the motor from a short"
+	},
+
+	{
+	"question":"When the engine is running, a leaking air starting valve is indicated by_____.?",
+	"option1":"hot pipe connected to the starting valve",
+	"option2":"a hissing sound from the indicator cock",
+	"option3":"low power develop"
+	},
+
+
+	{
+	"question":"If the fire ignites in the engine room as a result of a high pressure fuel oil leak, you should first ______.?",
+	"option1":"shut off the fuel supply",
+	"option2":"secure the ventilation",
+	"option3":"find a soda acid extinguisher"
+	},
+
+
+	{
+	"question":"Before the seas get rough, it is a good safety practice to _________.?",
+	"option1":"secure loose gears",
+	"option2":"move quickly about the ship",
+	"option3":"Increase lighting"
+	},
+
+	{
+	"question":"All persons who are assigned duty as officer in charge of a watch or as a rating forming part of a watch and those whose duties involve designated safety, prevention of pollution, and security duties shall be provided with a rest period of not less than ________________.?",
+	"option1":"77 hours in a 7 day period",
+	"option2":"50 hours in a 7 day period",
+	"option3":"55 hours in a 7 day period"
+	},
+
+	{
+	"question":"The effect of too much heating in the fuel oil of main engine is ___________.?",
+	"option1":"stuck plunger and barrel",
+	"option2":"high exhaust gas temperature",
+	"option3":"high corrosion attack"
+	},
+		{
+	"question":"Under what condition may the master suspend the schedule of hours of rest and require a seafarer to perform any hours of work necessary?",
+	"option1":"Emergency Cases",
+	"option2":"Machinery Maintenance",
+	"option3":"Cargo loading"
+	},
+		{
+	"question":"Under what condition shall the officer in charge of the engineering watch shall ensure that permanent air or steam pressure is available for sound signals?",
+	"option1":"Restricted visibility",
+	"option2":"Coastal and congested waters",
+	"option3":"Ship at anchor"
+	},
+		{
+	"question":"Cylinder oil is used for _________.?",
+	"option1":"2-stroke engine",
+	"option2":"4-stroke  and 2 stroke engine",
+	"option3":"4-stroke engine"
+	},
+
+	{
+	"question":"Before using a boiler compressed air soot blower system, you should __________.?",
+	"option1":"drain the soot blower pneumatic operating lines",
+	"option2":"reduce the boiler pressure",
+	"option3":"lower the water level"
+	},
+
+	{
+	"question":"Which of the following is the most critical information that the officer in an engineering watch be relayed during taking over a watch?",
+	"option1":"The condition and state of readiness of portable fire extinguishing equipment and fixed fire-extinguishing installations and fire-detection systems",
+	"option2":"Any special requirements relating to sanitary system disposals",
+	"option3":"The procedures for notifying the appropriate authority of environmental pollution resulting from engineering activities"
+	},
+		{
+	"question":"What is the most important parameter to check right after any diesel engine is started?",
+	"option1":"lube oil pressure",
+	"option2":"crankcase pressure",
+	"option3":"salt water pressure"
+	},
+
+	{
+	"question":"Which condition could cause the feed pump of an auxiliary boiler to lose suction?",
+	"option1":"Excessive feed water temperature",
+	"option2":"Increased suction head pressure",
+	"option3":"Decreased feed water temperature"
+	},
+		{
+	"question":"Which of the conditions listed would cause the stern tube lube oil header tank level to decrease?",
+	"option1":"A worn or damaged stern tube seal.",
+	"option2":"An increase in sea water temperature.",
+	"option3":"The entry of sea water into the system."
+	}
+	]}

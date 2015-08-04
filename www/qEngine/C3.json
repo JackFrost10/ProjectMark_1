@@ -1,0 +1,112 @@
+{"quizlist":[
+
+	{
+	"question":"Acoustic feedback can arise__________?",
+	"option1":"because the volume adjustment of the speaker is too high",
+	"option2":"because outside noise is amplified by the loudspeaker in the microphone",
+	"option3":"because the loudspeaker works as a microphone"
+	},
+	{
+	"question":"Squelch mode serves to suppress__________?",
+	"option1":"noise in speech-breaks in an SSB-signal",
+	"option2":"noise in absence of an FM-signal",
+	"option3":"noise in transmission"
+	},
+
+	{
+	"question":"The legal type VHF-antenna has a length of__________.?",
+	"option1":"1 meter",
+	"option2":"2 meters",
+	"option3":"3 meters"
+	},
+
+	{
+	"question":"Automatic amplifier regulation is used to__________?",
+	"option1":"reduce distortion of weak incoming signals",
+	"option2":"reduce distortion of the strong incoming signal",
+	"option3":"reduce noise if there is no signal"
+	},	{
+	"question":"When onboard channel 16 is used for a shore radio-connection, you always work__________.?",
+	"option1":"simplex",
+	"option2":"duplex",
+	"option3":"semi duplex"
+	},
+	{
+	"question":"Which wave length applies to a frequency of 2000 kHz?",
+	"option1":"1500 meters",
+	"option2":"1000 meters",
+	"option3":"1250 meters"
+	},
+
+	{
+	"question":"Long distance communication in the HF-bands depends on__________.?",
+	"option1":"satellites",
+	"option2":"ground wave",
+	"option3":"ionisation layers"
+	},
+
+	{
+	"question":"The squelch on the control panel of a VHF-sat serves to__________.?",
+	"option1":"adjust the threshold level for admitting signals and refusing noise",
+	"option2":"adjust the sound level of the signal received",
+	"option3":"adjust the proportion of atmospheric noise in receiving the spoken word"
+	},	{
+	"question":"The typical “daylight-frequencies” for long distance transmission are located in the__________.?",
+	"option1":"8 or 12 MHz-band",
+	"option2":"4 or 6 MHz-band",
+	"option3":"16 or 22 MHz-band"
+	},
+	{
+	"question":"What is the recommended connection between antenna and VHF?",
+	"option1":"coax cable connection",
+	"option2":"three vein cable connection",
+	"option3":"band cable connection"
+	},
+
+	{
+	"question":"A VHF transmission range is mainly determined by__________.?",
+	"option1":"the height of the aerial",
+	"option2":"the right position of the squelch-adjustment",
+	"option3":"the moment of propagation"
+	},
+
+	{
+	"question":"A polarisation of a radio wave is determined by a__________.?",
+	"option1":"position of the aerial",
+	"option2":"sounding",
+	"option3":"range"
+	},	{
+	"question":"What is the maximum range of a VHF radio-set from ship to ship at sea?",
+	"option1":"200 Nautical Miles",
+	"option2":"22 Nautical Miles",
+	"option3":"20 Nautical Miles"
+	},
+	{
+	"question":"What is meant by frequency.?",
+	"option1":"time lapse of vibrations",
+	"option2":"number of vibrations",
+	"option3":"number of vibrations per unit of time"
+	},
+
+	{
+	"question":"Before a mariphone is installed on board, __________.?",
+	"option1":"a license must be issued",
+	"option2":"contribution must be paid",
+	"option3":"a letter of registration must be applied for"
+	},
+
+	{
+	"question":"The sound-level of the speaker on a MF/HF radiotelephony installation is adjusted through _________?",
+	"option1":"AF-Gain",
+	"option2":"RF-Gain",
+	"option3":"can not be adjusted"
+	},	{
+	"question":"With the squelch mode on the VHF__________?",
+	"option1":"undesirable noise is suppressed",
+	"option2":"another channel is chosen",
+	"option3":"range is increased"
+	}
+	
+
+
+]}

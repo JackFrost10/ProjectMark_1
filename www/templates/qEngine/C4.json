@@ -1,0 +1,808 @@
+{"quizlist":[
+
+	{
+	"question":"The operation of a thermostatic steam trap depends upon the__________.?",
+	"option1":"change in the amount of vapor produced within an enclosed chamber",
+	"option2":"action of a float within a chamber",
+	"option3":"difference in movement of two dissimilar bimetallic strips not fastened together"
+	},
+	{
+	"question":"How are hydraulic valve lash adjusters on diesel engine rocker arm assemblies being lubricated?",
+	"option1":"Forced lubrication",
+	"option2":"Splash lubrication",
+	"option3":"Cylinder lubrication"
+	},
+
+	{
+	"question":"When starting the air compressor after long period of rest the shaft should be rotated prior to restarting to ____________.?",
+	"option1":"check motor condition",
+	"option2":"Check pressure gauge",
+	"option3":"Check shaft alignment"
+	},
+
+	{
+	"question":"Main component of the engine to regulate speed is the ___________.?",
+	"option1":"governor",
+	"option2":"fuel injector",
+	"option3":"fuel pump"
+	},	{
+	"question":"The high pressure cut-out switch will stop the refrigeration compressor when there is______.?",
+	"option1":"a stoppage of condenser cooling water flow",
+	"option2":"lack of refrigerant",
+	"option3":"accumulation of refrigerant in the crankcase oil"
+	},
+	{
+	"question":"A port and helix duel injection pump having upper and lower plunger helixes is designed to _________.?",
+	"option1":"vary the beginning and ending of injection",
+	"option2":"vary ending of injection",
+	"option3":"vary the beginning of injection"
+	},
+
+	{
+	"question":"During the initial pull down of the box temperature in a refrigeration system, which of the devices listed is used to prevent excessive gas pressure at the compressor suction?",
+	"option1":"Evaporator pressure regulator",
+	"option2":"Compressor pressure regulator",
+	"option3":"Expansion valve regulator"
+	},
+
+	{
+	"question":"When securing a centrifugal type distillate pump, which of the listed steps should be carried out first?",
+	"option1":"Trip the three way dump valve",
+	"option2":"Close the suction valve",
+	"option3":"Close the discharge valve"
+	},	{
+	"question":"Which of the following statements best describes an oil lubricated stern tube bearing installation.?",
+	"option1":"No shaft liner is needed in the area of the babbitted bearing surface",
+	"option2":"Shaft liner is needed in the area of the babbitted bearing surface",
+	"option3":"Shaft liner is needed in the area of the bearing surface"
+	},
+	{
+	"question":"The low pressure side of a refrigeration system is considered to exist from the ______.?",
+	"option1":"expansion valve to the compressor",
+	"option2":"condenser to the expansion valve",
+	"option3":"expansion valve to the evaporator"
+	},
+
+	{
+	"question":"How often should cargo oil pump relief valves on tank vessels be tested?",
+	"option1":"At least once a year.",
+	"option2":"At least once a month",
+	"option3":"At least once a week"
+	},
+
+	{
+	"question":"What procedure of cooling compressed gases under constant pressure before going to the air reservoir.?",
+	"option1":"After cooling",
+	"option2":"Before cooling",
+	"option3":"It doesn't go to cooler"
+	},	{
+	"question":"Short cycling of a refrigeration compressor refers to_____________.?",
+	"option1":"frequently starting and stopping",
+	"option2":"frequently grounding out",
+	"option3":"running too fast"
+	},
+	{
+	"question":"Breaking the fuel into fine spray to provide good combustion is called__________.?",
+	"option1":"atomizing",
+	"option2":"refining",
+	"option3":"purifying"
+	},
+
+	{
+	"question":"Which of the following statement is true concerning the overall efficiency of air compressors?",
+	"option1":"Two stage compressors are generally more efficient than single stage compressors",
+	"option2":"Multi stage compressors are generally more inefficient than single stage compressors",
+	"option3":"Single compressors are generally efficient than multi stage compressors"
+	},
+
+	{
+	"question":"Fluctuations in the pressure and temperature of the steam supplied to the first-effect of a low pressure submerged tube distilling plant will cause _____.?",
+	"option1":"pressure and temperature fluctuations in the entire unit",
+	"option2":"increased heat levels throughout the entire unit",
+	"option3":"decreased priming and lower salinity distillate"
+	},	{
+	"question":"Which characteristic of the theoretical Otto cycle does not occur in the theoretical Diesel cycle.?",
+	"option1":"The entire fuel charge is present for ignition.",
+	"option2":"No pressure increase during combustion.",
+	"option3":"Rapid pressure decrease during compression."
+	},
+	{
+	"question":"What is the theoritical lift of a pump handling fresh water at atmospheric pressure?",
+	"option1":"10.35 m",
+	"option2":"11.35 m",
+	"option3":"12.35 m"
+	},
+
+	{
+	"question":"Boiler fire side must be kept free of soot accumulations because ____.?",
+	"option1":"soot insulates the boiler heating surfaces",
+	"option2":"soot interferes with the flow of feedwater",
+	"option3":"the steam drum internals will become clogged"
+	},
+
+	{
+	"question":"If the temperature of the fuel oil entering in atomizer is too low, the burner will __________.?",
+	"option1":"produce heavy black smoke at any load condition",
+	"option2":"produce smoke white",
+	"option3":"require more fuel for atomization"
+	},	{
+	"question":"An O-ring seal in a hydraulic system will begin to leak when it has lost its interference fit due to____.?",
+	"option1":"compression set or wear",
+	"option2":"lubrication set or wear",
+	"option3":"High pressure on the system"
+	},
+	{
+	"question":"A type of turbocharger being used for small high-speed engine that the gas flows away from turbine axis rotation is called______.?",
+	"option1":"axial",
+	"option2":"piston",
+	"option3":"rotary vane"
+	},
+
+	{
+	"question":"The ability of lubricating oil to resist viscosity changes The ability of lubricating oil to resist viscosity changes the________.?",
+	"option1":"viscosity index number",
+	"option2":"density index number",
+	"option3":"specific gravity index number"
+	},
+
+	{
+	"question":"The expansion tank for the jacket cooling water which is a closed cooling type is used to ___________.?",
+	"option1":"maintain constant head in a system",
+	"option2":"allow easy release of air",
+	"option3":"prevent water leakage"
+	},	{
+	"question":"Cylinder oil is used for _________.?",
+	"option1":"2-stroke engine",
+	"option2":"4-stroke  and 2 stroke engine",
+	"option3":"4-stroke engine"
+	},
+	{
+	"question":"What will be the resulting effect if an indicator diagram was taken at a time when the exhaust valve is leaking badly on suction stroke?",
+	"option1":"Poor combustion and reduction in power",
+	"option2":"High combustion and reduction in power",
+	"option3":"Poor combustion and high in power"
+	},
+
+	{
+	"question":"If all of the air charge has been lost from a ship service air receiver, the compressor mechanical unloading systems will ______________.?",
+	"option1":"fail to work, but the compressor having no load will start with little or no difficulty",
+	"option2":"will work,but the compressor will start at high diffuculty",
+	"option3":"will work, but the compressor having no load will start with little or no difficulty"
+	},
+
+	{
+	"question":"Salinity cell is installed in the distilling unit to indicate the ____________.?",
+	"option1":"quality of water produced",
+	"option2":"quantity of freshwater produced",
+	"option3":"leaking tube"
+	},	{
+	"question":"Stern tube is used to__________.?",
+	"option1":"support and seal the propeller shaft",
+	"option2":"transmit the power from main engine to propeller",
+	"option3":"reduce vibration of engine"
+	},
+	{
+	"question":"What do we call the storage tank for liquid refrigerant?",
+	"option1":"Condenser",
+	"option2":"Liquid receiver",
+	"option3":"Evaporator"
+	},
+
+	{
+	"question":"If an air compressor intercooler pressure rises above normal, it usually indicates __________.",
+	"option1":"dirty intercooler",
+	"option2":"hot environment",
+	"option3":"leaking valves"
+	},
+
+	{
+	"question":"Type of pump which is dependent of the head is______________.?",
+	"option1":"centrifugal pump",
+	"option2":"reciprocating pump",
+	"option3":"piston pump"
+	},	{
+	"question":"If one of the bilge system manifold valves does not properly seat, the__________.?",
+	"option1":"bilge system will lose vacuum and prevents the other bilges from being pumped out",
+	"option2":"bilge system will have high pressure and prevents the other bilges from being pumped out",
+	"option3":"bilge system will lose vacuum and the other bilges from being pumped out"
+	},
+	{
+	"question":"What you call the power produced by a cylinder which can be measured by an engine indicator mechanism?",
+	"option1":"Indicated Power",
+	"option2":"Theoritical Power",
+	"option3":"Actual Power"
+	},
+
+	{
+	"question":"How will you operate a low-pressure air compressor in order to prevent leaky valve?",
+	"option1":"By carrying out periodical preventive maintenance",
+	"option2":"By carrying out planned maintenance",
+	"option3":"By carrying out breakdown maintenance"
+	},
+
+
+
+	{
+	"question":"During the repair and overhaul of the pump relief valve used in a hydraulic system, the set point was reduced by 10 bars, which of the following statements describes the result of the set point being lowered?",
+	"option1":"The movement of any system actuator will now be slower",
+	"option2":"The movement of any system actuator will now be faster",
+	"option3":"The movement of any system actuator will not be affected"
+	},
+	{
+	"question":"What equipment is required when processing bilge slops for overboard discharge?",
+	"option1":"15 PPM Oil Content Monitor of Oily Water Separator",
+	"option2":"25 PPM Oil Content Monitor of Oily Water Separator",
+	"option3":"10 PPM Oil Content Monitor of Oily Water Separator"
+	},
+	{
+	"question":"The storage tank for liquid refrigerant in a refrigeration system is called __________.?",
+	"option1":"receiver",
+	"option2":"dehumidifier",
+	"option3":"charging tank"
+	},
+	{
+	"question":"The thermostatic expansion valve of a refrigeration system is opened ____________.?",
+	"option1":"by refrigerant pressure and close by spring pressure",
+	"option2":"by spring pressure and close by refrigerant pressure",
+	"option3":"and close by spring pressure"
+	},
+	{
+	"question":"Component of an engine used to increase scavenging air is called ___________.?",
+	"option1":"turbocharger",
+	"option2":"engine blower",
+	"option3":"scavenging valve"
+	},
+	{
+	"question":"Most marine heat exchangers are of the shell-and-tube type. Which of the following materials listed below do the cylindrical shell are made of?",
+	"option1":"Fabricated steel, cast iron or occasionally aluminum bronze",
+	"option2":"Aluminum",
+	"option3":"Brass"
+	},
+	{
+	"question":"A mooring winch should be equipped with mechanical brakes capable of holding_____ .?",
+	"option1":"the full breaking strength of the mooring line",
+	"option2":"half the breaking strength of the mooring line",
+	"option3":"the maximum expected tension of the mooring line"
+	},
+	{
+	"question":"How will you check the alignment of coupling faces.?",
+	"option1":"By inserting a feeler gage between the coupling faces at various point around the circumference",
+	"option2":"By measuring via feeler gage between the pipings at various point around the circumference",
+	"option3":"By inserting a vernier caliper between the coupling faces at various point around the circumference"
+	},
+	{
+	"question":"The heat gained per pound of refrigerant in the evaporator is known as the_______________?",
+	"option1":"refrigerating effect",
+	"option2":"latent heat of vaporization",
+	"option3":"sensible heat"
+	},
+	{
+	"question":"Air compressor cylinder unloader enable the compressor to_______?",
+	"option1":"start and come up to speed before air compression begins",
+	"option2":"vary their speed according to temperature and load",
+	"option3":"change speed according to overload demands"
+	},
+	{
+	"question":"Refrigerant is circulated through a refrigeration system by the ___________?",
+	"option1":"compressor",
+	"option2":"expansion valve",
+	"option3":"evaporator"
+	},
+	{
+	"question":"Which of the listed types of steam traps operates on the principle that hot water flashes to steam when its vapor pressure is reached?",
+	"option1":"Impulse",
+	"option2":"Thermostatic",
+	"option3":"Bimetallic"
+	},
+	{
+	"question":"A protective device use to prevent over torque during starting of an Air Compressor is called_____.?",
+	"option1":"unloader",
+	"option2":"reliever",
+	"option3":"air release device"
+	},
+	{
+	"question":"What is the process of throttling the refrigerant through the expansion valve in a vapor refrigeration cycle.?",
+	"option1":"Irreversible adiabatic process",
+	"option2":"Reversible adiabatic process",
+	"option3":"Adiabatic process"
+	},
+	{
+	"question":"If the capacity of a centrifugal pump decreases gradually over a long period of time, you should replace the _____?",
+	"option1":"wear rings",
+	"option2":"impeller",
+	"option3":"bearings"
+	},
+	{
+	"question":"Passages are drilled at the trunk-type diesel engine crankshaft in order to provide lubricating oil in the ______________?",
+	"option1":"piston rod bearings",
+	"option2":"Connecting rod",
+	"option3":"Cam shaft"
+	},
+	{
+	"question":"In order to properly remove air from the casing of a centrifugal pump when starting, the pump should have a_____..?",
+	"option1":"vent valve attached to the casing at the top of the volute",
+	"option2":"safety valve attached to the casing at the top of the volute",
+	"option3":"relief valve attached to the casing at the top of the volute"
+	},
+	{
+	"question":"Parts of the pump used to maintain the alignment of the pump are_____.?",
+	"option1":"bearings",
+	"option2":"impeller",
+	"option3":"lantern ring"
+	},
+	{
+	"question":"In a refrigeration system, the amount of superheat absorbed by the refrigerant is adjusted at the _________?",
+	"option1":"expansion valve",
+	"option2":"evaporator",
+	"option3":"compressor"
+	},
+	{
+	"question":"What component of the freshwater evaporator on board use to boil seawater, using the main engine jacket cooling water?",
+	"option1":"Evaporator",
+	"option2":"Ejector",
+	"option3":"Condenser"
+	},
+	{
+	"question":"Fuel oil enters the main engine cylinder through ______________?",
+	"option1":"fuel oil injector",
+	"option2":"oil spill valve",
+	"option3":"plunger and barrel"
+	},
+	{
+	"question":"Which of the following centrifugal pump components converts the liquid velocity to pressure?",
+	"option1":"Volute",
+	"option2":"bearing",
+	"option3":"impeller"
+	},
+	{
+	"question":"A salinity indicating system functions on the basic principle of measuring the____.?",
+	"option1":"electrical conductivity of water",
+	"option2":"electrical inductance of water",
+	"option3":"specific gravity of water"
+	},
+	{
+	"question":"What indicates a knocking noise from one cylinder of an operating reciprocating air compressor?",
+	"option1":"a loose valve plate for that cylinder",
+	"option2":"a tighten valve plate for that cylinder",
+	"option3":"a lost valve plate for that cylinder"
+	},
+	{
+	"question":"If an air compressor inter-cooler pressure rises above normal, it usually indicates ____________.?",
+	"option1":"compressor discharge",
+	"option2":"compressor suction",
+	"option3":"compressor operation"
+	},
+	{
+	"question":"Unloader in air compressor is use to________.?",
+	"option1":"prevent excessive load on the motor during starting",
+	"option2":"reliever",
+	"option3":"air release device"
+	},
+	{
+	"question":"Part of centrifugal disc purifier use to hold discs in place and directs the flow of dirty liquid to the bottom then to the discs as the oil flows upward is called ____________?",
+	"option1":"distributor",
+	"option2":"top disc",
+	"option3":"bowl"
+	},
+	{
+	"question":"After the installation of new impeller wear rings, by pressing them onto the pump impeller hub, it is advisable to_____.?",
+	"option1":"check the shaft and impeller assembly on centers to see if the ring surfaces are true",
+	"option2":"check the casing and impeller assembly on centers to see if the ring surfaces are true",
+	"option3":"check the shaft and casing assembly on centers to see if the ring surfaces are true"
+	},
+	{
+	"question":"A suitable location for the installation of an impulse type steam trap would be in the__________?",
+	"option1":"horizontal run of drain line from the lowest point at the outlet of the heat exchanger",
+	"option2":"steam supply line to a feedwater heater",
+	"option3":"drain line from a high point in the main steam line   expansion loop"
+	},
+	{
+	"question":"When securing a distillate pump on a low pressure fresh water evaporator, which of the listed steps should be carried out first?",
+	"option1":"Trip the three-way solenoid dump valve",
+	"option2":"Close suction valve",
+	"option3":"Close discharge valve"
+	},
+	{
+	"question":"If the foundation bolts of a reciprocating air compressor are loose, which of the conditions below will occur?",
+	"option1":"The compressor will vibrate",
+	"option2":"The compressor will run smoothly",
+	"option3":"The compressor will stop"
+	},
+	{
+	"question":"When in operation, what could be possible cause why a reciprocating air compressor is running roughly and vibrating excessively?",
+	"option1":"Foundation bolts are loose",
+	"option2":"Holding down bolts are loose",
+	"option3":"Tightining bolts are loose"
+	},
+	{
+	"question":"A large low speed diesel engine has developed excessive piston clearance and can be restored by_______?",
+	"option1":"inserting shims between the crankpin bearing box & the connecting rod foot",
+	"option2":"overhauling the engine",
+	"option3":"changing the piston rings"
+	},
+	{
+	"question":"A badly leaking refrigeration compressor discharge valves will cause __________.?",
+	"option1":"constant running of the compressor",
+	"option2":"overfeeding of the expansion valve",
+	"option3":"damage to the condenser"
+	},
+	{
+	"question":"Main engine lube oil sump tank is located __________.?",
+	"option1":"at the bottom of the engine",
+	"option2":"next to the engine",
+	"option3":"above the engine"
+	},
+	{
+	"question":"If the bowl of a disk type centrifugal purifier when operated as a separator is not primed, the______.?",
+	"option1":"oil will be lost through the water discharge ports",
+	"option2":"oil has a tendency to emulsify in the bowl",
+	"option3":"purifier will act as a clarifier at the discharge ring"
+	},
+
+	{
+	"question":"For proper air temperature control in an air conditioning system using chilled water circulation, which parameter should remain constant regardless of load changes?",
+	"option1":"Chilled water system supply temperature",
+	"option2":"Chilled water system supply pressure",
+	"option3":"Chilled water system supply density"
+	},
+	{
+	"question":"Salinity cell is installed in the distilling unit to indicate the______.?",
+	"option1":"quality of water produced",
+	"option2":"quantity of freshwater produced",
+	"option3":"leaking tube"
+	},
+	{
+	"question":"A stopper is inserted into the spout of a closed container in which water has been heated to a temperature of 100 degrees C. If additional thermal energy is imparted, what changes will occur to the pressure and temperature inside the container?",
+	"option1":"Both pressure and temperature will rise",
+	"option2":"Pressure will rise and temperature will reduce",
+	"option3":"Pressure will reduce and temperature will rise"
+	},	{
+	"question":"A high reading at a salinity cell located in the loop seal between two stages of a flash type evaporator indicates_____.?",
+	"option1":"carryover in the first- stage",
+	"option2":"chill shocking is necessary to remove scale",
+	"option3":"leakage at the second- stage condenser"
+	},
+	{
+	"question":"The turbo charger delivers air into the cylinder at ________.?",
+	"option1":"pressure greater than atmospheric",
+	"option2":"pressure lesser than atmospheric",
+	"option3":"pressure equal to atmospheric"
+	},
+	{
+	"question":"If you are operating a centrifugal water service pump with worn wear rings, the____ .?",
+	"option1":"pump discharge capacity is reduced",
+	"option2":"pump discharge capacity is higher",
+	"option3":"pump discharge capacity is the same"
+	},	{
+	"question":"Hydraulic pumps most commonly used in steering systems are of the ______ .?",
+	"option1":"axial piston type",
+	"option2":"gear type",
+	"option3":"screw type"
+	},
+	{
+	"question":"An air compressor is equipped with an intercooler and an aftercooler to___________ .?",
+	"option1":"increase compressor efficiency",
+	"option2":"inject water vapor into the compressed air",
+	"option3":"prevent overheating of first stage valves"
+	},
+	{
+	"question":"The by-products of oxidation, as a result of water contamination of hydraulic oil, are generally______.?",
+	"option1":"gums, varnishes, and acids",
+	"option2":"removed by cellulose type filters",
+	"option3":"always neutralized by oil additives"
+	},	{
+	"question":"A centrifugal pump requires priming____________.?",
+	"option1":"due to the inability of this type of pump to lift water to cover the suction or eye of the impeller",
+	"option2":"due to the ability of this type of pump to lift water to cover the suction or eye of the impeller",
+	"option3":"due to the inability of this type of pump to lift water to cover the discharge or eye of the impeller"
+	},
+	{
+	"question":"An emergency bilge suction is required for________________.?",
+	"option1":"machinery space bilges",
+	"option2":"engine room",
+	"option3":"bridge"
+	},
+	{
+	"question":"An important point of consideration when replacing a dry type intake filter on an air compressor is to____.?",
+	"option1":"select the proper size of filter so that air flow is not restricted",
+	"option2":"select the improper size of filter so that air flow is not restricted",
+	"option3":"select the proper size of filter so that air flow is restricted"
+	},	{
+	"question":"The construction of the main propulsion engine lube oil sump tank should _______ .?",
+	"option1":"retain the lube oil as long as possible before it recirculates through the system",
+	"option2":"replaces the lube oil as long as possible",
+	"option3":"retain the lube oil as long as doesn't it recirculates through the system"
+	},
+	{
+	"question":"Condensers located in the various stages of the flash evaporator are cooled by_________.?",
+	"option1":"seawater",
+	"option2":"air",
+	"option3":"distillate"
+	},
+	{
+	"question":"It is a form of energy which crosses the boundary of a system during a change of state produced by a difference of temperature between the system and its surroundings.?",
+	"option1":"Heat",
+	"option2":"Kinetic energy",
+	"option3":"Potential energy"
+	},	{
+	"question":"The separation chamber of the purifier is called ________.?",
+	"option1":"bowl",
+	"option2":"heavy liquid chamber",
+	"option3":"light liquid chamber"
+	},
+	{
+	"question":"If a centrifugal bilge pump were continually operated with the discharge valve closed the____________.?",
+	"option1":"pump would overheat",
+	"option2":"pump would work smoothly",
+	"option3":"pump would stop operation"
+	},
+	{
+	"question":"In a low pressure air compressor, the loss of volumetric efficiency normally results from________.?",
+	"option1":"heating of the air leaving the cylinders",
+	"option2":"adiabatic compression in the intercooler",
+	"option3":"inaccurate valve timing"
+	},	{
+	"question":"What will cause in dirty intercoolers on an air compressor??",
+	"option1":"increased motor current",
+	"option2":"decreased motor current",
+	"option3":"same motor current"
+	},
+	{
+	"question":"Why the fuel is be circulated before lighting off a cold boiler?",
+	"option1":"To heat the fuel enough for proper atomization",
+	"option2":"To heat the fuel enough for pumping",
+	"option3":"To heat the fuel enough for cold boiler starting temperature"
+	},
+	{
+	"question":"Burned gas from each cylinder is directed to the exhaust manifold which is part of___________.?",
+	"option1":"2-stroke engine",
+	"option2":"Both 4-stroke engine and 2 stroke engine",
+	"option3":"4-stroke engine"
+	},	{
+	"question":"One of the major components of centrifugal pump is___________?",
+	"option1":"Impeller",
+	"option2":"piston",
+	"option3":"gear"
+	},
+	{
+	"question":"If a crankcase explosion has occurred in a diesel engine, and the crankcase remains intact, which precautions should be observed?",
+	"option1":"The crankcase should remain unopened until the engine has cooled",
+	"option2":"The crankcase should remain opened to exhaust the gasses",
+	"option3":"The crankcase should remain unopened until engine recovers its speed"
+	},
+	{
+	"question":"The liquid indicator sight glass is generally located in the ____________.?",
+	"option1":"high pressure liquid line",
+	"option2":"low pressure liquid line",
+	"option3":"high pressure vapor line"
+	},	{
+	"question":"In a two stage flash evaporator, heated feedwater is vaporized in the_________.?",
+	"option1":"first and second stage flash chambers",
+	"option2":"second stage flash chambers",
+	"option3":"first flash chambers"
+	},
+	{
+	"question":"What usually indicates if an air compressor inter-cooler pressure rises above normal?",
+	"option1":"a clogged intercooler",
+	"option2":"a clogged aftercooler",
+	"option3":"a clogged strainer"
+	},
+	{
+	"question":"The final heating of the feedwater in a flash type distilling plant is carried out by______.?",
+	"option1":"low pressure steam admitted to the feedwater heater",
+	"option2":"high pressure steam admitted to the feedwater heater",
+	"option3":"low pressure water admitted to the feedwater heater"
+	},	{
+	"question":"The purpose of expansion valve is to__________.?",
+	"option1":"provide an orifice between the high pressure and low pressure side of the system",
+	"option2":"change the gas to a liquid",
+	"option3":"provide a chamber for the pre-expansion of the liquid"
+	},
+	{
+	"question":"The degree of fuel atomization in a diesel engine cylinder depends primarily on _______.?",
+	"option1":"the size of the holes in the fuel nozzle",
+	"option2":"timing of the pump",
+	"option3":"supply pressure to the pump"
+	},
+	{
+	"question":"Which of the listed conditions can lead to cavitation in a centrifugal pump?",
+	"option1":"Vapor pockets formed in the suction flow stream",
+	"option2":"High discharge pressure",
+	"option3":"High suction pressure"
+	},	{
+	"question":"A squeaking sound occurring from within an operating reciprocating air compressor is an indication of_______.?",
+	"option1":"tight compressor bearings",
+	"option2":"compressor overload",
+	"option3":"motor overload"
+	},
+	{
+	"question":"In which of the listed types of evaporators is brine density control most important?",
+	"option1":"Solo-shell low pressure",
+	"option2":"Solo-shell high pressure",
+	"option3":"Solo-shell medium pressure"
+	},
+	{
+	"question":"The emergency bilge suction valve is typically used____________?",
+	"option1":"if the bilges become flooded and they can not be emptied by any other means",
+	"option2":"if the bilges needs to be pumped out",
+	"option3":"if the bilges needs to be emptied right away"
+	},	{
+	"question":"Many cast iron pistons are designed with heat dams , which serve to________?",
+	"option1":"Reduce the possibility of overheating the top compression ring",
+	"option2":"Reduce the possibility of overheating the bottom compression ring",
+	"option3":"Increase the possibility of overheating the top compression ring"
+	},
+	{
+	"question":"A dehydrator installed in a refrigeration system is used to remove _____.?",
+	"option1":"moisture from the system",
+	"option2":"noncondensable gases and vapors",
+	"option3":"oil from the refrigerant"
+	},
+	{
+	"question":"Accidental flooding of the engine room bilges through the bilge system is prevented by______________.?",
+	"option1":"stop-check valves installed in the bilge suction manifolds",
+	"option2":"non return valves installed in bilge discharge manifolds",
+	"option3":"hydraulic valves installed in bilge suction manifolds"
+	},	{
+	"question":"Which engine has the highest exhaust temperature?",
+	"option1":"Four-stroke-cycle",
+	"option2":"Two-stroke-cycle",
+	"option3":"Four-stroke-cycle and Two-stroke-cycle"
+	},
+	{
+	"question":"In the refrigeration system, the refrigerant absorbs the latent heat of vaporization in the______?",
+	"option1":"evaporator",
+	"option2":"compressor",
+	"option3":"condenser"
+	},
+	{
+	"question":"Which of the listed operations will cause an automatically controlled refrigeration compressor to restart?",
+	"option1":"An increase in the suction pressure",
+	"option2":"Closing of the solenoid valve",
+	"option3":"Closing of the expansion valve"
+	},	{
+	"question":"The purpose of the low pressure cutout switch is to ____________.?",
+	"option1":"start and stop the compressor at preset operating pressures",
+	"option2":"operate at minimum efficiency",
+	"option3":"maintain a preset suction pressure to the compressor"
+	},
+	{
+	"question":"A material use to protect the internal parts of air compressor from solid particles which can be sucked along with fresh air is called____.?",
+	"option1":"Intake filter",
+	"option2":"Air cleaner",
+	"option3":"Unloader"
+	},
+	{
+	"question":"Which of the following statements represents the proper relative direction of flow through a globe valve?",
+	"option1":"Direction of flow should be from below the seat.",
+	"option2":"Direction of flow should be from above the seat",
+	"option3":"Direction of flow should not be from above the seat"
+	},	{
+	"question":"The high pressure side of the refrigeration systems starts from the _______.?",
+	"option1":"compressor to the expansion valve",
+	"option2":"evaporator to the compressor",
+	"option3":"expansion valve to the compressor"
+	},
+	{
+	"question":"Diesel engine jacket water is used in the fresh water distillation process as the __________.?",
+	"option1":"means of heating the feedwater",
+	"option2":"coolant for the distillate",
+	"option3":"coolant for the brine cooler"
+	},
+	{
+	"question":"If the coolant temperature is excessively low as it passes through the internally cooled fuel injectors, the injectors may be damaged by _________.?",
+	"option1":"corrosion of the nozzle tip",
+	"option2":"corrosion of the nozzle spring",
+	"option3":"corrosion of the injector casing"
+	},	{
+	"question":"Most refrigerants used in vapor compression refrigeration sytem originated primarily from which of the following base molecules?",
+	"option1":"Ethane and methane",
+	"option2":"Freon",
+	"option3":"Halon"
+	},
+	{
+	"question":"Demulsibility of a lube oil is defined as _____.?",
+	"option1":"the ability of oil to separate from water",
+	"option2":"the ability of oil to flow",
+	"option3":"the ability of oil to combine to water"
+	},
+	{
+	"question":"The purpose of wear ring in the centrifugal pump is to ___________.?",
+	"option1":"minimize wear of impeller and casing",
+	"option2":"prevent damage to shaft",
+	"option3":"maintain alignment of shaft"
+	},	{
+	"question":"An oil fog lubrication system is recommended for______.?",
+	"option1":"high speed continuous operation of roller bearings",
+	"option2":"low speed continuous operation of roller bearings",
+	"option3":"medium speed continuous operation of roller bearings"
+	},
+	{
+	"question":"The intake air for the turbocharged engine is cooled to _________.?",
+	"option1":"increase mean effective pressure",
+	"option2":"decrease mean effective pressure",
+	"option3":"same mean effective pressure"
+	},
+	{
+	"question":"Main air compressor is used to compress air for starting of main engine at a pressure of _____ bar.?",
+	"option1":"25 to 30 bar",
+	"option2":"20 to 30 bar",
+	"option3":"25 to 35 bar"
+	},	{
+	"question":"The first step when beginning to set the slide valves on a duplex reciprocating pump is to _____ .?",
+	"option1":"center the steam piston in the cylinders",
+	"option2":"slightly far from the center of the steam piston in the cylinders",
+	"option3":"adjust the position of the piston"
+	},
+	{
+	"question":"Which of the following descriptions best identifies the operating principle of a flash-type evaporator?",
+	"option1":"Heated sea water is injected into a vacuum chamber",
+	"option2":"Sea water is heated to boiling temperature while under a vacuum.",
+	"option3":"Sea water is passed over heated plates in a thin film."
+	},
+	{
+	"question":"One of the main functions of wear rings, as used in a centrifugal pumps is to ____ .?",
+	"option1":"prevent wear of the pump casing and impeller",
+	"option2":"to make the centrifugal pump more stable",
+	"option3":"prevent wear of the pump casing"
+	},
+	{
+	"question":"It refers to an internal combustion engine practice, where there is a necessity of heating the oil, to ensure easy flow and good atomization.?",
+	"option1":"Pre-heating",
+	"option2":"It refers to an internal",
+	"option3":"Re-circulating"
+	},
+	{
+	"question":"In a centrifugal pumps operating with a high suction lift,foot valves are primarily designed to______.?",
+	"option1":"enable the pump and its suction line to remain primed prior to starting the pump",
+	"option2":"enable the pump and its discharge line to remain primed prior to starting the pump",
+	"option3":"enable the pump and its suction line to remain primed prior to stoping the pump"
+	},	{
+	"question":"The dehydrator of a refrigeration system is located____________.?",
+	"option1":"before expansion valve",
+	"option2":"after evaporator ",
+	"option3":"before liquid receiver"
+	},
+	{
+	"question":"Which of the listed pumps is not a positive displacement pump?",
+	"option1":"Centrifugal",
+	"option2":"Gear",
+	"option3":"Axial"
+	},
+	{
+	"question":"Air leaking into a flash type distilling plant could occur through_______.?",
+	"option1":"gasketed joints, valve stem, and gage glass packing",
+	"option2":"gasketed joints, cooling tubes, and gage glass packing",
+	"option3":"salinometer, valve steam, and gage glass packing"
+	},	{
+	"question":"Before doing any work on a hydraulic system equipped with accumulators, you should________.?",
+	"option1":"bleed off all stored energy from the accumulators",
+	"option2":"Start it immediately",
+	"option3":"bleed off all stored pressure from piping."
+	},
+	{
+	"question":"Tubing is sized by_________.?",
+	"option1":"nominal outside diameter",
+	"option2":"nominal inside diameter",
+	"option3":"nominal outside and inside diameter"
+	},
+	{
+	"question":"The purpose of an air compressor unloading device is to________.?",
+	"option1":"delay the compression process until the motor is up to its speed",
+	"option2":"delay the compression process until pressure is steady",
+	"option3":"delay the compression process until the motor is in its maximum speed"
+	},
+	{
+	"question":"Differential pistons are used in reciprocating air compressor to__________.?",
+	"option1":"accomplish more than stage of compression in one cylinder",
+	"option2":"accomplish more than stage of compression in two cylinder",
+	"option3":"accomplish more than stage of compression in three cylinder"
+	},
+	{
+	"question":"A crankshaft whose center of gravity coincides with its centerline is said to be ________.?",
+	"option1":"statically balanced",
+	"option2":"unbalanced",
+	"option3":"depends on the manufacturers manual"
+	}
+
+]}

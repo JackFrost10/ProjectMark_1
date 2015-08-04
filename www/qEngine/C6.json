@@ -1,0 +1,1036 @@
+{
+    "quizlist": [
+        {
+            "question": "On some diesel-electric ships, the DC propulsion motor will only attain half speed when the generator fields are fully excited. Speeds above this are obtained by______?",
+            "option1": "raising the generator engine speed",
+            "option2": "rotating brush alignment",
+            "option3": "decreasing excitation"
+        },
+        {
+            "question": "In a diesel electric plant, raising the generator's field excitation will cause the DC propulsion motor to _________ .?",
+            "option1": "increase in speed",
+            "option2": "decrease in speed",
+            "option3": "affect main motor speed if done in conjunction with higher generator engine speeds"
+        },
+        {
+            "question": "To properly use a hook-on-type volt/ammeter in checking current flow, you must first________ .?",
+            "option1": "hook the jaws of the instrument around the insulated conductor",
+            "option2": "de-energize the circuit to allow connection of the instrument in series",
+            "option3": "connect the voltage test leads to the appropriate terminals"
+        },
+        {
+            "question": "An alternator operating in parallel begins to vibrate severely and eventually trips out on the reverse power relay. The cause of the vibration was a result of ______________________.?",
+            "option1": "the alternator was operating out of synchronism",
+            "option2": "flashover at the alternator collector rings",
+            "option3": "the dropping of load by that alternator"
+        },
+        {
+            "question": "If a three-phase induction motor malfunctions and drops to a single-phase (one supply line open) ____.?",
+            "option1": "the motor will continue to run if it is not heavily loaded",
+            "option2": "more torque will e developed",
+            "option3": "the motor will immediately stop and not be able to be restarted"
+        },
+        {
+            "question": "The device that most commonly utilizes the principle of electromagnetic induction is the________ .?",
+            "option1": "transformer",
+            "option2": "transistor",
+            "option3": "rheostat"
+        },
+        {
+            "question": "Routine maintenance of dry-type transformers should include ____.?",
+            "option1": "cleaning the windings, if accessible, with a vacuum cleaner or very low pressure air",
+            "option2": "cleaning the stator, if possible,with a vacuum cleaner or very low pressure air",
+            "option3": "cleaning the rotor, with a vacuum cleaner or very low pressure air"
+        },
+        {
+            "question": "A low-voltage protection circuit as used in the electric motor starting equipment, will ____.?",
+            "option1": "prevent the motor from restarting automatically on restoration of voltage",
+            "option2": "allow the motor to restart automatically on restoration of voltage without manually resetting.",
+            "option3": "trip circuit contactors when the motor develops a short circuit due to low voltage"
+        },
+        {
+            "question": "Loss of residual magnetism in an alternator or generator can be corrected by _____?",
+            "option1": "using a storage battery or battery charger to flash the field",
+            "option2": "running the generator at normal speed with the field rheostat fully counterclockwise",
+            "option3": "running the rotor in the opposite direction for 5 minutes"
+        },
+        {
+            "question": "The purpose of having low voltage protection for an electric motor circuit is to ___.?",
+            "option1": "prevent excessive current from developing as it is attempting to deliver its required horsepower",
+            "option2": "prevent the motor from overspeeding",
+            "option3": "prevent severe arcing or sparking"
+        },
+        {
+            "question": "The Wheatstone bridge is a precision measuring instrument utilizing the principle of changes in______ .?",
+            "option1": "resistance",
+            "option2": "amperage",
+            "option3": "capacitance"
+        },
+        {
+            "question": "The use of four diodes, in a full-wave bridge rectifier circuit, will_________.?",
+            "option1": "provide unidirectional current to the load",
+            "option2": "allow a very high leakage current from the load",
+            "option3": "convert direct current to alternating current"
+        },
+        {
+            "question": "In a diesel electric plant, raising the generator's field excitation will cause the DC propulsion motor to _________ .?",
+            "option1": "increase in speed",
+            "option2": "decrease in speed",
+            "option3": "affect generator speed only"
+        },
+        {
+            "question": "Loss of residual magnetism in an alternator or generator can be corrected for by _____?",
+            "option1": "using a storage battery or battery charger to flash the field",
+            "option2": "allowing the generator to run 10% of normal speed for 5 minutes",
+            "option3": "running the rotor in the opposite direction for 5 minutes"
+        },
+        {
+            "question": "Which of the damages listed can occur to the components of a winch master control switch, if the cover gasket becomes deteriorated?",
+            "option1": "Rapid corrosion of switch components.",
+            "option2": "Overheating of the winch motor.",
+            "option3": "Sparking at the winch motor brushes."
+        },
+        {
+            "question": "In electronic circuits, DC voltage can be positive (+) or negative (-) when measured with respect to the _________.?",
+            "option1": "Analogue or digital circuitry 'common' bus",
+            "option2": "multimeter",
+            "option3": "clampmeter"
+        },
+        {
+            "question": "Tightly knit metal braid wire can be used with a printed circuit board when______.?",
+            "option1": "required to desolder components on the board",
+            "option2": "conductor resistance is not a factor",
+            "option3": "electrically produced magnetic fluxes would cause in accuracies in adjacent components"
+        },
+        {
+            "question": "A three-phase alternator is operating at 450 volts with the switchboard ammeter indicating 300 amps. The kw meter currently indicates 163.6 KW, with a power factor of 0.7. If the power factor increases to 0.8, the KW meter reading would increase by______.?",
+            "option1": "23.2 KW",
+            "option2": "25.2 Kw",
+            "option3": "27.2 Kw"
+        },
+        {
+            "question": "An ohmmeter reading of 'zero' ohm between the ends of a wire conductor would provide a positive indication of______.?",
+            "option1": "continuity",
+            "option2": "polarity",
+            "option3": "negativity"
+        },
+        {
+            "question": "Before measuring an unknown resistance with an ohmmeter, you should _____.?",
+            "option1": "short the test leads and calibrate the meter reading to zero",
+            "option2": "short the test leads and calibrate the meter reading to any",
+            "option3": "short the test leads and calibrate the meter reading to more than zero"
+        },
+        {
+            "question": "Protection against sustained overloads occurring in molded-case circuit breakers is provided by a /an_______.?",
+            "option1": "thermal acting trip",
+            "option2": "two different metal trip",
+            "option3": "electrical acting trip"
+        },
+        {
+            "question": "In general, polyphase induction motors can be started on full line voltage by means of ________ .?",
+            "option1": "across-the-line starters",
+            "option2": "provide a backup means of voltage regulation for emergency starting",
+            "option3": "allow the voltage to be either stepped up or down, depending on the application, to ensure full torque"
+        },
+        {
+            "question": "A molded-case circuit breaker provides protection against short circuits by using a/an______ .?",
+            "option1": "electromagnet",
+            "option2": "shading coil",
+            "option3": "arc quencher"
+        },
+        {
+            "question": "Electric propulsion coupling excitation is reduced at slow speed to ________ .?",
+            "option1": "prevent coupling overheating",
+            "option2": "increase speed control",
+            "option3": "increase shaft torque"
+        },
+        {
+            "question": "In a running electric motor, one uses a sound listening bar to detect fault in _______________.?",
+            "option1": "Ball bearing",
+            "option2": "slip ring",
+            "option3": "commutator"
+        },
+        {
+            "question": "When replacing a defective transformer in a parallel transformer configuration, which of the following actions must be carried out to insure proper operation of the equipment it serves?",
+            "option1": "The transformer connections must be made as before with regard to the indicated polarity",
+            "option2": "The iron core of the transformer must be flashed to pre-magnetize it",
+            "option3": "secondary leads must be grounded for 10 minutes to remove static charges"
+        },
+        {
+            "question": "An insulation resistance test is performed on a particular piece of electric instrument. In addition to the resistance reading, what information listed below should be entered in the electrical log?",
+            "option1": "The temperature of the machine at the time the resistance reading was taken",
+            "option2": "The maximum allowable operating temperature of the machine",
+            "option3": "The normal temperature rise of the machine"
+        },
+        {
+            "question": "Which of the motors for the devices listed below is fitted with an instantaneous overload relay?",
+            "option1": "Winch",
+            "option2": "Fan",
+            "option3": "Machine tool"
+        },
+        {
+            "question": "To properly use a hook type volt/ammeter in checking current flow, you must first________ .?",
+            "option1": "hook the jaws of the instrument around the insulated conductor",
+            "option2": "tight the jaws of the instrument around the insulated conductor",
+            "option3": "secure the jaws of the instrument around the insulated conductor"
+        },
+        {
+            "question": "While underway onboard a DC diesel-elecric drive ship, you notice excessive sparking of the brushes on the mainpropulsion motor. You should first_____.?",
+            "option1": "notify the bridge that you will need to slow down",
+            "option2": "decrease the speed of the main generator",
+            "option3": "decrease the main generator voltage"
+        },
+        {
+            "question": "Moisture as a result of condensation occurring inside of the cargo winch master switches, can be reduced by______?",
+            "option1": "using strip heaters inside the switch box",
+            "option2": "using fix heaters inside the switch box",
+            "option3": "using crack heaters inside the switch box"
+        },
+        {
+            "question": "Modern DC generators are fitted with commutating poles to _____________.?",
+            "option1": "Reduce sparking",
+            "option2": "Reduce igniting",
+            "option3": "Reduce clicking"
+        },
+        {
+            "question": "While paralleling two alternators, the synchronizing lamps remain lit as the synchroscope pointer approaches the 0º. This would indicate that the ____.?",
+            "option1": "synchroscope is defective or broken",
+            "option2": "alternator power factors are in phase",
+            "option3": "alternator voltages are equal"
+        },
+        {
+            "question": "When testing the rotor of a synchronous motor for short circuit, a low voltage source is applied across the rotor coils through the collector rings. A coil having a short circuit will be indicated by a_____.?",
+            "option1": "low or zero voltage drop reading while the other coils will have higher readings",
+            "option2": "high voltage drop reading, while the other coil readings will have an equal or lower value",
+            "option3": "fluctuating voltmeter reading, while the other coil readings are steady"
+        },
+        {
+            "question": "Why is it a poor practice to use a high wattage soldering iron when soldering or desoldering components on a printed circuit board??",
+            "option1": "The foil wire may become loose and separate from the circuit board.",
+            "option2": "The circuit board material may become brittle.",
+            "option3": "The solder needs to be kept to a dull heat dissipating finish"
+        },
+        {
+            "question": "When a battery is continuously exposed to low temperature, the best procedure to keep it from freezing is to _____.?",
+            "option1": "keep the battery fully charged",
+            "option2": "disconnect the battery",
+            "option3": "securely cover the battery"
+        },
+        {
+            "question": "Any electric motor can be constructed to be ___?",
+            "option1": "explosion proof",
+            "option2": "short proof",
+            "option3": "ground proof"
+        },
+        {
+            "question": "The proper sequence of securing alternator in service are _______________.?",
+            "option1": "reduce the load to near zero, trip the circuit breaker, stop the prime mover",
+            "option2": "increase the load to near zero, trip the circuit breaker, stop the prime mover",
+            "option3": "reduce the load to near zero, trip the circuit breaker, run the prime mover"
+        },
+        {
+            "question": "Prior to using an analog type ohmmeter, the leads are purposely shorted together. Which of the following actions should be taken if, when adjusting to zero ohms, the indicating needle can not be returned to zero on the scale?",
+            "option1": "The batteries should be replaced",
+            "option2": "The lead clips should be replaced",
+            "option3": "The test reading should be added to each final reading"
+        },
+        {
+            "question": "Which of the following statements represents the main difference between a relay and a contactor?",
+            "option1": "Contactors can handle heavier loads than relays.",
+            "option2": "Contactors can handle lightier loads than relays.",
+            "option3": "Contactors cannot handle heavier loads than relays."
+        },
+        {
+            "question": "AC generator operating in parallel loses its excitation without tripping the circuit breaker. This will ____.?",
+            "option1": "cause high currents to be induced in the field windings",
+            "option2": "increase the output amperage between the armature and the bus",
+            "option3": "cause the slip rings to melt"
+        },
+        {
+            "question": "Protection against sustained overloads occurring in molded-case circuit breakers is provided by a/an_______.?",
+            "option1": "thermal acting trip",
+            "option2": "overvoltage release",
+            "option3": "current overload relay"
+        },
+        {
+            "question": "While paralleling two alternators, the synchronizing lamps remain lit as the synchroscope pointer approaches the 0º. This would indicate that the ____.?",
+            "option1": "synchroscope is defective or broken",
+            "option2": "alternator power factors are in phase",
+            "option3": "alternator voltages are equal"
+        },
+        {
+            "question": "Magnet chatter or 'pumping' occurring in a magnetic contactor can be caused by___________.?",
+            "option1": "chattering contacts on the control relay",
+            "option2": "mechanical interference in the contacts",
+            "option3": "dirt or grease on pole faces"
+        },
+        {
+            "question": "When using a megohmmeter to determine which shunt field coil is grounded in a DC machine, you must____.?",
+            "option1": "disconnect each shunt field coil before testing",
+            "option2": "insulate the field frame from the ship’s hull",
+            "option3": "use a motor driven high capacity megohmmeter"
+        },
+        {
+            "question": "If field excitation is suddenly lost to an alternator operating in parallel, that alternator will ____.?",
+            "option1": "lose its load and tend to overspeed",
+            "option2": "become overloaded and slow down",
+            "option3": "operated at the same load but with reduced voltage"
+        },
+        {
+            "question": "The effect of carrying field excitation excessively high on the synchronous motor will result in a ____. ?",
+            "option1": "tendency for the motor to overheat",
+            "option2": "loss of motor speed regulation",
+            "option3": "tendency for the motor to overspeed"
+        },
+        {
+            "question": "When replacing a defective transformer in a parallel transformer configuration, which of the following actions must be carried out to ensure proper operation of the equipment it serves?",
+            "option1": "The transformer connections must be made same as before with regard to the indicated polarity",
+            "option2": "The iron core of the transformer must be flashed to pre-magnetize it",
+            "option3": "The iron core must be grounded to 10 minutes to remove any residual magnetism"
+        },
+        {
+            "question": "The current at which a magnetic-type overload relay tends to trip may be decreased by raising the plunger further into the magnetic circuit of the relay. This action ___.?",
+            "option1": "increases magnetic pull on the increases magnetic pull on thetrip the relay",
+            "option2": "increases magnetic pull on the plunger and requires more current to trip the relay",
+            "option3": "reduces magnetic pull on the plunger and requires less current to trip the relay"
+        },
+        {
+            "question": "The rated temperature rise of an electric motor is the ______________. .?",
+            "option1": "normal temperature rise above the standard ambient temperature at rated load",
+            "option2": "average temperature at any given latitude",
+            "option3": "average temperature rise due to resistance at 10% overload"
+        },
+        {
+            "question": "An open shunt field in a direct current machine may be located by connecting the field circuit to an external power source, equal to the rated field voltage or less, and tested with a voltmeter from _____________.?",
+            "option1": "one line terminal to each coil lead in succession",
+            "option2": "one field coil to each adjacent field coil in turn",
+            "option3": "any suitable ground to any available line lead"
+        },
+        {
+            "question": "Undervoltage trips are frequently installed on switchboard circuit breakers to ___.?",
+            "option1": "trip out the generator when there is insufficient voltage being delivered to distribution circuits",
+            "option2": "trip out the breaker if the generator overspeeds by 5% but continues to run",
+            "option3": "trip out generators when there is reversal of power in the main circuit"
+        },
+        {
+            "question": "The ideal frequency of an incoming generator synchroscope pointer for closing the ACB is _______________?",
+            "option1": "Slightly higher than bus frequency",
+            "option2": "Slightly lighter than bus frequency",
+            "option3": "Slightly heavier than bus frequency"
+        },
+        {
+            "question": "When the synchroscope pointer rotates in a fast direction (clockwise), it indicates that the governor frequency of incoming generator is ______________.?",
+            "option1": "Higher than the bus frequency",
+            "option2": "lower than the bus frequency",
+            "option3": "Lighter than the bus frequency"
+        },
+        {
+            "question": "The number of cells in a 12 volt lead-acid battery is_______.?",
+            "option1": "six cells",
+            "option2": "three cells",
+            "option3": "twelve cells"
+        },
+        {
+            "question": "An AC generator panel is fitted with two synchronizing lamps and a synchroscope. When paralleling, if the synchroscope pointer is at the noon position and one synchronizing lamp is bright while the other remains dark, this indicates that ___.?",
+            "option1": "the generators are out of phase and one lamp is burned out",
+            "option2": "the incoming generator voltage is too low",
+            "option3": "the generators are in phase but one lamp is burned out"
+        },
+        {
+            "question": "You are reconnecting to a three-phase induction motor to the supply line. To prevent possible damage to the load, due to the wrong direction of rotation, you should ____.?",
+            "option1": "check the supply line phase sequence, and motor rotation with appropriate indicators, then connect correspondingly marked leads",
+            "option2": "connect the phase indicator to the supply voltage then connect the motor",
+            "option3": "connect the phase indicator to the motor leads, rotate the motor by hand and then connect to the supply voltage."
+        },
+        {
+            "question": "An accidental path of low resistance, allowing passage of abnormal amount of current is known as a/an_______?",
+            "option1": "short circuit",
+            "option2": "open circuit",
+            "option3": "polarized ground"
+        },
+        {
+            "question": "Before measuring an unknown resistance with an ohmmeter, you should _____.?",
+            "option1": "short the test leads and calibrate the meter reading to „zero",
+            "option2": "adjust the meter’s  pointer to mid-scale",
+            "option3": "change the meter’s batteries"
+        },
+        {
+            "question": "The shunt use in an ammeter should be connected in_______. .?",
+            "option1": "series with the load and in parallel with the meter movement",
+            "option2": "parallel with the load and in series with the meter movement",
+            "option3": "parallel with the load and in parallel with the meter movement"
+        },
+        {
+            "question": "Any electric motor can be constructed to be ___?",
+            "option1": "explosion proof",
+            "option2": "ground proof",
+            "option3": "overload proof"
+        },
+        {
+            "question": "A resistance in a circuit of unknown value is to be tested using the voltmeter/ammeter method. Therefore, the meters should be connected with _________.?",
+            "option1": "the ammeter in series and the voltmeter in parallel with the resistance",
+            "option2": "both meters in series with the resistance",
+            "option3": "both meters in parallel with the resistance"
+        },
+        {
+            "question": "When using an ohmmeter to test a semiconductor diode, you find a low resistance in both the forward and reverse bias directions. This indicates that the diode has a/an_____.?",
+            "option1": "short",
+            "option2": "open",
+            "option3": "good capacitive quality"
+        },
+        {
+            "question": "There is no brilliant change in synchro lamps when the synchroscope pointer is in the phase of _____________.?",
+            "option1": "Stationary",
+            "option2": "rotary",
+            "option3": "constant"
+        },
+        {
+            "question": "Which of the following physical characteristics does a wound- rotor induction motor possess that a squirrel cage motor has none?",
+            "option1": "Slip rings",
+            "option2": "End rings",
+            "option3": "A centrifugal switch"
+        },
+        {
+            "question": "A direct current passing through a wire coiled around a soft iron core is the description of a simple______.?",
+            "option1": "electromagnet",
+            "option2": "magnetic shield",
+            "option3": "piezoelectric device"
+        },
+        {
+            "question": "Which of the following conditions will occur if the solenoid coil burns on a cargo winch with an electrical brake?",
+            "option1": "The brake will be set by spring force.",
+            "option2": "The motor will overspeed and burn up.",
+            "option3": "The load suspended from the cargo boom will fall."
+        },
+        {
+            "question": "The most commonly used electric motor on board is _______________.?",
+            "option1": "3 phase cage-rotor induction motor",
+            "option2": "2 phase cage-rotor induction motor",
+            "option3": "4 phase cage-rotor induction motor"
+        },
+        {
+            "question": "If the driving torque, such as that produced by a diesel engine, creates pulsations when coupled with a synchronous generator operating in parallel; the generator rotor may be periodically pulled ahead or behind its normal position as it rotates. This condition is sometimes called__________.?",
+            "option1": "hunting",
+            "option2": "direct coupling",
+            "option3": "peaking"
+        },
+        {
+            "question": "A three-phase alternator is operating at 450 volts with the switchboard ammeter indicating 300 amps. The kw meter currently indicates 163.6 KW, with a power factor of 0.7. If the power factor increases to 0.8, the KW meter reading would increase by______.?",
+            "option1": "23.2 KW",
+            "option2": "30.6 KW",
+            "option3": "37.8 KW"
+        },
+        {
+            "question": "In general, polyphase induction motors can be started on full line voltage by means of ________?",
+            "option1": "across-the-line starters",
+            "option2": "compensator starters",
+            "option3": "autotransformer starters"
+        },
+        {
+            "question": "Which of the following statements represents an application of a silicon controlled rectifier?",
+            "option1": "To provide DC power for a main propulsion motor",
+            "option2": "For use as a voltage reference diode.",
+            "option3": "For sensing flame in an automated burner."
+        },
+        {
+            "question": "When troubleshooting electronic equipment, you should use a high impedance multimeter _______.?",
+            "option1": "so as not to load down the circuit and obtain erroneous voltage readings",
+            "option2": "to prevent excess current flow through the meter that would damage it",
+            "option3": "whenever a low impedance meter is not available, regardless of the components being tested."
+        },
+        {
+            "question": "On a vessel with turbo-electric drive, which of the following conditions would indicate that the propulsion motor had cut-out from synchronization with the propulsion generator?",
+            "option1": "Excessive vibration of the vessel",
+            "option2": "Tripped main motor interlocks",
+            "option3": "Overheated crosstie busses"
+        },
+        {
+            "question": "Which of the listed battery charging circuits is used to maintain a wet-cell, lead-acid, storage battery in a fully charged state during long periods of disuse?",
+            "option1": "Trickle charging circuit",
+            "option2": "Normal charging circuit",
+            "option3": "Quick charging circuit"
+        },
+        {
+            "question": "Across the line starters are used with AC motors to provide ___________.?",
+            "option1": "High starting torque",
+            "option2": "Low starting torque",
+            "option3": "constant starting torque"
+        },
+        {
+            "question": "If the bearings of an electrical generator are falling more frequently than expected and the lubricating oil is sludging then you should ____.?",
+            "option1": "check the bearing insulating block on one end of the unit",
+            "option2": "check the connections to the output leads",
+            "option3": "replace the bearing with a sealed roller type"
+        },
+        {
+            "question": "In an AC synchronous motor electric propulsion plant, propeller speed is controlled by varying the_____.?",
+            "option1": "prime mover speed",
+            "option2": "electric coupling field strength",
+            "option3": "number of energized main motor poles"
+        },
+        {
+            "question": "Relative to the direction of rotation, a DC motor commutating pole has the same polarity as the ____________.?",
+            "option1": "Main pole preceding",
+            "option2": "second pole preceding",
+            "option3": "third pole preceding"
+        },
+        {
+            "question": "On some diesel-electric ships, the DC propulsion motor will only attain half speed when the generator fields are fully excited. Speeds above this are obtained by______.?",
+            "option1": "raising the generator engine speed",
+            "option2": "rotating brush alignment",
+            "option3": "lowering the generator engine speed"
+        },
+        {
+            "question": "The frequency output of an operating alternator is controlled by the________.?",
+            "option1": "relative speed of the rotor poles",
+            "option2": "number of turns of wire in the armature coil",
+            "option3": "strength of the magnets used"
+        },
+        {
+            "question": "The method used to produce electron emission in most vacuum tubes is known as __________.?",
+            "option1": "thermionic emission",
+            "option2": "photoelectric emission",
+            "option3": "secondary electric emission"
+        },
+        {
+            "question": " Regarding an induction motor, the power developed by the rotor automatically adjusts itself to the ____________.?",
+            "option1": "Power required to drive the load",
+            "option2": "Power required to stop the load",
+            "option3": "Power required to run the load"
+        },
+        {
+            "question": " Two DC drive propulsion motors provide input to a single output reduction gear. Upon relieving the watch, you notice that the starboard motor indicators show zero current compared to normal voltage and current indicated on the port motor. The problem with the starboard motor could be_____.?",
+            "option1": "a tripped reverse current relay",
+            "option2": "a tripped reverse power relay",
+            "option3": "overheating of the load inverter"
+        },
+        {
+            "question": "An open primary coil in a simple transformer will be indicated by which of the listed conditions?",
+            "option1": "No voltage on the output of the secondary coil",
+            "option2": "An infinite resistance value on the secondary coil.",
+            "option3": "Low resistance value on the primary coil."
+        },
+        {
+            "question": " The variable resistance placed in the rotor circuit of a wound-rotor induction motor provides for_______?",
+            "option1": "speed control",
+            "option2": "frequency control",
+            "option3": "use as a split-phase motor"
+        },
+        {
+            "question": "The purpose of having low voltage protection for an electric motor circuit is to ___.?",
+            "option1": "prevent excessive current from developing as it is attempting to deliver its required horsepower",
+            "option2": "prevent the motor from overspeeding",
+            "option3": "protect against reversal of power in the main circuit"
+        },
+        {
+            "question": "When insulation failure produces a low resistance current path between two conductors, the resulting condition is known as ___.?",
+            "option1": "a short circuit",
+            "option2": "an open",
+            "option3": "Sparking at the brushes"
+        },
+        {
+            "question": "Magnet chatter or 'pumping' occurring in a magnetic contactor can be caused by ______________?",
+            "option1": "chattering contacts on the control relay",
+            "option2": "mechanical interference in the contacts",
+            "option3": "dirt or grease on pole faces"
+        },
+        {
+            "question": "The immovable part of an electric motor is called _______________.?",
+            "option1": "Stator",
+            "option2": "rotor",
+            "option3": "slip ring"
+        },
+        {
+            "question": "While underway onboard a DC diesel-elecric drive ship, you notice excessive sparking of the brushes on the main propulsion motor. You should first_____.?",
+            "option1": "notify the bridge that you will need to slow down",
+            "option2": "decrease the speed of the main generator",
+            "option3": "decrease the main generator voltage"
+        },
+        {
+            "question": "A low-voltage protection circuit as used in the electric motor starting euquipment, will ____.?",
+            "option1": "prevent the motor from restarting automatically on restoration of voltage",
+            "option2": "allow the motor to restart automatically on restoration of voltage without manually resetting.",
+            "option3": "trip circuit contactors when the motor develops a short circuit due to low voltage"
+        },
+        {
+            "question": " If the driving torque, such as that produced by a diesel engine, creates pulsations when coupled with a synchronous generator operating in parallel; the generator rotor may be periodically pulled ahead or behind its normal position as it rotates. This condition is sometimes called__________.?",
+            "option1": "hunting",
+            "option2": "direct coupling",
+            "option3": "harmonic coupling"
+        },
+        {
+            "question": "Which of the following statements is true concerning a polyphase synchronous propulsion motor?",
+            "option1": "The motor is started as an induction motor.",
+            "option2": "Resistance is gradually added to the rotor circuit.",
+            "option3": "The starting current is held below the rated current."
+        },
+        {
+            "question": "Before testing insulation with a megohmmeter, the windings of large machines should be grounded for about 15 minutes just prior to the test, because the ___.?",
+            "option1": "static charge of the machine may give a false reading",
+            "option2": "armature will have a greater number of leakage paths",
+            "option3": "insulation may be damaged"
+        },
+        {
+            "question": "The use of four diodes, in a full-wave bridge rectifier circuit, will_________.?",
+            "option1": "provide unidirectional current to the load",
+            "option2": "allow a very high leakage current from the load",
+            "option3": "convert direct current to alternating current"
+        },
+        {
+            "question": "On a vessel with turbo-electric drive, which of the following conditions would indicate that the propulsion motor had cut-out from synchronization with the propulsion generator?",
+            "option1": "Excessive vibration of the vessel",
+            "option2": "Tripped main motor interlocks",
+            "option3": "Overheated crosstie busses"
+        },
+        {
+            "question": "A semiconductor that decreases in resistance with an increase in temperature is known as a______ .?",
+            "option1": "thermistor",
+            "option2": "resistor",
+            "option3": "diode"
+        },
+        {
+            "question": "Autotransformer starters or compensators are sometimes used with polyphase induction motors to_______ .?",
+            "option1": "reduce the voltage applied to the motor during the starting period",
+            "option2": "increase the voltage for across-the-line starting",
+            "option3": "provide a backup means of voltage regulation for emergency starting"
+        },
+        {
+            "question": "A molded-case circuit breaker provides protection against short circuits by using a/an______ .?",
+            "option1": "electromagnet",
+            "option2": "shading coil",
+            "option3": "arc quencher"
+        },
+        {
+            "question": "Before testing insulation with a megohmmeter, the windings of large machines should be grounded for about 15 minutes before the test because the _______.?",
+            "option1": "static charge of the machine may give a false reading",
+            "option2": "armature will have a greater number of leakage paths",
+            "option3": "insulation may be damaged"
+        },
+        {
+            "question": "While on watch in the engine room at sea with only one ship's service turbine alternator on line, the entire plant suddenly blacks out without warning. After restoring power, the cause for this casualty was attributed to which of the following faults?",
+            "option1": "The micro switch at the generator throttle trip vibrated open, allowing the main breaker to open via the under voltage trip.",
+            "option2": "Someone pushed the trip button to the 'shore power' breaker.",
+            "option3": "The main air compressor suddenly stopped."
+        },
+        {
+            "question": "The shunt use in an ammeter should be connected in_______.?",
+            "option1": "series with the load and in parallel with the meter movement",
+            "option2": "parallel with the load and in series with the meter movement",
+            "option3": "parallel with the load and in parallel with the meter movemen"
+        },
+        {
+            "question": "One factor that determines the frequency of an alternator is the_______.?",
+            "option1": "number of magnetic poles",
+            "option2": "number of turns of wire in the armature coil",
+            "option3": "strength of the magnets used"
+        },
+        {
+            "question": "The function of no fuse breaker is to isolate the defective circuit from the system so as to protect it from __________.?",
+            "option1": "Overcurrent",
+            "option2": "load current",
+            "option3": "series current"
+        },
+        {
+            "question": "Moisture as a result of condensation occurring inside of the cargo winch master switches, can be reduced by______ .",
+            "option1": "using strip heaters inside the switch box",
+            "option2": "installing a light bulb in the pedestal stand",
+            "option3": "coating the switch box internals with epoxy sealer"
+        },
+        {
+            "question": "The device that most commonly utilizes the principle of electromagnetic induction is the________ .?",
+            "option1": "transformer",
+            "option2": "diode",
+            "option3": "transistor"
+        },
+        {
+            "question": "The air gap in an induction motor should be checked periodically with a feeler gauge, to prevent possible ____.?",
+            "option1": "excessive bearing wear",
+            "option2": "rotor contact with the stator",
+            "option3": "changes in armature magnetic strength"
+        },
+        {
+            "question": "Which of the listed devices is used to measure pressure and convert it to an electrical signal?",
+            "option1": "Transducer",
+            "option2": "Reducer",
+            "option3": "Transformer"
+        },
+        {
+            "question": "When a megohmmeter is used to test the insulation of a large motor, the initial dip of the pointer toward “zero” is caused by ___.?",
+            "option1": "the capacitance of the windings",
+            "option2": "good insulation",
+            "option3": "the capacitance of the circuit"
+        },
+        {
+            "question": "Autotransformer starters or compensators are sometimes used with polyphase induction motors to_______ .?",
+            "option1": "reduce the voltage applied to the motor during the starting period",
+            "option2": "increase the voltage for across-the-line starting",
+            "option3": "provide a backup means of voltage regulation for emergency starting"
+        },
+        {
+            "question": "The variable resistance placed in the rotor circuit of a wound-rotor induction motor provides for_______ .?",
+            "option1": "speed control",
+            "option2": "frequency control",
+            "option3": "voltage control"
+        },
+        {
+            "question": "The rated temperature rise of an electric motor is the ______________.?",
+            "option1": "normal temperature rise above the standard ambient temperature at rated load",
+            "option2": "average temperature at any given latitude",
+            "option3": "average temperature rise due to resistance at 10% overload"
+        },
+        {
+            "question": "Electric propulsion coupling excitation is reduced at slow speed to ________ .?",
+            "option1": "prevent coupling overheating",
+            "option2": "increase speed control",
+            "option3": "increase shaft torque"
+        },
+        {
+            "question": "In an AC synchronous motor electric propulsion plant, propeller speed is controlled by varying the_____ .?",
+            "option1": "prime mover speed",
+            "option2": "electric coupling field strength",
+            "option3": "number of energized main motor poles"
+        },
+        {
+            "question": "Before starting an electric motor after a long stoppage, the operator shall ensure that it is _______________.?",
+            "option1": "Dust free",
+            "option2": "short circuit test",
+            "option3": "clean motor"
+        },
+        {
+            "question": "While starting a main propulsion synchronous motor, the ammeter pegs out at maximum and then returns to the proper value after synchronization. This indicates the_______.?",
+            "option1": "motor has started properly",
+            "option2": "field windings are grounded",
+            "option3": "power transmission cables are grounded"
+        },
+        {
+            "question": "A motor using a rheostat in the motor circuit to vary the speed is called______ .?",
+            "option1": "wound-rotor induction motor",
+            "option2": "squirrel-cage induction motor",
+            "option3": "regenerative braking motor"
+        },
+        {
+            "question": "Which of the following statements represents the main difference between a relay and a contactor?",
+            "option1": "Contactors can handle heavier loads than relays.",
+            "option2": "Contactors control current and relays control voltage.",
+            "option3": "A relay is series connected and a contactor is parallel connected."
+        },
+        {
+            "question": "If a three-phase induction motor malfunctions and drops to a single-phase (one supply line open)____.?",
+            "option1": "the motor will continue to run if it is not heavily loaded",
+            "option2": "more torque will e developed",
+            "option3": "the motor will immediately stop and not be able to be restarted"
+        },
+        {
+            "question": "When using a megohmmeter to determine which shunt field coil is grounded in a DC machine, you must ____.?",
+            "option1": "disconnect each shunt field coil before testing",
+            "option2": "insulate the field frame from the ship’s hull",
+            "option3": "use a motor driven high capacity megohmmeter"
+        },
+        {
+            "question": "A tubular fuse should always be removed from a fuse panel with ________.?",
+            "option1": "fuse pullers",
+            "option2": "a screwdriver",
+            "option3": "a pair of insulated metal pliers"
+        },
+        {
+            "question": "Which of the following physical characteristics does a wound- rotor induction motor possess that a squirrel cage motor has none?",
+            "option1": "Slip rings",
+            "option2": "End rings",
+            "option3": "A centrifugal switch"
+        },
+        {
+            "question": "A resistance in a circuit of unknown value is to be tested using the voltmeter/ammeter method. Therefore, the meters should be connected with _________.?",
+            "option1": "the ammeter in series and the voltmeter in parallel with the resistance",
+            "option2": "both meters in series with the resistance",
+            "option3": "the ammeter in parallel and the voltmeter in series with the resistance"
+        },
+        {
+            "question": "An alternator operating in parallel begins to vibrate severely and eventually trips out on the reverse power relay. The cause of the vibration was a result of_________.?",
+            "option1": "the alternator was operating out of synchronism",
+            "option2": "flashover at the alternator collector rings",
+            "option3": "overspeeding of the vibrating alternator"
+        },
+        {
+            "question": "The induction motor usually used on board has two main components, namely _______________.?",
+            "option1": "Stator and rotator",
+            "option2": "slip rings and brushes",
+            "option3": "rotator and slip rings"
+        },
+        {
+            "question": "The leads from an ohmmeter are attached to the leads of an AC motor field coil. A reading of infinity indicates_______.?",
+            "option1": "open field coil",
+            "option2": "shorted field coi",
+            "option3": "grounded field coil"
+        },
+        {
+            "question": "While on watch in the engine room at sea with only one ship's service turbine alternator on line, the entire plant suddenly blacks out without warning. After restoring power, the cause for this casualty was attributed to which of the following faults?",
+            "option1": "The micro switch at the generator throttle trip vibrated open, allowing the main breaker to open via the under voltage trip.",
+            "option2": "Someone pushed the trip button to the 'shore power' breaker.",
+            "option3": "The main air compressor suddenly stopped."
+        },
+        {
+            "question": "An electric tachometer receives the engine speed signal from a_______?",
+            "option1": "small generator mounted on the engine",
+            "option2": "bimetallic sensing device",
+            "option3": "stroboscopic sensing device"
+        },
+        {
+            "question": "A grounded switch or cables will be indicated by a megohmmeter reading of ___.?",
+            "option1": "zero",
+            "option2": "infinity",
+            "option3": "being unsteady in the high range"
+        },
+        {
+            "question": "What is the main movable part of an electric motor?",
+            "option1": "Rotor",
+            "option2": "stator",
+            "option3": "brushes"
+        },
+        {
+            "question": "A hydrometer measures specific gravity by comparing the ____.?",
+            "option1": "buoyancy of the indicator in the liquid in water with the buoyancy of the same indicator in the liquid being measured",
+            "option2": "mass of substance measured with the density of the same substance",
+            "option3": "difference in volume between water and the liquid measured"
+        },
+        {
+            "question": "When a battery is continuously exposed to low temperatures, the best procedure to keep it from freezing is to _____.?",
+            "option1": "keep the battery fully charged",
+            "option2": "disconnect the battery",
+            "option3": "securely cover the battery"
+        },
+        {
+            "question": "When replacing a power transistor fitted with a heat sink in a circuit, a coating of silicone grease is applied between the transistor case and the heat sink. This is done to________.?",
+            "option1": "provide maximum heat transfer",
+            "option2": "provide constant heat transfer",
+            "option3": "provide minimum heat transfer"
+        },
+        {
+            "question": "When testing the rotor of a synchronous motor for short circuits, a low voltage source is applied across the rotor coils through the collector rings. A coil having a short circuit will be indicated by a_____.?",
+            "option1": "low or zero voltage drop reading, while the other coils will have higher while the other coils will have higher",
+            "option2": "high voltage drop reading, while the other coil readings will have an equal or lower value",
+            "option3": "fluctuating voltmeter reading, while the other coil readings are steady"
+        },
+        {
+            "question": "Where a thermal-acting breaker is required to be used in an area of unusually high, low, or constantly fluctuating temperatures, an ambient compensating element must be used. This element consists of a _____________.?",
+            "option1": "second bimetal element",
+            "option2": "cylindrical spring on the contact arm",
+            "option3": "conical spring on the contact arm"
+        },
+        {
+            "question": "A semiconductor that decreases in resistance with an increase in temperature is known as a______ .?",
+            "option1": "thermistor",
+            "option2": "resistor",
+            "option3": "diode"
+        },
+        {
+            "question": "You can determine if a circuit breaker has tripped by ____?",
+            "option1": "examining the position of the handle",
+            "option2": "checking for which of the breakers is warm",
+            "option3": "looking for a burned-out link"
+        },
+        {
+            "question": "Prior to using an analog type ohmmeter, the leads are purposely shorted together. Which of the following actions should be taken if, when adjusting to zero ohms, the indicating needle can not be returned to zero on the scale?",
+            "option1": "The batteries should be replaced",
+            "option2": "The lead clips should be replaced",
+            "option3": "The test reading should be added to each final reading"
+        },
+        {
+            "question": "The full torque electric brake on an electric cargo winch functions____________.?",
+            "option1": "automatically hold the load as soon as current to the machine is shut off",
+            "option2": "act as a backup brake in the event the mechanical brake  should fail",
+            "option3": "automatically govern the lowering speed of the load"
+        },
+        {
+            "question": "A motor using a rheostat in the motor circuit to vary the speed is called______ .?",
+            "option1": "wound-rotor induction motor",
+            "option2": "squirrel-cage induction motor",
+            "option3": "regenerative braking motor"
+        },
+        {
+            "question": "When the non-essential load has been removed from the feeder system but the service generator remains overloaded, this device automatically activates the _____________.?",
+            "option1": "Overcurrent tripping device",
+            "option2": "reverse current",
+            "option3": "relay"
+        },
+        {
+            "question": "Two DC drive propulsion motors provide input to a singleoutput reduction gear. Upon relieving the watch, you notice that the starboard motor indicators show zero currentcompared to normal voltage and current indicated on theport motor. The problem with the starboard motor couldbe_____.?",
+            "option1": "a tripped reverse current relay",
+            "option2": "a tripped reverse power relay",
+            "option3": "overheating of the load inverter"
+        },
+        {
+            "question": "Which of the following statements represents the important factor that must be considered when replacing a faulty diode in a generators excitation field rectifier assembly?",
+            "option1": "Be certain that the replacement diode is the same polarity as the one removed",
+            "option2": "Never alter the diode alignment to cause a change nin the neutral place",
+            "option3": "Replacement of a diode also requires balancing of the rotor with a one-piece rotor lamination to be shrunk fit and keyed to the shaft"
+        },
+        {
+            "question": "An AC generator panel is fitted with two synchronizing lamps and a synchroscope. When paralleling, if the synchroscope pointer is at the noon position and one synchronizing lamp is bright while the other remains dark, this indicates that ___.?",
+            "option1": "the generators are out of phase and one lamp is burned out",
+            "option2": "the incoming generator voltage is too low",
+            "option3": "the generators are in phase but one lamp is burned out"
+        },
+        {
+            "question": "If the centrifugal switch or relay used for cutting out the starting winding of a split-phase induction motor fails to open once the motor is in operation, the ____.?",
+            "option1": "starting winding will burn out",
+            "option2": "motor will overspeed",
+            "option3": "motor will immediately stall under load"
+        },
+        {
+            "question": "The effect of carrying field excitation excessively high on the synchronous motor will result in a ____.?",
+            "option1": "tendency for the motor to overheat",
+            "option2": "tendency for the motor to short circuit",
+            "option3": "tendency for the motor to overload"
+        },
+        {
+            "question": "The full torque electric brake on an electric cargo winch functions____________.?",
+            "option1": "automatically hold the load as soon as current to the machine is shut off",
+            "option2": "loss of motor speed regulation",
+            "option3": "tendency for the motor to overspeed"
+        },
+        {
+            "question": "AC generator operating in parallel loses its excitation without tripping the circuit breaker. This will ____.?",
+            "option1": "cause high currents to be induced in the field windings",
+            "option2": "increase the output amperage between the armature and the bus",
+            "option3": "cause the slip rings to melt"
+        },
+        {
+            "question": "The current at which a magnetic-type overload relay tends to trip may be decreased by raising the plunger further into the magnetic circuit of the relay. This action ___.?",
+            "option1": "increases magnetic pull on the plunger and requires less current to trip the relay",
+            "option2": "increases magnetic pull on the plunger and requires more current to trip the relay",
+            "option3": "reduces magnetic pull on the plunger and requires less current to trip the relay"
+        },
+        {
+            "question": "Which of the following electric motors would be the safest and most reliable to use on the main deck of a vessel in foul weather conditions?",
+            "option1": "Watertight motors",
+            "option2": "Sealed motors",
+            "option3": "Drip proof motors"
+        },
+        {
+            "question": "The air gap in an induction motor should be checked periodically with a feeler gage, to prevent possible ____.?",
+            "option1": "excessive bearing wear",
+            "option2": "rotor contact with the stator",
+            "option3": "changes in armature magnetic strength"
+        },
+        {
+            "question": "The output voltage of a 440 volt, 60 hertz, AC generator is controlled by the____ .?",
+            "option1": "exciter output voltage",
+            "option2": "prime mover speed",
+            "option3": "load on the alternator"
+        },
+        {
+            "question": "When a battery is continuously exposed to low temperature, the best procedure to keep it from freezing is to _____.?",
+            "option1": "keep the battery fully charged",
+            "option2": "disconnect the battery",
+            "option3": "securely cover the battery"
+        },
+        {
+            "question": "You are reconnecting to a three-phase induction motor to the supply line. To prevent possible damage to the load, due to the wrong direction of rotation, you should ____.?",
+            "option1": "check the supply line phase sequence, and motor rotation with appropriate indicators, then connect correspondingly marked leads ",
+            "option2": "connect the phase indicator to the supply voltage then connect the motor",
+            "option3": "connect the phase indicator to the motor leads, rotate the motor by hand and then connect to the supply voltage."
+        },
+        {
+            "question": "The leads from a ohmmeter are attached to the leads of an AC motor field coil. A reading of infinity is obtained indicating a/an_______.?",
+            "option1": "open field coil",
+            "option2": "shorted field coil",
+            "option3": "grounded field coil"
+        },
+        {
+            "question": "An ohmmeter reading of 'zero' ohms between the ends of a wire conductor would provide a positive indication of______.?",
+            "option1": "continuity",
+            "option2": "a partial ground",
+            "option3": "open circuit"
+        },
+        {
+            "question": "If the driving torque, such as that produced by a diesel engine, creates pulsations when coupled with a synchronous generator operating in parallel; the generator rotor may be periodically pulled ahead or behind its normal position as it rotates. This condition is sometimes called _____________.?",
+            "option1": "Hunting",
+            "option2": "direct coupling",
+            "option3": "peaking"
+        },
+        {
+            "question": "Choose from the equipment below which are NOT fitted to the generator trouble detecting system is an _______.?",
+            "option1": "Overvoltage trip device",
+            "option2": "overcurrent",
+            "option3": "over relay"
+        },
+        {
+            "question": "On a main switchboard, If all three ground detection lamps burn with equal intensity when the test button is depressed, which of the listed conditions is indicated?",
+            "option1": "The bulbs are operating properly",
+            "option2": "All three phases are grounded",
+            "option3": "there are grounds in two of the three phases"
+        },
+        {
+            "question": "What is the common type of AC motor used onboard which can also operates on direct current?",
+            "option1": "Series-wound",
+            "option2": "parallel-wound",
+            "option3": "constant-wound"
+        },
+        {
+            "question": "The output voltage of a 440 volt, 60 hertz, AC generator is controlled by the____?",
+            "option1": "exciter output voltage",
+            "option2": "prime mover speed",
+            "option3": "load on the alternator"
+        },
+        {
+            "question": "An accidental path of low resistance, allowing passage of abnormal amount of current is known as a/an_______?",
+            "option1": "short circuit",
+            "option2": "open circuit",
+            "option3": "polarized ground"
+        },
+        {
+            "question": "Where a thermal-acting breaker is required to be used in an area of unusually high, low, or constantly fluctuating temperatures, an ambient compensating element must be used. This element consists of a _____________.?",
+            "option1": "second bimetal element",
+            "option2": "cylindrical spring on the contact arm",
+            "option3": "conical spring on the contact arm"
+        },
+        {
+            "question": "On a main switchboard, If all three ground detection lamps burn with equal intensity when the test button is depressed, which of the listed conditions is indicated?",
+            "option1": "The bulbs are operating properly",
+            "option2": "there are grounds in two of the three phases",
+            "option3": "the voltage to the dark lamp is less than that of the system"
+        },
+        {
+            "question": "An insulation resistance test is performed on a particular piece of electric instrument. In addition to the resistance reading, what information listed below should be entered in the electrical log?",
+            "option1": "The temperature of the machine at the time the resistance reading was taken",
+            "option2": "The maximum allowable operating temperature of the machine",
+            "option3": "The normal temperature rise of the machine"
+        },
+        {
+            "question": "The frequency output of an operating alternator is controlled by the________.?",
+            "option1": "relative speed of the rotor poles",
+            "option2": "number of turns of wire in the armature coil",
+            "option3": "strength of the magnets used"
+        },
+        {
+            "question": "The synchronous motors excitation source usually comes from _____________.?",
+            "option1": "DC supply",
+            "option2": "AC supply",
+            "option3": "Overload"
+        },
+        {
+            "question": "A tubular fuse should always be removed from a fuse panel with ________.?",
+            "option1": "fuse pullers",
+            "option2": "a screwdriver",
+            "option3": "a pair of insulated metal pliers"
+        },
+        {
+            "question": "The timer element found in a reverse power relay obtains its operating torque from________ .?",
+            "option1": "electromagnets",
+            "option2": "a separate battery source",
+            "option3": "line voltage"
+        },
+        {
+            "question": "Which of the following statements concerning analog and digital devices are correct?",
+            "option1": "The variables in digital systems are fixed quantities and the variables in analog systems are continuous quantities.",
+            "option2": "There are no basic differences between the two systems.",
+            "option3": "Analog devices are superior in accuracy compared to digital devices."
+        },
+        {
+            "question": "Before touching a small capacitor connected to a de- energized circuit, or even one that is completely disconnected, you should _____.?",
+            "option1": "short circuit the terminals to make sure that the capacitor is discharged",
+            "option2": "Bbe equipped with an insulated fuse puller",
+            "option3": "tag it with a de-energized tag"
+        }
+    ]
+}

@@ -1,0 +1,540 @@
+	   {"quizlist" :[
+	{
+	"question":"You are fighting a fire in the electrical switchboard in the engine room. You should secure the power, then __________.",
+	"option1":"use a portable CO2 extinguisher",
+	"option2":"use water to extinguish the fire",
+	"option3":"use a portable dry chemical extinguisher"
+	},
+	{
+	"question":"You are underway when a fire breaks out in the forward part of your vessel. If possible you should __________.?",
+	"option1":"put the vessel's stern into the wind",
+	"option2":"put the vessel's port side into the wind",
+	"option3":"jump overboard"
+	},
+	{
+	"question":"You are fighting a fire in the electrical switchboard in the engine room. After securing the power, what should you do?",
+	"option1":"Use a portable CO2 extinguisher",
+	"option2":"splash water until fire is extinguished",
+	"option3":"call for help to extinguish the fire"
+	},
+	{
+	"question":"At the required fire drill, all persons must report to their stations and demonstrate their ability to perform duties assigned to them ________.?",
+	"option1":"In the Muster List (“Station Bill”)",
+	"option2":"At the previous safety meeting",
+	"option3":"By the Coast Guard regulations"
+	},
+	{
+	"question":"The supply of carbon dioxide used in a fixed extinguishing system aboard a cargo vessel MUST be at least sufficient for __________.?",
+	"option1":"the space requiring the largest amount",
+	"option2":"the engine room and largest cargo space",
+	"option3":"all cargo spaces"
+	},
+	{
+	"question":"How is foam extinguishes fire?",
+	"option1":"Smothering",
+	"option2":"starving",
+	"option3":"cooling"
+	},
+	{
+	"question":"Which extinguishing agent is most likely to allow reflash as a result of not cooling the fuel below its ignition temperature?",
+	"option1":"CO2",
+	"option2":"foam",
+	"option3":"water"
+	},
+	{
+	"question":"In the event of fire, doors to a stair case must be closed to prevent the spread of fire in what way?",
+	"option1":"Convection",
+	"option2":"radiation",
+	"option3":"Conduction"
+	},
+	{
+	"question":"What activates fire alarm system thermostats?",
+	"option1":"The difference in thermal expansion of two dissimilar metals",
+	"option2":"The smoke temperature",
+	"option3":"The melting of two dissimilar metals"
+	},
+	{
+	"question":"A fire can spread by 'convection' as a result of what?",
+	"option1":"Hot combustion gases flowing through ventilation systems",
+	"option2":"Flow of heat through a conductible material",
+	"option3":"Transfer of heat by rays or waves"
+	},
+	{
+	"question":"On an inspection of your tankship you notice that there are no portable fire extinguishers in the pumproom. To comply with regulations, you__________.?",
+	"option1":"should arrange to have a B-II extinguisher placed in the lower pumproom",
+	"option2":"should arrange to have a B-I extinguisher placed in the lower pumproom",
+	"option3":"should arrange to have a B-III extinguisher placed in the lower pumproom"
+	},
+	{
+	"question":"A branch line valve of a fixed fire extinguishing system on a MODU must be marked with the what information?",
+	"option1":"Name of the space or spaces which it serves",
+	"option2":"Name of the manufacturer's information",
+	"option3":"Class of fire it can extinguish"
+	},
+	{
+	"question":"Combustible gas indicator is operated by drawing an air sample into the instrument_______.?",
+	"option1":"over an electrically heated platinum filament",
+	"option2":"main sensor",
+	"option3":"over an electrically heated aluminum filament"
+	},
+	{
+	"question":"A class 'B' fire would most likely occur in the_______.?",
+	"option1":"engine room bilge",
+	"option2":"accomodation",
+	"option3":"bridge"
+	},
+	{
+	"question":"A fire is considered 'under control' when_________.?",
+	"option1":"the fire is contained and no longer spreading",
+	"option2":"only smoke is visible",
+	"option3":"fire is no longer visible"
+	},
+	{
+	"question":"Except in rare cases, it is impossible to extinguish a shipboard fire by________.?",
+	"option1":"removing the fuel",
+	"option2":"removing the combustible materials",
+	"option3":"removing oxygen"
+	},
+	{
+	"question":"What is the function of the bypass valve on the self-contained breathing apparatus",
+	"option1":"Allow the wearer to manually give himself oxygen",
+	"option2":"Allow the wearer to minimize his breathing",
+	"option3":"Allow the wearer to lessen the oxygen depletion"
+	},
+	{
+	"question":"A fire in a pile of dunnage would be classified as a_______.?",
+	"option1":"class A",
+	"option2":"class B",
+	"option3":"class C"
+	},
+	{
+	"question":"What is required in addition to the heat, fuel, and oxygen of the fire triangle to have a fire?",
+	"option1":"Chain reaction",
+	"option2":"Combustible material",
+	"option3":"Atmospheric pressure"
+	},
+	{
+	"question":"Which fire extinguishing agent has the greatest capacity for absorbing heat?",
+	"option1":"Water",
+	"option2":"CO2",
+	"option3":"Foam"
+	},
+	{
+	"question":"How does foam extinguish an oil fire?",
+	"option1":"By excluding the oxygen from the fire",
+	"option2":"By excluding the heat from the fire",
+	"option3":"By excluding the fire itself"
+	},
+	{
+	"question":"A burning AC motor would be considered what class of fire?",
+	"option1":"Class C",
+	"option2":"Class A",
+	"option3":"Class B"
+	},
+	{
+	"question":"When using a mechanical foam to fight a bilge fire, the stream of foam is most effective when directed_____________.",
+	"option1":"at a vertical surface",
+	"option2":"at a diagonal surface",
+	"option3":"at a horizontal surface"
+	},
+
+	{
+	"question":"How does foam extinguish an oil fire?",
+	"option1":"By excluding the oxygen from the fire",
+	"option2":"By excluding the heat from the fire",
+	"option3":"By excluding the fire itself"
+	},	{
+	"question":"How often shall crew members participate in fire drills?",
+	"option1":"Once every month",
+	"option2":"Once every week",
+	"option3":"Once every two months"
+	},
+	{
+	"question":"Annual servicing of a hand portable CO2 fire extinguisher includes_____________ .?",
+	"option1":"weighing the cylinder and recharging if weight loss exceeds 10% of the weight of the charge",
+	"option2":"weighing the cylinder and recharging if weight loss exceeds 15% of the weight of the charge",
+	"option3":"weighing the cylinder and recharging if weight loss exceeds 20% of the weight of the charge"
+	},
+	{
+	"question":"The best way to combat an engine room bilge fire is through the use of a___________.",
+	"option1":"foam extinguisher and low velocity water fog",
+	"option2":"CO2 extinguisher and high velocity water fog",
+	"option3":"foam extinguisher and very high velocity water fog"
+	},	{
+	"question":"Which is the best way to combat an engine room bilge fire?",
+	"option1":"Through the use of foam extinguisher and low velocity water fog",
+	"option2":"Through CO2 extinguisher and high velocity water fog",
+	"option3":"Through foam extinguisher and high velocity water fog"
+	},	{
+	"question":"If a small fire initially breaks out in the engine room bilges, which of the following sequences should the fire extinguishing agents or systems be used?",
+	"option1":"Hand portable, semi- portable CO2, then as a last resort the fixed CO2 system.",
+	"option2":"semi- portable CO2,hand portable, then as a last resort the fixed CO2 system ",
+	"option3":"Fixed CO2 system,semi- portable CO2, then as a last resort the hand portable "
+	},
+	{
+	"question":"What is the purpose of corrosion resistant sceen in the fuel vents",
+	"option1":"To prevent flames entering the tank vent",
+	"option2":"To prevent oxygen entering the tank vent",
+	"option3":"To prevent smoke entering the tank vent"
+	},
+	{
+	"question":"When two fire hose teams are attacking a fire, what should they do or not do?",
+	"option1":"Do not attack the fire from opposite sides",
+	"option2":"Attack the fire from opposite sides",
+	"option3":"Attack the fire alternately"
+	},
+	{
+	"question":"If a firefighting situation calls for low-velocity fog you would __________.?",
+	"option1":"attach a low-velocity fog applicator with the nozzle shut down",
+	"option2":"attach a low-velocity fog applicator with the nozzle open",
+	"option3":"attach a low-velocity fog applicator with the nozzle half open"
+	},	{
+	"question":"Foam extinguishes fire by_____.",
+	"option1":"smothering",
+	"option2":"starving",
+	"option3":"cooling"
+	},
+	{
+	"question":"Which among the choices is an example of class D fire?",
+	"option1":"Magnesium",
+	"option2":"Electrical appliance",
+	"option3":"Wood"
+	},
+	{
+	"question":"Fighting an oil rig fire in a watertight compartment with hoses, what could reduce the stability of the rig?",
+	"option1":"A list of the vessel due to the water accumutation in the compartment",
+	"option2":"Reduce the level of drill water from the storage tanks",
+	"option3":"Reduce the KG to minimum allowable"
+	},
+	{
+	"question":"What class of fire is a galley grease fire?",
+	"option1":"Class B",
+	"option2":"Class C",
+	"option3":"Class D"
+	},
+	{
+	"question":"The total available supply of CO2 for use in a fixed extinguishing system of a cargo vessel shall be at least sufficient for_________________?",
+	"option1":"Space requiring largest amount",
+	"option2":"Uruguay",
+	"option3":"Colombia"
+	},
+	{
+	"question":"Which one is class C fire?",
+	"option1":"Electrical insulation",
+	"option2":"Fire on fuel oil pipeline",
+	"option3":"Burning aluminum"
+	},
+	{
+	"question":"All of the following are part of the fire triangle EXCEPT __________.?",
+	"option1":"electricity",
+	"option2":"Heat",
+	"option3":"Fuel"
+	},
+	{
+	"question":"What do you call a chemical, as listed on a Material Safety Data Sheet (MSDS) that supplies oxygen required to start or support fire?",
+	"option1":"Oxidizer",
+	"option2":"Toxic",
+	"option3":"Flammable"
+	},
+	{
+	"question":"A galley grease fire would be classified as",
+	"option1":"Class B",
+	"option2":"Class C",
+	"option3":"Class A"
+	},
+	{
+	"question":"Which is not a part of the fire triangle?",
+	"option1":"Electricity",
+	"option2":"Oxygen",
+	"option3":"Heat"
+	},
+	{
+	"question":"In the event of a fire, the doors to a stair tower must be closed to prevent the spread of fire by_______.",
+	"option1":"convection",
+	"option2":"Radiation",
+	"option3":"Convection"
+	},
+	{
+	"question":"Except in rare cases, which one is impossible when extinguishing a shipboard fire?",
+	"option1":"Removing the fuel",
+	"option2":"Removing oxygen",
+	"option3":"Removing heat"
+	},
+	{
+	"question":"Where can you see your assigned duties during fire drill?",
+	"option1":"In the Muster List or Station Bill",
+	"option2":"Bill book",
+	"option3":"Log book"
+	},
+	{
+	"question":"The function of the bypass valve on the self-contained breathing apparatus is to __________.?",
+	"option1":"allow the wearer to manually give himself oxygen",
+	"option2":"For the easy passage of oxygen",
+	"option3":"To remove excess air inside the brating apparatus"
+	},
+	{
+	"question":"Which among the choices is included in the Annual servicing of a hand portable CO2 fire extinguisher?",
+	"option1":"Weighing the cylinder and recharging if weight loss exceeds 10% of the weight of the charge",
+	"option2":"Weighing the cylinder and recharging if weight loss exceeds 15% of the weight of the charge",
+	"option3":"Weighing the cylinder and recharging if weight loss exceeds 5% of the weight of the charge"
+	},
+	{
+	"question":"Except in rare cases, it is impossible to extinguish a shipboard fire by ______.?",
+	"option1":"removing the fuel",
+	"option2":"Removing oxygen",
+	"option3":"Removing heat"
+	},
+	{
+	"question":"Extinguishing oil fire is very effective when__________.",
+	"option1":"cutting off oxygen source",
+	"option2":"Cutting off fuel supply ",
+	"option3":"By the way of cooling"
+	},
+	{
+	"question":"When two fire hose teams are attacking a fire, what should they do or not do",
+	"option1":"Do not attack the fire from opposite sides",
+	"option2":"Attack the fire in the opposite sides",
+	"option3":"Attack the fire in the center only"
+	},
+	{
+	"question":"What is the best way to combat an engine room bilge fire?",
+	"option1":"Foam extinguisher and low velocity water fog",
+	"option2":"CO2 extinguisher",
+	"option3":"Chemical extinguisher"
+	},
+	{
+	"question":"Which of the following classes of fire would probably occur in the engine room bilges?",
+	"option1":"Class B",
+	"option2":"Class A",
+	"option3":"Class c"
+	},
+	{
+	"question":"Which extinguishing agent is most likely to allow reflash as a result of not cooling the fuel below its ignition temperature?",
+	"option1":"CO2",
+	"option2":"Foam",
+	"option3":"Water"
+	},
+	{
+	"question":"You are fighting a class 'B' fire with a portable dry chemical extinguisher. Where should the discharge be directed?",
+	"option1":"At the seat of the fire, starting at the near edge",
+	"option2":"At the seat of the fire,starting at the center",
+	"option3":"At the seat of the fire,starting at any location "
+	},
+	{
+	"question":"A fire is considered 'under control when_________________ .?",
+	"option1":"the fire is contained and no longer spreading",
+	"option2":"The fire is contained and no explosion",
+	"option3":"The fire is contained and there have no smoke "
+	},
+	{
+	"question":"A CO2 fire extinguisher provided aboard a MODU has lost 10% of its charge. What should be done?",
+	"option1":"It must be recharged",
+	"option2":"IT is still capable to use ",
+	"option3":"Replace the fire extinguisher"
+	},
+	{
+	"question":"Valves on steam-smothering lines to cargo tanks shall be set with __________.?",
+	"option1":"The master control valve shut and valves to individual cargo tanks open",
+	"option2":"The master control valve shut and valves to individual cargo tanks close",
+	"option3":"The master control valve open and valves to individual cargo tanks open"
+	},
+	{
+	"question":"What arrangement must valves on steam-smothering lines to cargo tanks be set?",
+	"option1":"The master control valve shut and valves to individual cargo tanks open",
+	"option2":"The master control valve open and valves to individual cargo tanks open",
+	"option3":"The master control valve shut and valves to individual cargo tanks close"
+	},
+	{
+	"question":"A burning mattress is considered as which of the following classes of fire?",
+	"option1":"Class A",
+	"option2":"Class B",
+	"option3":"Class C"
+	},
+	{
+	"question":"On an inspection of your tankship you notice that there are no portable fire extinguishers in the pumproom. To comply with regulations, you __________.?",
+	"option1":"should arrange to have a B-II extinguisher placed in the lower pumproom",
+	"option2":"should arrange to have a B-III extinguisher placed in the upper pumproom",
+	"option3":"should arrange to have a B-IV extinguisher placed in the lower pumproom"
+	},
+	{
+	"question":"On an inspection of your tankship you notice that there are no portable fire extinguishers in the pumproom. To comply with regulations, you__________.?",
+	"option1":"should arrange to have a B-II extinguisher placed in the lower pumproom",
+	"option2":"should arrange to have a B-III extinguisher placed in the upper pumproom",
+	"option3":"should arrange to have a B-IV extinguisher placed in the lower pumproom"
+	},
+	{
+	"question":"Except in rare cases, it is impossible to extinguish a shipboard fire by __________.?",
+	"option1":"removing the fuel",
+	"option2":"removing oxygen",
+	"option3":"removing heat"
+	},
+	{
+	"question":"Which is the best way to combat an engine room bilge fire?",
+	"option1":"Through the use of foam extinguisher and low velocity water fog",
+	"option2":"CO2 extinguisher",
+	"option3":"Chemical extinguisher"
+	},
+	{
+	"question":"Combustible gas indicator is operated by drawing an air sample into the instrument_______.?",
+	"option1":"over an electrically heated platinum filament",
+	"option2":"over an electrically heated magnesiun filament",
+	"option3":"over an electrically heated aluminum filament"
+	},
+	{
+	"question":"A cut-off valve in the fire main system of a MODU may be closed to protect a portion of the system on an exposed deck from which factor?",
+	"option1":"Freezing",
+	"option2":"Boilling",
+	"option3":"evaporating"
+	},
+	{
+	"question":"In the event of fire, doors to a stair case must be closed to prevent the spread of fire in what way?",
+	"option1":"Convection",
+	"option2":"Conduction",
+	"option3":"Radiation"
+	},
+	{
+	"question":"When using a mechanical foam to fight a bilge fire, the stream of foam is most effective when directed ______?",
+	"option1":"at a vertical surface",
+	"option2":"at the center of the fire",
+	"option3":"start at any location"
+	},
+	{
+	"question":"Which among the choices oil fire can be best extinguished?",
+	"option1":"Cutting off oxygen source",
+	"option2":"Cutting of fuel oil supply",
+	"option3":"Lowering its temperature"
+	},
+	{
+	"question":"A definite advantage of using water as a fire extinguishing agent is its characteristic of __________.?",
+	"option1":"rapid expansion as water absorbs heat and changes to steam",
+	"option2":"slower expansion as water absorbs heat and changes to steam",
+	"option3":"rapid expansion as water removes heat and changes to steam"
+	},
+	{
+	"question":"The total available supply of CO2 for use in a fixed extinguishing system of a cargo vessel shall be at least sufficient for what space",
+	"option1":"Space requiring largest amount",
+	"option2":"Depends upon the company",
+	"option3":"space requiring small amount"
+	},
+	{
+	"question":"What arrangement must valves on steam-smothering lines to cargo tanks be set?",
+	"option1":"The master control valve shut and valves to individual cargo tanks open",
+	"option2":"The master control valve shut and valves to individual cargo tanks shut",
+	"option3":"The master control valve open and valves to individual cargo tanks shut"
+	},
+	{
+	"question":"A class 'D' fire would involve the burning of__________.?",
+	"option1":"magnesium",
+	"option2":"wood",
+	"option3":"oil"
+	},
+	{
+	"question":"You are underway when a fire breaks out in the forward part of your vessel. What should you possibly do?",
+	"option1":"Put the vessel's stern into the wind",
+	"option2":"Call for assistance",
+	"option3":"Abandon ship to windward"
+	},
+	{
+	"question":"How can a fire in an oil rig ballast pump room be brought under control with minimal impact on stability?",
+	"option1":"Shut all sources of air into the compartment",
+	"option2":"Close the sea chest",
+	"option3":"Flood the compartment with salt water"
+	},
+	{
+	"question":"If a firefighting situation calls for low-velocity fog you would __________.?",
+	"option1":"attach a low-velocity fog applicator with the nozzle shut down",
+	"option2":". order the engine room to reduce pressure on the fire pump",
+	"option3":"put the lever on an all-purpose fire nozzle all the way forward"
+	},
+	{
+	"question":"What is the definite advantage of using water as a fire extinguishing agent?",
+	"option1":"Rapid expansion as water absorbs heat and changes to steam",
+	"option2":"Alternate expansion and contraction as water in a liquid state becomes a vapor",
+	"option3":"Absorption of smoke and gases as water is converted from a liquid to a vapor"
+	},
+	{
+	"question":"The supply of carbon dioxide used in a fixed extinguishing system aboard a cargo vessel MUST be at least sufficient for __________?",
+	"option1":"the space requiring the largest amount",
+	"option2":"the engine room and largest cargo space",
+	"option3":"all cargo spaces"
+	},
+	{
+	"question":"Where is a class B fire would most likely to occur?",
+	"option1":"Engine room bilge",
+	"option2":"Main switchboard",
+	"option3":"Breathing compartment"
+	},
+	{
+	"question":"When can you declare a fire is under control?",
+	"option1":"The fire is contained and no longer spreading",
+	"option2":"All hands are at their fire stations",
+	"option3":"All firefighting equipment is at the scene"
+	},
+	{
+	"question":"What is required in addition to the heat, fuel, and oxygen of the fire triangle to have a fire?",
+	"option1":"Chain reaction",
+	"option2":"Pressure",
+	"option3":"Smoke"
+	},
+	{
+	"question":"You are fighting a class 'B' fire with a portable dry chemical extinguisher. The discharge should be directed __________?",
+	"option1":"at the seat of the fire, starting at the near edge",
+	"option2":"To bank off a bulkhead onto the fire",
+	"option3":"Over the top of the fire"
+	},
+	{
+	"question":"When is the best time to vent the combustible products from the engine room after CO2 fire extinguishing system has released?",
+	"option1":"After the metal surfaces have cooled down.",
+	"option2":"Immediately after the fire is extinguished.",
+	"option3":"One half-hour after the fire is extinguished."
+	},
+	{
+	"question":"What is the function of the bypass valve on the self-contained breathing apparatus?",
+	"option1":"Allow the wearer to manually give himself oxygen",
+	"option2":"Control the pressure of the oxygen as it enters the body",
+	"option3":"Release excess heat which would otherwise cause the bottle to explode"
+	},
+	{
+	"question":"Fuel vents are fitted with corrosion resistant screen to prevent________?",
+	"option1":"flames entering the tank vent",
+	"option2":"escape of flammable vapors",
+	"option3":"corrosion in the tank vent"
+	},
+	{
+	"question":"Fire alarm system thermostats are actuated by_________?",
+	"option1":"the difference in thermal expansion of two dissimilar metals",
+	"option2":"Smoke sensors",
+	"option3":"Pressure loss due to air being heated"
+	},
+	{
+	"question":"Except in rare cases, it is impossible to extinguish a shipboard fire by ______?",
+	"option1":"removing the fuel",
+	"option2":"interrupting the chain reaction",
+	"option3":"removing the oxygen"
+	},	{
+	"question":"When two fire hose teams are attacking a fire they should __________?",
+	"option1":"not attack the fire from opposite sides",
+	"option2":"Do use different fire hose pressures",
+	"option3":"Do use fire hoses of different sizes"
+	},	{
+	"question":"The smoke detector (fire indicator) indicates fire in a cargo hold loaded by general cargo. What first action should be taken?",
+	"option1":"Close the ventilation system and other openings to the hold in order to choke the fire",
+	"option2":"Use the ship's gas extinguishing central system to put out the fire",
+	"option3":"Inspect the scene before deciding the method to be used for fire-fighting"
+	},	{
+	"question":"A fire can spread by 'convection' as a result of a_____________?",
+	"option1":"hot combustion gases flowing through ventilation systems",
+	"option2":"The transfer of heat across an unobstructed space",
+	"option3":"The transfer of heat across an unobstructed space"
+	},	{
+	"question":"When using mechanical foam to fight a bilge fire, when is the stream of foam is most effective?",
+	"option1":"When directed at a vertical surface",
+	"option2":"When directed onto the deck",
+	"option3":"When directed directly into the bilge water"
+	},	{
+	"question":"You are fighting a class 'B' fire with a portable dry chemical extinguisher. The discharge should be directed __________?",
+	"option1":"at the seat of the fire, starting at the near edge",
+	"option2":"to bank off a bulkhead onto the fire",
+	"option3":"over the top of the fire"
+	}
+]}

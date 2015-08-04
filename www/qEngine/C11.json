@@ -1,0 +1,796 @@
+{
+    "quizlist": [
+        {
+            "question": "What is a danger of a half full tank onboard tanker vessel?",
+            "option1": "Loss of stability due to free surface effect",
+            "option2": "Corrosion from the shifting liquid",
+            "option3": "Rupturing of bulkheads from the shifting liquid"
+        },
+        {
+            "question": "Your vessel rolls slowly and sluggishly. This indicates that the vessel __________.?",
+            "option1": "has poor stability",
+            "option2": "has off-center weights",
+            "option3": "has a greater draft forward than aft"
+        },
+        {
+            "question": "The purpose of the inclining experiment is to____________.?",
+            "option1": "determine the lightweight center of gravity location",
+            "option2": "To determine the location of the metacenter",
+            "option3": "To verify the hydrostatic data"
+        },
+        {
+            "question": "What is the point to which vessel's center of gravity (G) may rise and still permit the vessel to have positive stability?",
+            "option1": "Metacenter",
+            "option2": "Metacentric point",
+            "option3": "Metacentric radius"
+        },
+        {
+            "question": "The purpose of the inclining experiment is to __________.?",
+            "option1": "determine the lightweight center of gravity location",
+            "option2": "To determine the location of the metacenter",
+            "option3": "To verify the hydrostatic data"
+        },
+        {
+            "question": "When a vessel rolls slowly and sluggishly, what does this indicate?",
+            "option1": "Vessel has poor stability",
+            "option2": "Vessel has off-center weights",
+            "option3": "Vessel has a greater draft forward than aft"
+        },
+        {
+            "question": "The value of KM at any draft may be taken from the______.?",
+            "option1": "Hydrostatic Table",
+            "option2": "Building plans of the ship",
+            "option3": "Trimming Table"
+        },
+        {
+            "question": "A vessel's stability is greatly reduced by liquid free surface. Which of the listed conditions would develop the greatest adverse effect?",
+            "option1": "Tanks which are 40% full.",
+            "option2": "Tanks which are 95% full.",
+            "option3": "Tanks which have been pressed up to full capacity."
+        },
+        {
+            "question": "With no environmental forces present, where is the center of gravity of an inclined vessel vertically aligned with?",
+            "option1": "center of buoyancy",
+            "option2": "longitudinal centerline",
+            "option3": "center of flotation"
+        },
+        {
+            "question": "What is the purpose of bilge keels?",
+            "option1": "Reduce the amplitude of roll",
+            "option2": "Lower the center of gravity of the ship",
+            "option3": "Reduce pitching"
+        },
+        {
+            "question": "What represents the center of gravity?",
+            "option1": "G",
+            "option2": "GZ",
+            "option3": "M"
+        },
+        {
+            "question": "What caused a vessel trimmed down by the bow?",
+            "option1": "A greater draft forward than aft",
+            "option2": "Zero trim",
+            "option3": "A low mean draft"
+        },
+        {
+            "question": "For a MODU with trim, what will happen to the angle of inclination when there is a decrease in GMT?",
+            "option1": "It will increase",
+            "option2": "It will decrease",
+            "option3": "It will remain constant"
+        },
+        {
+            "question": "What will happen if the displacement of a vessel increases?",
+            "option1": "The detrimental effect of free surface decreases",
+            "option2": "The detrimental effect of free surfaceincreases",
+            "option3": "It remains the same"
+        },
+        {
+            "question": "What indicates the quality of initial stability",
+            "option1": "GM",
+            "option2": "KM",
+            "option3": "Deck load"
+        },
+        {
+            "question": "Your vessel rolls slowly and sluggishly. This indicates that the vessel __________.?",
+            "option1": "has poor stability",
+            "option2": "Vessel has off-center weights",
+            "option3": "Vessel has a greater draft forward than aft"
+        },
+        {
+            "question": "Which factor has the greatest effect on the value of the free surface correction?",
+            "option1": "The width of the tank",
+            "option2": "The length of the tank",
+            "option3": "The draft of the vessel"
+        },
+        {
+            "question": "What do you call the stress when compression is being placed on the sheer strakes of the vessel?",
+            "option1": "Sagging",
+            "option2": "Under shearing force",
+            "option3": "Inclined"
+        },
+        {
+            "question": "The quality of initial stability is indicated by_________ .?",
+            "option1": "GM",
+            "option2": "KM",
+            "option3": "Deck load"
+        },
+        {
+            "question": "As the displacement of a vessel increases, the detrimental effect of free surface __________.?",
+            "option1": "decreases",
+            "option2": "increases",
+            "option3": "remains the same"
+        },
+        {
+            "question": "Which does NOT affect the value of the free surface correction?",
+            "option1": "Registered tonnage",
+            "option2": "Width of the tank",
+            "option3": "Length of the tank"
+        },
+        {
+            "question": "Freeboard is a measure of____________.?",
+            "option1": "the amount of reserve bouyancy",
+            "option2": "The amount of reserve bouyancy",
+            "option3": "both option 1 & 2"
+        },
+        {
+            "question": "Freeboard is a measure of what?",
+            "option1": "The amount of reserve bouyancy",
+            "option2": "The initial stability of the vessel",
+            "option3": "GM"
+        },
+        {
+            "question": "What must be accurately determined to assess the potential for progressive flooding after a vessel has been damaged?",
+            "option1": "The integrity of the water tight boundaries",
+            "option2": "The integrity of the water tight",
+            "option3": "Nethier option 1 and 2"
+        },
+        {
+            "question": "In a longitudinally framed vessel, the longitudinal frames are held in place and supported by athwartship members called______.?",
+            "option1": "web frames",
+            "option2": "Stringers",
+            "option3": "Margin plates"
+        },
+        {
+            "question": "In small angle stability, when external forces exist, thebuoyant force is assumed to act vertically upwards through the center of buoyancy and through which point.?",
+            "option1": "Metacenter",
+            "option2": "Center of gravity",
+            "option3": "Center of flotation"
+        },
+        {
+            "question": "What is a longitudinal stability indicates?",
+            "option1": "The tendency of a ship to resist a change in trim",
+            "option2": "The tendency of a ship to resist change in list",
+            "option3": "The tendency of a ship to resist a change in mean draft"
+        },
+        {
+            "question": "What happens when there is a continual change in the list, or trim of any floating MODU?",
+            "option1": "Progressive flooding",
+            "option2": "Negative 'GM'",
+            "option3": "Structural failure"
+        },
+        {
+            "question": "Control of flooding should be addressed __________.?",
+            "option1": "following control of fire",
+            "option2": "first",
+            "option3": "following restoration of vital services"
+        },
+        {
+            "question": "Which abbreviation refers to the horizontal distance between perpendiculars taken at the forward-most and the after-most points on a small passenger vessel's waterline at her deepest operating draft?",
+            "option1": "LBP",
+            "option2": "LOA",
+            "option3": "LWL"
+        },
+        {
+            "question": "The purpose of bilge keels is to _______________.?",
+            "option1": "reduce the amplitude of roll",
+            "option2": "Lower the center of gravity of the ship",
+            "option3": "Reduce pitching"
+        },
+        {
+            "question": "In small angle stability, when external forces exist, the buoyant force is assumed to act vertically upwards through the center of buoyancy and through which point?",
+            "option1": "Metacenter",
+            "option2": "Metacentric point",
+            "option3": "Metacentric radius"
+        },
+        {
+            "question": "GM' cannot be used as an indicator of stability at all angles of inclination because___________ .?",
+            "option1": "'M' is not fixed at large angles",
+            "option2": "'M' is not fixed at small angles angles",
+            "option3": "Neither option 1 and 2"
+        },
+        {
+            "question": "The volume of all watertight enclosed spaces above water line is called_________.?",
+            "option1": "reserved bouyancy",
+            "option2": "Freeboard",
+            "option3": "Free surface"
+        },
+        {
+            "question": "For a ship tank which carries liquid, when will it become dangerous to the stability of a vessel?",
+            "option1": "When it is slack",
+            "option2": "When the level is almost zero",
+            "option3": "When it is completely empty"
+        },
+        {
+            "question": "What is the name of the strake next to the keel?",
+            "option1": "Garboard",
+            "option2": "Gangplank",
+            "option3": "Gunwale"
+        },
+        {
+            "question": "Which statement is TRUE of a tender vessel?",
+            "option1": "Its period of roll is long.",
+            "option2": "It has a large GM.",
+            "option3": "It has a very low center of gravity."
+        },
+        {
+            "question": "What will be the result of counter flooding into empty tanks if the cause of a sudden severe list or trim is negative initial stability?",
+            "option1": "unloader",
+            "option2": "reloader",
+            "option3": "either option 1 & 2"
+        },
+        {
+            "question": "A vessel would be referred to as 'tender' when the weight of the cargo is __________.?",
+            "option1": "concentrated high and the double bottoms are empty",
+            "option2": "evenly distributed vertically and the double bottoms are full",
+            "option3": "concentrated low and the double bottoms are empty"
+        },
+        {
+            "question": "Why is GM cannot be used as an indicator of stability at all angles of inclination?",
+            "option1": "M is not fixed at large angles",
+            "option2": "There is no M at large angles",
+            "option3": "G is not fixed at large angles"
+        },
+        {
+            "question": "The percentage of the total surface area or volume of a flooded compartment that can be occupied by water by damage is called___________.?",
+            "option1": "permeability",
+            "option2": "form gain",
+            "option3": "one compartment standard"
+        },
+        {
+            "question": "What happens when you add weight to a vessel?",
+            "option1": "Reduce reserve buoyancy",
+            "option2": "Increase righting moments",
+            "option3": "Increase GM"
+        },
+        {
+            "question": "The point to which your vessel's center of gravity (G) may rise and still permit the vessel to have positive stability is called the __________.?",
+            "option1": "metacenter",
+            "option2": "Metacentric point",
+            "option3": "Metacentric radius"
+        },
+        {
+            "question": "When is the vessel referred to as tender?",
+            "option1": "When the weight of the cargo is concentrated high and the double bottoms are empty",
+            "option2": "When the weight of the cargo is evenly distributed vertically and the double bottoms are full",
+            "option3": "When the weight of the cargo is concentrated low and the double bottoms are empty"
+        },
+        {
+            "question": "What must be accurately determined to assess the potential for progressive flooding after a vessel has been damaged?",
+            "option1": "The integrity of the water tight boundaries",
+            "option2": "The capacity of the water sprinkler systems",
+            "option3": "The operation of the machinery space bilge level alarms"
+        },
+        {
+            "question": "A vessel would be referred to as 'tender' when the weight of the cargo is __________.?",
+            "option1": "concentrated high and the double bottoms are empty",
+            "option2": "When the weight of the cargo is evenly distributed vertically and the double bottoms are full",
+            "option3": "When the weight of the cargo is concentrated low and the double bottoms are empty"
+        },
+        {
+            "question": "You are fighting a fire in a cargo hold on your vessel. Which action is most important concerning the stability of the vessel?",
+            "option1": "Draining fire-fighting water and pumping it overboard",
+            "option2": "Shutting off electricity to damaged cables",
+            "option3": "Maneuvering the vessel so the fire is on the lee side"
+        },
+        {
+            "question": "Addition of weight to a vessel will ALWAYS __________.?",
+            "option1": "reduce reserve buoyancy",
+            "option2": "Increase righting moments",
+            "option3": "Increase GM"
+        },
+        {
+            "question": "You are fighting a fire in a cargo hold on your vessel. Which action is most important concerning the stability of the vessel?",
+            "option1": "Draining fire-fighting water and pumping it overboard",
+            "option2": "Shutting off electricity to damaged cables",
+            "option3": "Maneuvering the vessel so the fire is on the lee side"
+        },
+        {
+            "question": "Metacentric height is an indication of a vessel's stability __________.?",
+            "option1": "for small angles of inclination",
+            "option2": "for all angles of inclination",
+            "option3": "for large angles of inclination"
+        },
+        {
+            "question": "In a longitudinally framed vessel, what do you call an athwartship members that hold in place and support the longitudinal frames?",
+            "option1": "Web frames",
+            "option2": "Stringers",
+            "option3": "Margin plates"
+        },
+        {
+            "question": "Which statement is TRUE of a stiff vessel?",
+            "option1": "She will have a large metacentric height.",
+            "option2": "Her period of roll will be large due to her large metacentric height.",
+            "option3": "She will have an unusually high center of gravity."
+        },
+        {
+            "question": "A vessel's stability normally increases when tanks are ballasted because the vessel's______.?",
+            "option1": "before expansion valve",
+            "option2": "after expansion valve",
+            "option3": "neither 1 & 2"
+        },
+        {
+            "question": "Component of an engine used to increase scavenging air is called ___________.?",
+            "option1": "center of gravity is lowered",
+            "option2": "The vessel's center of buoyancy is lowered",
+            "option3": "The vessel's reserve buoyancy is increased"
+        },
+        {
+            "question": "An intact bouyancy means________.?",
+            "option1": "an intact space below the flooded area",
+            "option2": "The volume of all intact spaces above the waterline",
+            "option3": "An intact space when flooded will not cause the vessel to sink"
+        },
+        {
+            "question": "What is not usually a concern when loading a single-hulled tanker",
+            "option1": "Initial stability",
+            "option2": "Stability through all angles",
+            "option3": "Maximum righting arm"
+        },
+        {
+            "question": "When making a turn, course change; on most merchant ships, the vessel will heel outwards in what condition?",
+            "option1": "If G is above the center of lateral resistance",
+            "option2": "If the vessel has very little draft",
+            "option3": "If G is below the center of lateral resistance"
+        },
+        {
+            "question": "Which statement about the free surface effect is TRUE?",
+            "option1": "It decreases at increased angles of heel due to pocketing when a tank is 90% full.",
+            "option2": "It increases in direct proportion to the length of the tank times the breadth squared.",
+            "option3": "It decreases in direct proportion to increasing specific gravity of the liquid in the tank."
+        },
+        {
+            "question": "The most detrimental effect on initial stability is a result of liquids __________.?",
+            "option1": "flowing in and out of a holed wing tank",
+            "option2": "flowing from side to side within the vessel",
+            "option3": "flowing from fore to aft within a vessel"
+        },
+        {
+            "question": "Metacentric height is an indication of a vessel's stability __________.?",
+            "option1": "for small angles of inclination",
+            "option2": "for all angles of inclination",
+            "option3": "for large angles of inclination"
+        },
+        {
+            "question": "TWhich does NOT affect the value of the free surface correction?",
+            "option1": "Registered tonnage",
+            "option2": "Width of the tank",
+            "option3": "Length of the tank"
+        },
+        {
+            "question": "What is an intact bouyancy?",
+            "option1": "An intact space below the flooded area",
+            "option2": "The volume of all intact spaces above the waterline",
+            "option3": "An intact space when flooded will not cause the vessel to sink"
+        },
+        {
+            "question": "When making a turn (course change) on most merchant ships, the vessel will heel outwards if __________.?",
+            "option1": "G is above the center of lateral resistance",
+            "option2": "If the vessel has very little draft",
+            "option3": "Colombia"
+        },
+        {
+            "question": "A negative metacentric height __________.?",
+            "option1": "should always be immediately corrected",
+            "option2": "Uruguay",
+            "option3": "If G is below the center of lateral resistance"
+        },
+        {
+            "question": "In regards to the center of bouyancy, which of the following statement is correct?",
+            "option1": "It is located in the same position regardless of displacement",
+            "option2": "It moves toward the low side of an inclines vessel",
+            "option3": "It moves toward the high side of an inclines vessel"
+        },
+        {
+            "question": "A tank which carries liquid is dangerous to the stability of a vessel when it is __________?",
+            "option1": "slack",
+            "option2": "low in the vessel",
+            "option3": "completely empty"
+        },
+        {
+            "question": "The bilge keel is for the purpose of__________?",
+            "option1": "reducing rolling",
+            "option2": "strengthening the bilge",
+            "option3": "adding strength to main structural members"
+        },
+        {
+            "question": "The elevated perforated bottom of a chain locker which prevents the chain from touching the bottom of the chain locker and allows water to flow to the drain is a____________.?",
+            "option1": "manger",
+            "option2": "Draft",
+            "option3": "Craddle"
+        },
+        {
+            "question": "Which statement is TRUE of a stiff vessel?",
+            "option1": "She will have a large metacentric height.",
+            "option2": "Her period of roll will be large due to her large metacentric height.",
+            "option3": "She will have an unusually high center of gravity."
+        },
+        {
+            "question": "Metacentric height is a measure of what?",
+            "option1": "Initial stability only",
+            "option2": "Stability through all angles",
+            "option3": "Maximum righting arm"
+        },
+        {
+            "question": "Vessel has been damaged and is partially flooded. What is the first step to be taken in attempting to save the vessel?",
+            "option1": "Establish flooding boundaries and prevent further spread of flood water",
+            "option2": "Plug the holes in the outer shell",
+            "option3": "Pump out the water inside the vessel"
+        },
+        {
+            "question": "The inward curvature of the ship's side is the_________.?",
+            "option1": "tumble home",
+            "option2": "Flare",
+            "option3": "Hogging"
+        },
+        {
+            "question": "As the displacement of a vessel increases, the detrimental effect of free surface __________.?",
+            "option1": "decreases",
+            "option2": "increases",
+            "option3": "remains the same"
+        },
+        {
+            "question": "Free communication effect is in direct proportion to what?",
+            "option1": "Length and width of space",
+            "option2": "Length of space only",
+            "option3": "Width of space only"
+        },
+        {
+            "question": "GM is a measure of______.?",
+            "option1": "The initial stability of the vessel",
+            "option2": "The amount of reserve bouyancy",
+            "option3": "both A & B"
+        },
+        {
+            "question": "Why is the vessel's stability increases when tanks are ballasted?",
+            "option1": "The vessel's center of gravity is lowered",
+            "option2": "The vessel's center of buoyancy is lowered",
+            "option3": "The vessel's reserve buoyancy is increased"
+        },
+        {
+            "question": "When cargo is shifted from the lower hold to the main deck the________.?",
+            "option1": "center of gravity will move upwards",
+            "option2": "GM will increase",
+            "option3": "Center of buoyancy will move downward"
+        },
+        {
+            "question": "Metacentric height is a measure of __________.?",
+            "option1": "initial stability only",
+            "option2": "Stability through all angles",
+            "option3": "Maximum righting arm"
+        },
+        {
+            "question": "The purpose of the inclining experiment is to __________.",
+            "option1": "determine the lightweight center of gravity location",
+            "option2": "To determine the location of the metacenter",
+            "option3": "To verify the hydrostatic data"
+        },
+        {
+            "question": "If the ship takes a sudden severe list or trim from an unknown cause, What will be your first action?",
+            "option1": "Determine the cause before taking countermeasures",
+            "option2": "Assume the shift is due to off center loading",
+            "option3": "Counter flood on the side opposite the list or trim"
+        },
+        {
+            "question": "What is initial stability?",
+            "option1": "Vessel's stability at small angles of inclination",
+            "option2": "Vessel's stability when loaded with minimum deck load",
+            "option3": "Vessel's stability when at transit draft"
+        },
+        {
+            "question": "What determines the true measure of a vessel's stability at all angles of inclination?",
+            "option1": "righting moment",
+            "option2": "metacentric height",
+            "option3": "displacement"
+        },
+        {
+            "question": "What represents the center of gravity?",
+            "option1": "G",
+            "option2": "GZ",
+            "option3": "M"
+        },
+        {
+            "question": "What is the purpose of bilge keel?",
+            "option1": "To reduce rolling",
+            "option2": "To strengthen the bilge",
+            "option3": "To add strength to main structural members"
+        },
+        {
+            "question": "Where should you pay particular attention to be able to maintain adequate stability in loading deck cargo?",
+            "option1": "The vertical distribution of the deck cargo",
+            "option2": "The horizontal distribution of the deck cargo",
+            "option3": "The under deck cargo"
+        },
+        {
+            "question": "Free communication effect is in direct proportion to __________.?",
+            "option1": "length and width of space",
+            "option2": "Length of space only",
+            "option3": "Width of space only"
+        },
+        {
+            "question": "What will be the result of counter flooding into empty tanks if the cause of a sudden severe list or trim is negative initial stability?",
+            "option1": "It will cause the unit to flop to a greater angle",
+            "option2": "It will increase the righting moment",
+            "option3": "It will cause an increase in the righting arm"
+        },
+        {
+            "question": "A tank which carries liquid is dangerous to the stability of a vessel when it is __________.?",
+            "option1": "slack",
+            "option2": "low in the vessel",
+            "option3": "completely empty"
+        },
+        {
+            "question": "What is the elevated perforated bottom of a chain locker which prevents the chain from touching the bottom of thechain locker and allows water to flow to the drain?",
+            "option1": "Manger",
+            "option2": "Draft",
+            "option3": "Craddle"
+        },
+        {
+            "question": "What is the reason why fighting an oil rig fire in a What is the reason why fighting an oil rig fire in aof the rig ?",
+            "option1": "It causes a list due to the water in the compartment",
+            "option2": "It causes progressive down flooding",
+            "option3": "It reduces the level of drill water from the storage tanks"
+        },
+        {
+            "question": "The most detrimental effect on initial stability is a result of liquids __________.",
+            "option1": "flowing in and out of a holed wing tank",
+            "option2": "flowing from side to side within the vessel",
+            "option3": "flowing from fore to aft within a vessel"
+        },
+        {
+            "question": "What is a longitudinal stability indicates?",
+            "option1": "The tendency of a ship to resist a change in trim",
+            "option2": "The tendency of a ship to resist change in list",
+            "option3": "The tendency of a ship to resist a change in mean draft"
+        },
+        {
+            "question": "What is the trim of the vessel?",
+            "option1": "Difference in fore and aft drafts",
+            "option2": "value of the mean draft",
+            "option3": "degree of list"
+        },
+        {
+            "question": "What do you call a percentage of the total surface area or volume of a flooded compartment that is water damaged?",
+            "option1": "permeability",
+            "option2": "form gain",
+            "option3": "one compartment standard"
+        },
+        {
+            "question": "In order to minimize the effects of a tender vessel, when carrying a cargo of lumber, you should __________.?",
+            "option1": "place the heaviest woods in the lower holds",
+            "option2": "Maximize your deck load",
+            "option3": "Distribute lumber so that those stowing most compactly per unit of weight are in the upper holds"
+        },
+        {
+            "question": "Your vessel has been damaged and is partially flooded. The first step to be taken in attempting to save the vessel is to __________.?",
+            "option1": "establish flooding boundaries and prevent further spread of flood water",
+            "option2": "Plug the holes in the outer shell",
+            "option3": "Pump out the water inside the vessel"
+        },
+        {
+            "question": "Your vessel is damaged and partially flooded. It is listing 12 deg to port and trimmed 2.5 meters down by the head. It has a long, slow, sluggish roll. What action will you take first?",
+            "option1": "Press up an after, slack, centerline double bottom tank",
+            "option2": "Jettison deck cargo  from the port side",
+            "option3": "Jettison the anchors and anchor cables"
+        },
+        {
+            "question": "When making a turn (course change) on most merchant ships, the vessel will heel outwards if __________.?",
+            "option1": "G is above the center of lateral resistance",
+            "option2": "the vessel has very little draft",
+            "option3": "G is below the center of lateral resistance"
+        },
+        {
+            "question": "What is the purpose of the inclining experiment?",
+            "option1": "To determine the lightweight center of gravity location",
+            "option2": "To determine the location of the metacenter",
+            "option3": "To verify the hydrostatic data"
+        },
+        {
+            "question": "Where can you take the value of KM at any draft?",
+            "option1": "Hydrostatic Table",
+            "option2": "Building plans of the ship",
+            "option3": "Trimming Table"
+        },
+        {
+            "question": "Which factor has the greatest effect on the value of the free surface correction?",
+            "option1": "The width of the tank",
+            "option2": "The length of the tank",
+            "option3": "The draft of the vessel"
+        },
+        {
+            "question": "Which statement is correct regarding a negative metacentric height?",
+            "option1": "gIt should always be immediately corrected",
+            "option2": "It will not cause a vessel to capsize",
+            "option3": "It will not result from off-center weights"
+        },
+        {
+            "question": "Which abbreviation refers to the horizontal distance between perpendiculars taken at the forward-most and the after-most points on a small passenger vessel's waterline at her deepest operating draft?",
+            "option1": "LBP",
+            "option2": "LOA",
+            "option3": "LWL"
+        },
+        {
+            "question": "A negative metacentric height __________.",
+            "option1": "should always be immediately corrected",
+            "option2": "will always cause a vessel to capsize",
+            "option3": "always results from off-center weights"
+        },
+        {
+            "question": "What do you call a tendency of a ship to resist a change in trim?",
+            "option1": "Longitudinal stability",
+            "option2": "The righting arm couple",
+            "option3": "Metacentric height"
+        },
+        {
+            "question": "Which statement about the free surface effect is TRUE?",
+            "option1": "It decreases at increased angles of heel due to pocketing when a tank is 90% full.",
+            "option2": "It increases in direct proportion to the length of the tank times the breadth squared.",
+            "option3": "It decreases in direct proportion to increasing specific gravity of the liquid in the tank."
+        },
+        {
+            "question": "What will happen when cargo is shifted from the main deck into the lower hold of a vessel",
+            "option1": "The GM will increase",
+            "option2": "The metacenter will move upward",
+            "option3": "The center of buoyancy will move upward"
+        },
+        {
+            "question": "The strake next to the keel is__________.",
+            "option1": "garboard",
+            "option2": "Gangplank",
+            "option3": "Gunwale"
+        },
+        {
+            "question": "Where should you pay particular attention to be able to maintain adequate stability in loading deck cargo?",
+            "option1": "The vertical distribution of the deck cargo",
+            "option2": "The horizontal distribution of the deck cargo",
+            "option3": "The under deck cargo"
+        },
+        {
+            "question": "What is a danger of a half full tank onboard tanker vessel?",
+            "option1": "Loss of stability due to free surface effect",
+            "option2": "Corrosion from the shifting liquid",
+            "option3": "Rupturing of bulkheads from the shifting liquid"
+        },
+        {
+            "question": "The ratio of volume of displacement to a block having the same length, breadth and draft of the vessel is known as_____.",
+            "option1": "Block coefficient",
+            "option2": "Beam-draft ratio",
+            "option3": "Area of waterplane"
+        },
+        {
+            "question": "What should you do In order to minimize the effects of a tender vessel, when carrying a cargo of lumber?",
+            "option1": "Place the heaviest woods in the lower holds",
+            "option2": "Maximize your deck load",
+            "option3": "Distribute lumber so that those stowing most compactly per unit of weight are in the upper holds"
+        },
+        {
+            "question": "Which of the following will increase the height of the center of buoyancy of your vessel?",
+            "option1": "Discharging weight from lower decks.",
+            "option2": "Loading weight in upper decks",
+            "option3": "Shifting weight from lower to upper decks"
+        },
+        {
+            "question": "What will happen when cargo is shifted from the main deck into the lower hold of a vessel?",
+            "option1": "The GM will increase",
+            "option2": "The metacenter will move upward",
+            "option3": "The center of buoyancy will move upward"
+        },
+        {
+            "question": "What is a metacentric height?",
+            "option1": "It is an indication of a vessel's stability for small angles of inclination",
+            "option2": "It is an indication of a vessel's stabilityfor all angles of inclination",
+            "option3": "It is an indication of a vessel's stability for large angles of inclination"
+        },
+        {
+            "question": "The tendency of a ship to resist a change in trim is call_______.?",
+            "option1": "longitudinal stability",
+            "option2": "The righting arm couple",
+            "option3": "Metacentric height"
+        },
+        {
+            "question": "A vessel trimmed down by the bow has _________________ .?",
+            "option1": "a greater draft forward than aft",
+            "option2": "Zero trim",
+            "option3": "A low mean draft"
+        },
+        {
+            "question": "What is the inward curvature of the ship's side?",
+            "option1": "Tumble home",
+            "option2": "Flare",
+            "option3": "Hogging"
+        },
+        {
+            "question": "With no environmental forces present, the center of gravity of an inclined vessel is vertically aligned with the_______.?",
+            "option1": "center of buoyancy",
+            "option2": "longitudinal centerline",
+            "option3": "center of flotation"
+        },
+        {
+            "question": "Which statement is correct regarding a negative metacentric height?",
+            "option1": "It should always be immediately corrected",
+            "option2": "It will not cause a vessel to capsize",
+            "option3": "It will not result from off-center weights"
+        },
+        {
+            "question": "What is the point to which vessel's center of gravity (G) may rise and still permit the vessel to have positive stability?",
+            "option1": "Metacenter",
+            "option2": "Metacentric point",
+            "option3": "Metacentric radius"
+        },
+        {
+            "question": "How can a clogged limber holes endanger a ship's stability?",
+            "option1": "By preventing water from draining to the bilge well",
+            "option2": "By decreasing off center weight",
+            "option3": "By increasing water area on the keelson"
+        },
+        {
+            "question": "During counter flooding to correct a severe list or trim aggravated by an off center load, a MODU suddenly takes a list or trim to the opposite side. What should you do?",
+            "option1": "Immediately stop counter flooding",
+            "option2": "Continue counter flooding in the same direction",
+            "option3": "Continue counter flooding, but in the opposite direction"
+        },
+        {
+            "question": "A stress called compression is being placed on the sheer strakes if the vessel is ______?",
+            "option1": "sagging",
+            "option2": "Under shearing force",
+            "option3": "Inclined"
+        },
+        {
+            "question": "What do you call the volume of all watertight enclosed spaces above water line?",
+            "option1": "Reserved bouyancy",
+            "option2": "Freeboard",
+            "option3": "Free surface"
+        },
+        {
+            "question": "The trim of a vessel is the___________.?",
+            "option1": "difference in fore and aft drafts",
+            "option2": "value of the mean draft",
+            "option3": "degree of list"
+        },
+        {
+            "question": "A continual change in the list, or trim of any floating MODU indicates______________ .?",
+            "option1": "progressive flooding",
+            "option2": "Negative 'GM'",
+            "option3": "Structural failure"
+        },
+        {
+            "question": "The bilge keel is for the purpose of?",
+            "option1": "Reducing rolling",
+            "option2": "strengthening the bilge",
+            "option3": "adding strength to main structural members"
+        },
+        {
+            "question": "An intact bouyancy means?",
+            "option1": "An intact space below the flooded area",
+            "option2": "The volume of all intact spaces above the waterline",
+            "option3": "An intact space when flooded will not cause the vessel to sink"
+        },
+        {
+            "question": "What will happen if the cargo is shifted from the lower hold to the main deck?",
+            "option1": "Center of gravity will move upwards",
+            "option2": "GM will increase",
+            "option3": "Center of buoyancy will move downward"
+        },
+        {
+            "question": "Which statement is TRUE of a tender vessel?",
+            "option1": "Its period of roll is long.",
+            "option2": "It has a large GM.",
+            "option3": "It has a very low center of gravity."
+        },
+        {
+            "question": "What will be the result of counter flooding into empty tanks, if the cause of severe list, or trim is due to off-center ballast?",
+            "option1": "Decrease list or trim",
+            "option2": "Increase the righting moment",
+            "option3": "Increase the righting arm"
+        }
+    ]
+}

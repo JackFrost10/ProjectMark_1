@@ -1,0 +1,412 @@
+{
+    "quizlist": [
+        {
+            "question": "A continuous watertight bulkhead on a MODU may also be a/an_____________.?",
+            "option1": "structural bulkhead",
+            "option2": "watertight bulkhead",
+            "option3": "operational bulkhead"
+        },
+        {
+            "question": "The test of metals which measures the resistance of the metal to impact is called____________.?",
+            "option1": "charpy test",
+            "option2": "resistance test",
+            "option3": "San Juan"
+        },
+        {
+            "question": "The dead center of a lathe can be properly used only after the end of the work piece has been __________.?",
+            "option1": "center drilled",
+            "option2": "counter bored",
+            "option3": "tapered"
+        },
+        {
+            "question": "In machine shop practice, a center gauge is used for checking the angle of______________ .?",
+            "option1": "60° thread cutting tools",
+            "option2": "30° thread cutting tools",
+            "option3": "45° thread cutting tools"
+        },
+        {
+            "question": "To safely change spindle speeds on a lathe, you must first __________.",
+            "option1": "stop the lathe rotation",
+            "option2": "do it as the rotation runs slowly",
+            "option3": "before operation starts"
+        },
+        {
+            "question": "Which of the metals listed below can be cut with the highest operating lathe speed?",
+            "option1": "Aluminum",
+            "option2": "Silver",
+            "option3": "Copper"
+        },
+        {
+            "question": "What type of gasket is used on high pressure steam flange joints?",
+            "option1": "metallic",
+            "option2": "rubber",
+            "option3": "silicon"
+        },
+        {
+            "question": "A follower rest should be used with a lathe to machine __________.?",
+            "option1": "threads on long slender shafts",
+            "option2": "threads on short slender shafts",
+            "option3": "faulty threads"
+        },
+        {
+            "question": "All portable electric tools should have a ground connection to prevent __________.?",
+            "option1": "electric shock if the tool is shorted",
+            "option2": "damage to the tools",
+            "option3": "harmed the users"
+        },
+        {
+            "question": "A compound Bourdon tube type pressure gauge is capable of measuring __________.?",
+            "option1": "pressure and vacuum",
+            "option2": "temperature and pressure",
+            "option3": "pressure only"
+        },
+        {
+            "question": "Ferrous metals are metals containing __________.?",
+            "option1": "a large percentage of iron",
+            "option2": "a small percentage of iron",
+            "option3": "no content of iron"
+        },
+        {
+            "question": "Work that cannot readily be mounted between lathe centers is usually held in a __________.?",
+            "option1": "chuck",
+            "option2": "spindle",
+            "option3": "tail stock"
+        },
+        {
+            "question": "A compound gage is used for measuring pressures both above and below __________.?",
+            "option1": "atmospheric pressure",
+            "option2": "absolute pressure",
+            "option3": "latent pressure"
+        },
+        {
+            "question": "When a lathe is used for thread cutting, the number of threads per inch produced is determined by the speed relationship between the __________.?",
+            "option1": "lead screw and head stock spindle",
+            "option2": "chuck",
+            "option3": "cutting tools"
+        },
+        {
+            "question": "Which of the listed metals can usually be drilled without lubrication?",
+            "option1": "Brass",
+            "option2": "Bronze",
+            "option3": "Steel"
+        },
+        {
+            "question": "In machine shop practice, a center gauge is used for checking the angle of______________ .?",
+            "option1": "60° thread cutting tools",
+            "option2": "30° thread cutting tools",
+            "option3": "45° thread cutting tools"
+        },
+        {
+            "question": "Which of the following describes the purpose of a striker or doubler plate?",
+            "option1": "Provides landing surface for the sounding bob of a tank sounding",
+            "option2": "Produces vacuum pressure in the pump",
+            "option3": "serves as measuring tools for tank sounding"
+        },
+        {
+            "question": "Which of the devices is commonly used in measuring the clearances between the main engine bearings and the crankshaft?",
+            "option1": "Plasti-gauge",
+            "option2": "Persian blue",
+            "option3": "Copper shims"
+        },
+        {
+            "question": "When steel, cast iron, or other metals with surface scale are being turned, the first roughing cut should be taken __________.?",
+            "option1": "deep enough to get under the scale",
+            "option2": "slowly to prevent tool chatter",
+            "option3": "lightly to avoid dulling the tool"
+        },
+        {
+            "question": "Regarding MODU construction, bulkheads in the quarters are generally?",
+            "option1": "non-structural",
+            "option2": "structural",
+            "option3": "watertight"
+        },
+        {
+            "question": "An allowance may be made for expansion and contraction in piping with the use of expansion joints or_________.?",
+            "option1": "bends or loops in the line",
+            "option2": "unions",
+            "option3": "retractable flanges"
+        },
+        {
+            "question": "The dead center of a lathe can be properly used only after the end of the work piece has been __________.?",
+            "option1": "center drilled",
+            "option2": "convexed",
+            "option3": "counter bored"
+        },
+        {
+            "question": "A tool used for measuring or laying out angles is called a_______.?",
+            "option1": "protractor",
+            "option2": "micrometer",
+            "option3": "caliper rule"
+        },
+        {
+            "question": "A record of the types and strengths of steels used on a MODU is called ______.?",
+            "option1": "construction portfolio",
+            "option2": "general plans",
+            "option3": "builder's documentation"
+        },
+        {
+            "question": "Which of the nondestructive testing methods listed is most often used to accurately detect external defects in welded metals?",
+            "option1": "Visible dye penetrant",
+            "option2": "Magnetic particle",
+            "option3": "Ultrasonics"
+        },
+        {
+            "question": "To commence cutting threads with a metal lathe, you should engage the __________.?",
+            "option1": "split or half-nut",
+            "option2": "back gear lever",
+            "option3": "feed-change lever"
+        },
+        {
+            "question": "To safely change spindle speeds on a lathe, you must first __________.?",
+            "option1": "stop the lathe rotation",
+            "option2": "disengage the spindle clutch",
+            "option3": "engage the feed change lever"
+        },
+        {
+            "question": "Joints in pipelines must be properly aligned before they are connected because __________.?",
+            "option1": "excessive strain on the joints will result if they are misaligned",
+            "option2": "misalignment permits excessive expansion",
+            "option3": "condensate accumulates rapidly when flanges are not properly aligned"
+        },
+        {
+            "question": "The most accurate method of measuring the setting of an inside caliper is to use a/an __________.?",
+            "option1": "outside micrometer",
+            "option2": "engineer's scale",
+            "option3": "dial indicator"
+        },
+        {
+            "question": "Before power to a lathe is turned on, it is a good shop practice to first hand feed the carriage to ensure __________.?",
+            "option1": "all locking devices have been released",
+            "option2": "the lathe is level",
+            "option3": "the carriage is lubricated"
+        },
+        {
+            "question": "To commence cutting threads with a metal lathe, you should engage the __________.?",
+            "option1": "split or half-nut",
+            "option2": "back gear lever",
+            "option3": "feed-change lever"
+        },
+        {
+            "question": "A compound gage is used for measuring pressures both above and below __________.?",
+            "option1": "atmospheric pressure",
+            "option2": "latent pressure",
+            "option3": "absolute pressure"
+        },
+        {
+            "question": "Before power to a lathe is turned on, it is a good shop practice to first hand feed the carriage to ensure __________.?",
+            "option1": "all locking devices have been released",
+            "option2": "the carriage is lubricated",
+            "option3": "the lathe is level"
+        },
+        {
+            "question": "The operation of machining a uniformly roughened or checked surface on round stock in a lathe is called __________.?",
+            "option1": "knurling",
+            "option2": "checkering",
+            "option3": "crosshatching"
+        },
+        {
+            "question": "A continuous watertight bulkhead on a MODU may also be a/an_____________.?",
+            "option1": "structural bulkhead",
+            "option2": "watertight bulkhead",
+            "option3": "operational bulkhead"
+        },
+        {
+            "question": "The test of metals which measures the resistance of the metal to impact is called____________.?",
+            "option1": "charpy test",
+            "option2": "resistance test",
+            "option3": "San Juan"
+        },
+        {
+            "question": "The dead center of a lathe can be properly used only after the end of the work piece has been __________.?",
+            "option1": "center drilled",
+            "option2": "counter bored",
+            "option3": "tapered"
+        },
+        {
+            "question": "In machine shop practice, a center gauge is used for checking the angle of______________ .?",
+            "option1": "60° thread cutting tools",
+            "option2": "30° thread cutting tools",
+            "option3": "45° thread cutting tools"
+        },
+        {
+            "question": "To safely change spindle speeds on a lathe, you must first __________.",
+            "option1": "stop the lathe rotation",
+            "option2": "do it as the rotation runs slowly",
+            "option3": "before operation starts"
+        },
+        {
+            "question": "Which of the metals listed below can be cut with the highest operating lathe speed?",
+            "option1": "Aluminum",
+            "option2": "Silver",
+            "option3": "Copper"
+        },
+        {
+            "question": "What type of gasket is used on high pressure steam flange joints?",
+            "option1": "metallic",
+            "option2": "rubber",
+            "option3": "silicon"
+        },
+        {
+            "question": "A follower rest should be used with a lathe to machine __________.?",
+            "option1": "threads on long slender shafts",
+            "option2": "threads on short slender shafts",
+            "option3": "faulty threads"
+        },
+        {
+            "question": "All portable electric tools should have a ground connection to prevent __________.?",
+            "option1": "electric shock if the tool is shorted",
+            "option2": "damage to the tools",
+            "option3": "harmed the users"
+        },
+        {
+            "question": "A compound Bourdon tube type pressure gauge is capable of measuring __________.?",
+            "option1": "pressure and vacuum",
+            "option2": "temperature and pressure",
+            "option3": "pressure only"
+        },
+        {
+            "question": "Ferrous metals are metals containing __________.?",
+            "option1": "a large percentage of iron",
+            "option2": "a small percentage of iron",
+            "option3": "no content of iron"
+        },
+        {
+            "question": "Work that cannot readily be mounted between lathe centers is usually held in a __________.?",
+            "option1": "chuck",
+            "option2": "spindle",
+            "option3": "tail stock"
+        },
+        {
+            "question": "A compound gage is used for measuring pressures both above and below __________.?",
+            "option1": "atmospheric pressure",
+            "option2": "absolute pressure",
+            "option3": "latent pressure"
+        },
+        {
+            "question": "When a lathe is used for thread cutting, the number of threads per inch produced is determined by the speed relationship between the __________.?",
+            "option1": "lead screw and head stock spindle",
+            "option2": "chuck",
+            "option3": "cutting tools"
+        },
+        {
+            "question": "Which of the listed metals can usually be drilled without lubrication?",
+            "option1": "Brass",
+            "option2": "Bronze",
+            "option3": "Steel"
+        },
+        {
+            "question": "In machine shop practice, a center gauge is used for checking the angle of______________ .?",
+            "option1": "60° thread cutting tools",
+            "option2": "30° thread cutting tools",
+            "option3": "45° thread cutting tools"
+        },
+        {
+            "question": "Which of the following describes the purpose of a striker or doubler plate?",
+            "option1": "Provides landing surface for the sounding bob of a tank sounding",
+            "option2": "Produces vacuum pressure in the pump",
+            "option3": "serves as measuring tools for tank sounding"
+        },
+        {
+            "question": "Which of the devices is commonly used in measuring the clearances between the main engine bearings and the crankshaft?",
+            "option1": "Plasti-gauge",
+            "option2": "Persian blue",
+            "option3": "Copper shims"
+        },
+        {
+            "question": "When steel, cast iron, or other metals with surface scale are being turned, the first roughing cut should be taken __________.?",
+            "option1": "deep enough to get under the scale",
+            "option2": "slowly to prevent tool chatter",
+            "option3": "lightly to avoid dulling the tool"
+        },
+        {
+            "question": "Regarding MODU construction, bulkheads in the quarters are generally?",
+            "option1": "non-structural",
+            "option2": "structural",
+            "option3": "watertight"
+        },
+        {
+            "question": "An allowance may be made for expansion and contraction in piping with the use of expansion joints or_________.?",
+            "option1": "bends or loops in the line",
+            "option2": "unions",
+            "option3": "retractable flanges"
+        },
+        {
+            "question": "The dead center of a lathe can be properly used only after the end of the work piece has been __________.?",
+            "option1": "center drilled",
+            "option2": "convexed",
+            "option3": "counter bored"
+        },
+        {
+            "question": "A tool used for measuring or laying out angles is called a_______.?",
+            "option1": "protractor",
+            "option2": "micrometer",
+            "option3": "caliper rule"
+        },
+        {
+            "question": "A record of the types and strengths of steels used on a MODU is called ______.?",
+            "option1": "construction portfolio",
+            "option2": "general plans",
+            "option3": "builder's documentation"
+        },
+        {
+            "question": "Which of the nondestructive testing methods listed is most often used to accurately detect external defects in welded metals?",
+            "option1": "Visible dye penetrant",
+            "option2": "Magnetic particle",
+            "option3": "Ultrasonics"
+        },
+        {
+            "question": "To commence cutting threads with a metal lathe, you should engage the __________.?",
+            "option1": "split or half-nut",
+            "option2": "back gear lever",
+            "option3": "feed-change lever"
+        },
+        {
+            "question": "To safely change spindle speeds on a lathe, you must first __________.?",
+            "option1": "stop the lathe rotation",
+            "option2": "disengage the spindle clutch",
+            "option3": "engage the feed change lever"
+        },
+        {
+            "question": "Joints in pipelines must be properly aligned before they are connected because __________.?",
+            "option1": "excessive strain on the joints will result if they are misaligned",
+            "option2": "misalignment permits excessive expansion",
+            "option3": "condensate accumulates rapidly when flanges are not properly aligned"
+        },
+        {
+            "question": "The most accurate method of measuring the setting of an inside caliper is to use a/an __________.?",
+            "option1": "outside micrometer",
+            "option2": "engineer's scale",
+            "option3": "dial indicator"
+        },
+        {
+            "question": "Before power to a lathe is turned on, it is a good shop practice to first hand feed the carriage to ensure __________.?",
+            "option1": "all locking devices have been released",
+            "option2": "the lathe is level",
+            "option3": "the carriage is lubricated"
+        },
+        {
+            "question": "To commence cutting threads with a metal lathe, you should engage the __________.?",
+            "option1": "split or half-nut",
+            "option2": "back gear lever",
+            "option3": "feed-change lever"
+        },
+        {
+            "question": "A compound gage is used for measuring pressures both above and below __________.?",
+            "option1": "atmospheric pressure",
+            "option2": "latent pressure",
+            "option3": "absolute pressure"
+        },
+        {
+            "question": "Before power to a lathe is turned on, it is a good shop practice to first hand feed the carriage to ensure __________.?",
+            "option1": "all locking devices have been released",
+            "option2": "the carriage is lubricated",
+            "option3": "the lathe is level"
+        },
+        {
+            "question": "The operation of machining a uniformly roughened or checked surface on round stock in a lathe is called __________.?",
+            "option1": "knurling",
+            "option2": "checkering",
+            "option3": "crosshatching"
+        }
+    ]
+}

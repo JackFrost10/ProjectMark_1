@@ -1,0 +1,352 @@
+{"quizlist":[
+
+	{
+	"question":"The emergency bilge suction valve is typically used____________.?",
+	"option1":"if the bilges become flooded and they can not be emptied by any other means",
+	"option2":"to inject cleaning additives when the bilges are extremely dirty",
+	"option3":"when the main condenser becomes fouled, in order to provide additional cooling water circulation"
+	},
+
+	{
+	"question":"If one of the bilge system manifold valves does not properly seat, the _______.?",
+	"option1":"bilge system will lose vacuum and prevent other bilges from being pumped out",
+	"option2":"bilge well aft connected to that valve will siphon its  contents to the forward bilge wells",
+	"option3":"bilge well connected to that valve, plus the second bilge well being pumped will be completely emptied"
+	},
+		{
+	"question":"Demulsibility of a lube oil is defined as _____.?",
+	"option1":"the ability of oil to separate from water",
+	"option2":"the temperature at which oil flows rapidly",
+	"option3":"a measure of the water in a lube oil system"
+	},
+		{
+	"question":"The first step when beginning to set the slide valves on a duplex reciprocating pump is to _____ .?",
+	"option1":"center the steam piston in the cylinders",
+	"option2":"open the relief valve to prevent accidental starting",
+	"option3":"ensure the balance piston is on the downstroke"
+	},
+		{
+	"question":"If the capacity of a centrifugal pump decreases gradually over a long period of time, you should replace the _____ .?",
+	"option1":"wear rings",
+	"option2":"packing gland",
+	"option3":"mechanical seals"
+	},
+		{
+	"question":"Which of the listed conditions can lead to cavitation in a centrifugal pump??",
+	"option1":"Vapor pockets formed in the suction flow stream.",
+	"option2":"Rough casing volute surfaces.",
+	"option3":"Worn wearing rings."
+	},
+		{
+	"question":"After the installation of new impeller wear rings, by pressing them onto the pump impeller hub, it is advisable to_____.?",
+	"option1":"check the shaft and impeller assembly on centers to see if the ring surfaces are true",
+	"option2":"dynamically balance the shaft and impeller",
+	"option3":"visually inspect the rings after about an hour of service"
+	},
+		{
+	"question":"An O-ring seal in a hydraulic system will begin to leak when it has lost its interference fit due to____.?",
+	"option1":"compression set or wear",
+	"option2":"low fluid pressure",
+	"option3":"high fluid flow"
+	},
+		{
+	"question":"The final heating of the feedwater in a flash type distilling plant is carried out by______.?",
+	"option1":"low pressure steam admitted to the feedwater heater",
+	"option2":"heat exchange in the first- stage feedbox",
+	"option3":"vaporization in the first- stage flash chamber"
+	},
+		{
+	"question":"Before doing any work on a hydraulic system equipped with accumulators, you should________.?",
+	"option1":"bleed off all stored energy from the accumulators",
+	"option2":"completely charge the accumulators to prevent system energy loss",
+	"option3":"pump the hydraulic fluid into the accumulators to prevent fluid loss"
+	},
+
+	{
+	"question":"What is the purpose of the relief valves installed in the fuel service pumps??",
+	"option1":"To protect the pump from high discharge pressure",
+	"option2":"To protect the pump from low discharge pressure",
+	"option3":"To protect the pump from high suction pressure"
+	},
+		{
+	"question":"If a centrifugal bilge pump were continually operated with the discharge valve closed the____________.?",
+	"option1":"pump would overheat",
+	"option2":"motor overload would open",
+	"option3":"relief valve would open"
+	},
+		{
+	"question":"What equipment is required when processing bilge slops for overboard discharge?",
+	"option1":"15 PPM Oil Content Monitor of Oily Water Separator",
+	"option2":"A 100 PPM oily water separator.",
+	"option3":"Assembling the lube oil purifier as a separator and aligning it to the bilge overboard."
+	},
+		{
+	"question":"Most pump manufacturers of pumps recommend that the SUCTION piping dimension of centrifugal pumps be _________.?",
+	"option1":"one size larger than the pump suction nozzle",
+	"option2":"two size larger than the pump suction nozzle",
+	"option3":"one size smaller than the pump suction nozzle"
+	},
+
+	{
+	"question":"The precaution that should be observed to prevent damage of the service pump when warming up the fuel system to the boiler is to ________________.?",
+	"option1":"close the recirculating valve when atomizing temperature is reached",
+	"option2":"open the recirculating valve when atomizing temperature is reached",
+	"option3":"close the inlet valve when atomizing temperature is reached"
+	},
+		{
+	"question":"What is the theoritical lift of a pump handling fresh water at atmospheric pressure?",
+	"option1":"10.35 m",
+	"option2":"101.35 m",
+	"option3":"14.7 m"
+	},
+		{
+	"question":"If you are operating a centrifugal water service pump with worn wear rings, the____ .?",
+	"option1":"pump discharge capacity is reduced",
+	"option2":"pump would be very noisy",
+	"option3":"pump would vibrate excessively"
+	},
+		{
+	"question":"The bilge system has been performing well; however, the aft starboard engine room bilge-well suddenly fails to be pumped out. Which statement should be done first to determine the cause?",
+	"option1":"Attempt to pump out another bilge well to determine if the entire system is affected",
+	"option2":"Attempt to pump out another bilge well to determine if the entire system is unaffected",
+	"option3":"Don't attempt to pump out another bilge well to determine if the entire system is affected"
+	},
+		{
+	"question":"What auxiliary machine or device is used to segregate oil and water accumulated in the engine room before it is being discharge overboard?",
+	"option1":"Oily bilge separator",
+	"option2":"Oily mixture separator",
+	"option3":"Oily moisture separator"
+	},
+		{
+	"question":"An oil fog lubrication system is recommended for______.?",
+	"option1":"high speed continuous operation of roller bearings",
+	"option2":"low and moderate speed ball bearings",
+	"option3":"heavily loaded and high- speed ball bearings"
+	},
+		{
+	"question":"How often should cargo oil pump relief valves on tank vessels be tested ?",
+	"option1":"At least once a year.",
+	"option2":"Prior to each cargo discharge operation.",
+	"option3":"At least once each voyage."
+	},
+		{
+	"question":"The oil separator trap is located between the/or _________.?",
+	"option1":"Near accumulator drum",
+	"option2":"Far from accumulator drum",
+	"option3":"Bilge drum"
+	},
+		{
+	"question":"Which of the listed pumps is not a positive displacement pump?",
+	"option1":"Centrifugal",
+	"option2":"Reciprocating",
+	"option3":"Gear"
+	},
+		{
+	"question":"If condensate is accumulated in the steam side of a fuel oil heater, it could result in _______________.?",
+	"option1":"corrosion",
+	"option2":"Errosion",
+	"option3":"Oxidation"
+	},
+
+	{
+	"question":"When the steering wheel is turned, oil is directed to the steering gear rams by ___.?",
+	"option1":"varying the eccentricity of a floating ring or angle of a tilting box",
+	"option2":"varying the pressure of a floating angle of a tilting box",
+	"option3":"varying the density of a floating ring or angle of a tilting box"
+	},
+
+	{
+	"question":"In a centrifugal pumps operating with a high suction lift, foot valves are primarily designed to______.?",
+	"option1":"enable the pump and its suction line to remain primed prior to starting the pump",
+	"option2":"give the pump motor, or driver, positive protection when operating in a shutoff condition",
+	"option3":"provide a means of supplying sealing fluid for the impeller shaft stuffing box"
+	},
+		{
+	"question":"Tubing is sized by_________.?",
+	"option1":"nominal outside diameter",
+	"option2":"allowed working pressure",
+	"option3":"nominal inside diameter"
+	},
+
+	{
+	"question":"A centrifugal pump requires priming____________.?",
+	"option1":"due to the inability of this type of pump to lift water to cover the suction or eye of the impeller",
+	"option2":"primarily to lubricate the shaft seals",
+	"option3":"to initially unload the pump by having its head pressure equal to discharge pressure"
+	},
+		{
+	"question":"When there is no movement of the C on an electro hydraulic steering gear, the tilting box of the running pump is _________. ?",
+	"option1":"B In the neutral position",
+	"option2":"B In the negative position",
+	"option3":"B in the positive positon"
+	},
+		{
+	"question":"When securing a distillate pump on a low pressure fresh water evaporator, which of the listed steps should be carried out first?",
+	"option1":"Trip the three-way solenoid dump valve",
+	"option2":"Stop the pump",
+	"option3":"Close the pressure gage valves"
+	},
+		{
+	"question":"Accidental flooding of the engine room bilges through the bilge system is prevented by______________.?",
+	"option1":"stop-check valves installed in the bilge suction manifolds",
+	"option2":"using a positive displacement reciprocating bilge pump",
+	"option3":"installing eductors in all bilge rose boxes"
+	},
+		{
+	"question":"Which of the following devices, when used on an electro-hydraulic steering gear, keeps the movement of the rudder closely in step with the steering wheel?",
+	"option1":"The follow-up gear",
+	"option2":"The follow-up screw",
+	"option3":"The follow-up chain"
+	},
+		{
+	"question":"If one of the bilge system manifold valves does not properly seat, the__________.?",
+	"option1":"bilge system will lose vacuum and prevents the other bilges from being pumped out",
+	"option2":"bilge well aft connected to that valve will siphon its  contents to the forward bilge wells",
+	"option3":"bilge well connected to that valve, plus the second bilge well being pumped will be completely emptied"
+	},
+		{
+	"question":"Which of the following statements best describes an oil lubricated stern tube bearing installation?",
+	"option1":"No shaft liner is needed in the area of the babbitted bearing surface.",
+	"option2":"It receives its oil supply from a branch line of the main lube oil system.",
+	"option3":"The system pressure must be lowered when maneuvering in port to prevent blowing the outer oil seal"
+	},
+
+	{
+	"question":"The reason why fuel is heated before atomizing is to __________.?",
+	"option1":"decrease its viscosity",
+	"option2":"increase its viscosity",
+	"option3":"decrease its density"
+	},
+		{
+	"question":"During the repair and overhaul of the pump relief valve used in a hydraulic system, the set point was reduced by 10 bars, which of the following statements describes the result of the set point being lowered?",
+	"option1":"The movement of any system actuator will now be slower.",
+	"option2":"The pump discharge pressure will remain at the same pressure prior to the relief valve being repaired.",
+	"option3":"The solenoid controlled, three-position, spring centered control valve response will be quicker."
+	},
+		{
+	"question":"If the foundation bolts of a reciprocating air compressor are loose, which of the conditions below will occur?",
+	"option1":"The compressor will vibrate",
+	"option2":"The drive belts will squeal",
+	"option3":"The unloaders will jam shut"
+	},
+		{
+	"question":"Which of the following statements represents the proper relative direction of flow through a globe valve?",
+	"option1":"Direction of flow should be from below the seat.",
+	"option2":"Direction of flow should be from above the seat",
+	"option3":"Direction of flow should not be from below the seat"
+	},
+		{
+	"question":"In a two stage flash evaporator, heated feedwater is vaporized in the_________.?",
+	"option1":"first and second stage flash chambers",
+	"option2":"distiller feedwater heater",
+	"option3":"first and second stage vapor separators"
+	},
+		{
+	"question":"The purpose of an air compressor unloading device is to________.?",
+	"option1":"delay the compression process until the motor is up to its speed",
+	"option2":"drain water from the air receiver",
+	"option3":"drain water from the cylinders"
+	},
+		{
+	"question":"What procedure must be formed before doing any maintenance on a hydraulic system, i.e. there is still stored energy in the accumulator?",
+	"option1":"Bleed off the energy stored in the accumulator",
+	"option2":"Start maintenance immediately",
+	"option3":"Bleed the pressure stored in the pipings"
+	},
+		{
+	"question":"What happen if fuel is injected too early in the injection cycle??",
+	"option1":"Early detonation & loss of power",
+	"option2":"Late detonation & loss of power",
+	"option3":"Early detonation & high power"
+	},
+		{
+	"question":"An emergency bilge suction is required for________________.?",
+	"option1":"machinery space bilges",
+	"option2":"ballast tanks",
+	"option3":"sludge tanks"
+	},
+		{
+	"question":"One of the main functions of wear rings, as used in a centrifugal pumps is to ____ .?",
+	"option1":"prevent wear of the pump casing and impeller",
+	"option2":"maintain radial alignment between the pump impeller and  casing",
+	"option3":"absorb all impeller shaft end thrust"
+	},
+		{
+	"question":"Which of the following centrifugal pump components converts the liquid velocity to pressure?",
+	"option1":"Volute",
+	"option2":"Impeller",
+	"option3":"Electric motor"
+	},
+		{
+	"question":"What is the primary purpose of heater used in pressurized fuel oil system?",
+	"option1":"To reduce fuel viscosity for proper atomization",
+	"option2":"To enchance fuel viscosity for proper atomization",
+	"option3":"To reduce fuel density for proper atomization"
+	},
+		{
+	"question":"In order to properly remove air from the casing of a centrifugal pump when starting, the pump should have a_____.?",
+	"option1":"vent valve attached to the casing at the top of the volute",
+	"option2":"positive head",
+	"option3":"negative suction head"
+	},
+		{
+	"question":"The construction of the main propulsion engine lube oil sump tank should _______ .?",
+	"option1":"retain the lube oil as long as possible before it recirculates through the system",
+	"option2":"have no plating joints of 90°",
+	"option3":"provide drain/return lines that are no greater than 24 inches from the pump suction"
+	},
+		{
+	"question":"An important point of consideration when replacing a dry type intake filter on an air compressor is to____.?",
+	"option1":"select the proper size of filter so that air flow is not restricted",
+	"option2":"use the same wetting oil on the element as is used in the compressor lubrication system",
+	"option3":"install a smaller size filter to allow for expansion  of the element"
+	},
+
+	{
+	"question":"Hydraulic pumps most commonly used in steering systems are of the ______ .?",
+	"option1":"axial piston type",
+	"option2":"lobe type",
+	"option3":"screw type"
+	},
+
+	{
+	"question":"Carbon adheres on the inside surface of fuel oil heaters because______________.?",
+	"option1":"the excessive fuel oil temperatures",
+	"option2":"low fuel oil temperatures",
+	"option3":"the moderate fuel oil temperatures"
+	},
+		{
+	"question":"The ability of lubricating oil to resist viscosity changes during temperature changes is indicated by the________.?",
+	"option1":"viscosity index number",
+	"option2":"American Petroleum Institute number",
+	"option3":"Seconds Saybolt Furol number"
+	},
+		{
+	"question":"When securing a centrifugal type distillate pump, which of the listed steps should be carried out first?",
+	"option1":"Trip the three way dump valve.",
+	"option2":"Close the pressure gage isolation valves.",
+	"option3":"Secure the casing vapor vent line."
+	},
+		{
+	"question":"What would result if the fuel used for boiler burners has sediments?",
+	"option1":"Clogged atomizer tips",
+	"option2":"High fuel oil feed",
+	"option3":"Low fuel oil feed"
+	},
+		{
+	"question":"The result of a too low fuel temperature flowing to the burners is the ___________.?",
+	"option1":"heavy black exhaust",
+	"option2":"White exhaust",
+	"option3":"blue exhaust"
+	},
+
+	{
+	"question":"The following liquids can ordinarily be discharged overboard without being processed through an oily water separator is ______.?",
+	"option1":"Segregated ballast",
+	"option2":"Fuel oil",
+	"option3":"Lube oil"
+	}
+
+
+
+]}

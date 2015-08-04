@@ -1,0 +1,899 @@
+   {"quizlist" :[
+   	{
+	"question":"How often must inspection of proper working of the EPIRB „s and SART ?s take place on board?",
+	"option1":"Weekly",
+	"option2":"14 days",
+	"option3":"month"
+	},
+	{
+	"question":"Where should lifejackets be stowed in?",
+	"option1":"Readily accessible spaces",
+	"option2":"Locked watertight containers",
+	"option3":"Mess room"
+	},
+
+	{
+	"question":"Which of following items shall be included in an abandon ship drill?",
+	"option1":"Checking that lifejackets are  correctly donned",
+	"option2":"Checking the distress signal rockets and other distress signals.",
+	"option3":"Checking the lifeboat provisions and supplies."
+	},
+
+	{
+	"question":"During an evacuation from a MODU, an individual without the option of a survival craft or life raft should enter the water on the leeward side, except in what condition?",
+	"option1":"When there is burning oil on the water",
+	"option2":"When there is a rescue craft in the area",
+	"option3":"When water temperature is below 40°F"
+	},
+	{
+	"question":"Preventer bars are fitted on lifeboat releasing gear to prevent __________?",
+	"option1":"accidental unhooking when the falls become slack",
+	"option2":"Preventer bars are fitted on lifeboat releasing gear to prevent",
+	"option3":"operation of the release lever until the boat is waterborne"
+	},
+	{
+	"question":"How enclosed lifeboats could maintain its upright position after capsizing?",
+	"option1":"Passengers are strapped to their seats",
+	"option2":"Sea anchor is deployed to windward",
+	"option3":"Fuel tanks are not less than half full"
+	},
+
+	{
+	"question":"After abandoning ship, why should you deploy the sea anchor from a liferaft?",
+	"option1":"To stay in the general location",
+	"option2":"To keep the liferaft from capsizing",
+	"option3":"Navigate against the current"
+	},
+
+	{
+	"question":"Most lifeboats are equipped with __________?",
+	"option1":"unbalanced rudders",
+	"option2":"Uruguay",
+	"option3":"Colombia"
+	},
+	{
+	"question":"Where are fire and lifeboat stations required to be listed?",
+	"option1":"Muster list",
+	"option2":"Ship's articles",
+	"option3":"Bunk card"
+	},
+	{
+	"question":"If a life raft should capsize___________?",
+	"option1":"right the raft using the righting straps",
+	"option2":"inflate the righting bag",
+	"option3":"climb onto the bottom"
+	},
+	{
+	"question":"You are underway when a fire breaks out in the forward part of your vessel. If possible, you should __________?",
+	"option1":"put the vessel's stern into the wind",
+	"option2":"abandon ship to windward",
+	"option3":"call for assistance"
+	},
+
+	{
+	"question":"Which among the choices is a safety feature provided on all inflatable life rafts?",
+	"option1":"The use of water stabilizing pockets",
+	"option2":"Overhead safety straps",
+	"option3":"Built in seats"
+	},
+	{
+	"question":"What is the purpose of the tripping line on a sea anchor?",
+	"option1":"To aid in its recovery",
+	"option2":"To aid in casting off",
+	"option3":"To direct the drift of the vessel"
+	},
+	{
+	"question":"You have abandoned ship and after two days in a raft, you can see an aircraft near the horizon apparently carrying out a search pattern. You should?",
+	"option1":"Use visual distress signals in conjunction with the EPIRB",
+	"option2":"Turn on the strobe light on the top of the EPIRB",
+	"option3":"Switch the EPIRB to the homing signal mode"
+	},
+
+	{
+	"question":"A life float on a fishing vessel must be equipped with __________?",
+	"option1":"pendants",
+	"option2":"v belt",
+	"option3":"sea anchore"
+	},
+
+	{
+	"question":"To turn over an inflatable liferaft that is upside down, you should pull on the __________?",
+	"option1":"righting strap",
+	"option2":"canopy",
+	"option3":"manropes"
+	},
+	{
+	"question":"Where is the number 2 lifeboat on a tanker located?",
+	"option1":"Forwardmost on the port side",
+	"option2":"Forwardmost on the starboard side",
+	"option3":"Abaft #1 lifeboat port side"
+	},
+	{
+	"question":"You have abandoned ship and after two days in a raft, you can see an aircraft near the horizon apparently carrying out a search pattern. What should you do?",
+	"option1":"Use visual distress signals in conjunction with the EPIRB",
+	"option2":"Turn on the strobe light on the top of the EPIRB",
+	"option3":"Switch the EPIRB to the homing signal mode"
+	},
+
+	{
+	"question":"The Master shall insure that the Emergency Position Indicating Radio beacon (EPIRB) is __________?",
+	"option1":"tested monthly",
+	"option2":"tested annually",
+	"option3":"secured inside the wheelhouse"
+	},
+
+	{
+	"question":"WOn an ocean going vessel, a lifeboat without desalting kits is certified to carry what provision for each person?",
+	"option1":"3 liters of water",
+	"option2":"2 Liters of water",
+	"option3":"4 liters of water"
+	},
+	{
+	"question":"What is the frequency of testing for vessel's EPIRB?",
+	"option1":"Monthly",
+	"option2":"Weekly",
+	"option3":"Every 2 months"
+	},
+	{
+	"question":"Your small vessel is broken down and rolling on heavy seas. In what way you can reduce the possibility of capsizing",
+	"option1":"Rigging a sea anchor",
+	"option2":"Constantly shifting the rudder",
+	"option3":"Moving all personnel forward and low"
+	},
+
+	{
+	"question":"What is the purpose of storm oil?",
+	"option1":"To smooth the sea",
+	"option2":"To weigh down the sea anchor",
+	"option3":"To lubricate sea anchor"
+	},
+
+	{
+	"question":"If for any reason, it is necessary to abandon ship while far out at sea, what is the important thing that crew members should do?",
+	"option1":"Remain together in the area because rescuers will start searching at the vessel's last known position",
+	"option2":"Immediately head for the nearest land",
+	"option3":"Get away from the area because sharks will be attracted to the vessel"
+	},
+	{
+	"question":"If more than one raft is manned after the vessel has sunk, what should you do?",
+	"option1":"Tie the rafts together and try to stay in a single group",
+	"option2":"Go to different direction in search of land",
+	"option3":"Spread out to increase the possibility of a search aircraft finding you"
+	},
+	{
+	"question":"What is the purpose of preventer bars fitted on lifeboat releasing gear?",
+	"option1":"To prevent accidental unhooking when the falls become slack",
+	"option2":"To prevent the falls from rehooking after they have been released",
+	"option3":"To prevent operation of the release lever until the boat is waterborne"
+	},
+
+	{
+	"question":"What is the purpose of preventer bars fitted on lifeboat releasing gear?",
+	"option1":"To prevent accidental unhooking when the falls become slack",
+	"option2":"To prevent the falls from rehooking after they have been released",
+	"option3":"To prevent operation of the release lever until the boat is waterborne"
+	},
+
+	{
+	"question":"After having thrown the life raft and stowage container into the water, how is the life raft inflated?",
+	"option1":"By pulling on the painter line",
+	"option2":"By forcing open the container which operates the CO2",
+	"option3":"By hitting the hydrostatic release"
+	},
+	{
+	"question":"An orage colored smoke signal or detonating luminous signals fired at interval of one minute means___________?",
+	"option1":"we see you, we will provide help as soon as possible",
+	"option2":"To embark here is dangerous",
+	"option3":"This is the most suitable place to embark"
+	},
+	{
+	"question":"A rigid lifesaving device designed for a group of survivors to hold on to while in the water is defined as a_________________?",
+	"option1":"buoyant apparatus",
+	"option2":"Life raft",
+	"option3":"Life cushion"
+	},
+
+	{
+	"question":"A liferaft which has inflated bottom-up on the water __________?",
+	"option1":"should be righted by standing on should be righted by standing on the righting straps, and leaning backwards",
+	"option2":"should be righted by standing on the life line, holding the righting straps, and leaning backwards",
+	"option3":"will right itself when the canopy tubes inflate"
+	},
+
+	{
+	"question":"Which is TRUE concerning immersion suits and their use?",
+	"option1":"They provide sufficient flotation to do away with the necessity of wearing a life jacket",
+	"option2":"A puncture in the suit will not appreciably reduce its value.",
+	"option3":"They should be tight fitting."
+	},
+	{
+	"question":"IWhat must all personnel be familiar with in regards to lifeboats?",
+	"option1":"Boarding and operating procedures",
+	"option2":"Maintenance schedule",
+	"option3":"Navigational systems"
+	},
+	{
+	"question":"If your life raft is to leeward of a fire on the water, what should you do first?",
+	"option1":"Cut the line to the sea anchor",
+	"option2":"Paddle away from the fire",
+	"option3":"Splash water over the life raft to cool it"
+	},
+
+	{
+	"question":"To turn over an inflatable liferaft that is upside down What should you do?",
+	"option1":"Pull on the righting strap",
+	"option2":"Pull out the canopy",
+	"option3":"Pull the manropes"
+	},
+
+	{
+	"question":"The center of flotation of a vessel is the point in the waterplane __________?",
+	"option1":"about which the vessel lists and trims",
+	"option2":"which coincides with the center of buoyancy",
+	"option3":"which, in the absence of external forces, is always vertically aligned with the center of gravity"
+	},
+
+	{
+	"question":"Which statement is correct about the liferaft that has inflated bottom-up on the water?",
+	"option1":"It should be righted by standing on the carbon dioxide cylinder, holding the righting straps, and leaning backwards",
+	"option2":"It should be righted by standing on the life line, holding the righting straps, and leaning backwards",
+	"option3":"It will right itself when the canopy tubes inflate"
+	},
+
+	{
+	"question":"You hear air escaping from the liferaft just after it has inflated. You should __________?",
+	"option1":"not panic since the safety valves allow excess pressure to escape",
+	"option2":"quickly hunt for the hole before the raft deflates",
+	"option3":"check the sea anchor line attachment for a tear if the seas are rough"
+	},
+
+	{
+	"question":"The greatest effect on stability occurs from loose liquids flowing __________.?",
+	"option1":"in and out of a vessel that is holed in a wing tank",
+	"option2":"from side to side in the tanks of the vessel",
+	"option3":"from fore to aft in the tanks of a vessel"
+	},
+
+	{
+	"question":"The number 2 lifeboat on a tanker would be __________?",
+	"option1":"forwardmost on the port side",
+	"option2":"Forwardmost on the starboard side",
+	"option3":"Abaft #1 lifeboat port side"
+	},
+
+	{
+	"question":"The Muster List shall show the duties assigned to members of the crew. Which of the following duties shall be included in the 'muster list' according to present regulations?",
+	"option1":"Closing of watertight doors, fire doors, valves, scuppers, side scuttles, skylights",
+	"option2":"Preparation of immersion suits and thermo protective aids for the ship's passengers.",
+	"option3":"Preparation of survival craft's Emergency Positions Indicating Radio Beacons."
+	},
+
+	{
+	"question":"Which type of EPIRB must each ocean-going ship carry?",
+	"option1":"Category 1",
+	"option2":"Class A",
+	"option3":"Class B"
+	},
+
+	{
+	"question":"The Emergency Position Indicating Radio beacon on a cargo vessel must be stowed __________?",
+	"option1":"so that it will float free if the vessel sinks",
+	"option2":"so that it is accessible from the bridge of the vessel",
+	"option3":"in an approved bracket"
+	},
+
+	{
+	"question":"Part of the required equipment for a lifeboat includes______________?",
+	"option1":"boathhook, painter, and whistle",
+	"option2":"a boathook",
+	"option3":"painter"
+	},
+
+	{
+	"question":"You are at sea in an inflatable liferaft. In high latitudes, the greatest danger is __________?",
+	"option1":"hypothermia caused by cold temperature",
+	"option2":"Asphyxiation due to keeping the canopy closed",
+	"option3":"Collapse of the raft due to cold temperatures"
+	},
+
+	{
+	"question":"If you reach shore in a liferaft, the first thing to do is__________?",
+	"option1":"drag the raft ashore and lash it down for a shelter",
+	"option2":"Find some wood for a fire",
+	"option3":"Get the provisions out of the raft"
+	},
+
+	{
+	"question":"You are tending the lifeline of a person who has entered a compartment wearing a breathing apparatus. How many tugs of the lifeline mean 'Are you all right'.?",
+	"option1":"One",
+	"option2":"Two",
+	"option3":"Three"
+	},
+
+	{
+	"question":"You have just abandoned ship and boarded a raft. After the raft is completely inflated you hear a whistling noise coming from a safety valve. You should __________?",
+	"option1":"not become alarmed unless it continues for a long period of time",
+	"option2":"Plug the safety valve",
+	"option3":"Remove the safety valve and replace it with a soft patch"
+	},
+
+	{
+	"question":"All personnel should be familiar with the lifeboats_____________?",
+	"option1":"boarding and operating procedures",
+	"option2":"Maintenance schedule",
+	"option3":"Navigational systems"
+	},
+
+	{
+	"question":"You have just abandoned ship and boarded a raft. After the raft is completely inflated you hear a whistling noise coming from a safety valve. What should you do?",
+	"option1":"Do not be alarmed unless it continues for a long period of time",
+	"option2":"Plug the safety valve",
+	"option3":"Remove the safety valve and replace it with a soft patch"
+	},
+
+	{
+	"question":"Your vessel is equipped with totally enclosed lifeboats. Which statement is TRUE when the boat is enveloped in flames?",
+	"option1":"An air tank will provide about ten minutes of air for the survivors and the engine",
+	"option2":"A water spray system to cool the outside of the boat is operated by a high-volume manual pump.",
+	"option3":"The motor takes its air supply from outside the lifeboat to prevent asphyxiation of the crew."
+	},
+
+	{
+	"question":"How can an inflatable life raft be launched?",
+	"option1":"By throwing the entire container overboard, then pulling on the operating cord to inflate the raft",
+	"option2":"By float-free method only",
+	"option3":"By kicking the hydrostatic release"
+	},
+
+	{
+	"question":"How often must inspection of proper working of the EPIRB's and SART's take place on board? Once per__________?",
+	"option1":"week",
+	"option2":"14 days",
+	"option3":"month"
+	},
+
+	{
+	"question":"Which type of EPIRB must each ocean-going ship carry",
+	"option1":"Category 1",
+	"option2":"Class A",
+	"option3":"Class B"
+	},
+
+	{
+	"question":"What do you call a rigid lifesaving device designed for a group of survivors to hold on to while in the water?",
+	"option1":"Buoyant apparatus",
+	"option2":"Life raft",
+	"option3":"Life cushion"
+	},
+
+	{
+	"question":"Which one of the given requirements regarding survival craft muster and embarkation arrangements corresponds to the present SOLAS regulations?",
+	"option1":"Muster and embarkation stations shall be readily accessible from accommodation and work areas",
+	"option2":"Muster and embarkation stations are to be arranged separately to improve working conditions.",
+	"option3":"Searchlights to be provided at the launching station."
+	},
+
+	{
+	"question":"The Emergency Position Indicating Radio Beacon on a cargo vessel must be stowed in what manner?",
+	"option1":"In such a way that it will float free if the vessel sinks",
+	"option2":"It is accessible from the bridge of the vessel",
+	"option3":"In an approved bracket"
+	},
+
+	{
+	"question":"After abandoning ship, you should deploy the sea anchor from a liferaft to __________?",
+	"option1":"stay in the general location",
+	"option2":"keep the liferaft from capsizing",
+	"option3":"Navigate against the current"
+	},
+
+	{
+	"question":"You have abandoned ship in a life raft. Which of the following actions should you take?",
+	"option1":"Organize a watch system, post as a lookout, tie up with other survival craft if possible, and stream the sea anchor",
+	"option2":"Join up with any other survival craft and stream the sea anchor",
+	"option3":"organize a lookout system"
+	},
+
+	{
+	"question":"Preventer bars are fitted on lifeboat releasing gear to prevent __________?",
+	"option1":"accidental unhooking when the falls become slack",
+	"option2":"the falls from rehooking after they have been released",
+	"option3":"operation of the release lever until the boat is waterborne"
+	},
+
+	{
+	"question":"If your life raft is to leeward of a fire on the water, you should first______________?",
+	"option1":"cut the line to the sea anchor",
+	"option2":"Paddle away from the fire",
+	"option3":"Splash water over the life raft to cool it"
+	},
+
+	{
+	"question":"Which is an indication of reserve buoyancy?",
+	"option1":"Freeboard",
+	"option2":"Metacentric height",
+	"option3":"Righting moment"
+	},
+
+	{
+	"question":"The purpose of storm oil is to?",
+	"option1":"Smooth the sea",
+	"option2":"To weigh down the sea anchor",
+	"option3":"To lubricate sea anchor"
+	},
+
+	{
+	"question":"What is the difference of steering oar in a lifeboat as compare to others?",
+	"option1":"Longer than the others and should be lashed to the stern",
+	"option2":"Used by the forward man in the boat to direct the bow",
+	"option3":"Used for the stroke oar"
+	},
+
+	{
+	"question":"Fire and lifeboat stations are required to be listed In the________?",
+	"option1":"muster list",
+	"option2":"official log book",
+	"option3":"bunk card"
+	},
+
+	{
+	"question":"If more than one raft is manned after the vessel has sunk, what should you do?",
+	"option1":"Tie the rafts together and try to stay in a single group",
+	"option2":"Go to different direction in search of land",
+	"option3":"Spread out to increase the possibility of a search aircraft finding you"
+	},
+
+	{
+	"question":"Your small vessel is broken down and rolling in heavy seas. You can reduce the possibility of capsizing by __________?",
+	"option1":"rigging a sea anchor",
+	"option2":"Constantly shifting the rudder",
+	"option3":"Moving all personnel forward and low"
+	},
+
+	{
+	"question":"Engines for lifeboats are required to have sufficient fuel to operate for how many hours?",
+	"option1":"24 hours",
+	"option2":"6 hours",
+	"option3":"12 hours"
+	},
+
+	{
+	"question":"The vessel's Emergency Position Indicating Radio beacon (EPIRB) must be tested __________?",
+	"option1":"monthly",
+	"option2":"weekly",
+	"option3":"daily"
+	},
+
+	{
+	"question":"You are tending the lifeline of a person who has entered a compartment wearing a breathing apparatus. How many tugs of the lifeline mean 'Are you all right'.?",
+	"option1":"One",
+	"option2":"Two",
+	"option3":"three"
+	},
+
+	{
+	"question":"What must all personnel be familiar with in regards to lifeboats?",
+	"option1":"Boarding and operating procedures",
+	"option2":"Maintenance schedule",
+	"option3":"Navigational systems"
+	},
+
+	{
+	"question":"You hear air escaping from the liferaft just after it has inflated. You should __________?",
+	"option1":"not panic since the safety valves allow excess pressure to escape",
+	"option2":"quickly hunt for the hole before the raft deflates",
+	"option3":"check the sea anchor line attachment for a tear if the seas are rough"
+	},
+
+	{
+	"question":"If you have to abandon ship and enter a life raft, your main course of action should be_______?",
+	"option1":"remain in the vicinity of the vessel",
+	"option2":"Head for the closest land",
+	"option3":"Head for the closest sea- lanes"
+	},
+
+	{
+	"question":"On an ocean going vessel, a lifeboat without desalting kits is certified to carry what provision for each person?",
+	"option1":"3 liters of water",
+	"option2":"2 kilograms of condensed milk",
+	"option3":"a signaling whistle"
+	},
+	{
+	"question":"What is the center of flotation of a vessel?",
+	"option1":"The point in the waterplane which the vessel lists and trims",
+	"option2":"The point in the waterplane which coincides with the center of buoyancy",
+	"option3":"The point in the waterplane which, in the absence of external forces, is always vertically aligned with the center of gravity"
+	},
+
+	{
+	"question":"The steering oar in a lifeboat is __________.",
+	"option1":"longer than the others and should be lashed to the stern",
+	"option2":"Used by the forward man in the boat to direct the bow",
+	"option3":"Used for the stroke oar"
+	},
+
+	{
+	"question":"If you have to abandon ship and enter a life raft, What should be your main course of action?",
+	"option1":"Remain in the vicinity of the vessel",
+	"option2":"Head for the closest land",
+	"option3":"Head for the closest sea- lanes"
+	},
+	{
+	"question":"You are at sea in an inflatable liferaft. What is the greatest danger in high latitudes?",
+	"option1":"Hypothermia caused by cold temperature",
+	"option2":"Asphyxiation due to keeping the canopy closed",
+	"option3":"Collapse of the raft due to cold temperatures"
+	},
+
+	{
+	"question":"Your vessel is equipped with totally enclosed lifeboats. Which statement is TRUE when the boat is enveloped in flames?",
+	"option1":"An air tank will provide about ten minutes of air for the survivors and the engine",
+	"option2":"A water spray system to cool the outside of the boat is operated by a high-volume manual pump.",
+	"option3":"The motor takes its air supply from outside the lifeboat to prevent asphyxiation of the crew."
+	},
+
+	{
+	"question":"What is the correct maintenance for the battery of an EPIRB?",
+	"option1":"Load must be checked weekly",
+	"option2":"It must be totally drained before replacement",
+	"option3":"It must be renewed every year"
+	},
+	{
+	"question":"A hydrostatic release mechanism for a liferaft________?",
+	"option1":"must be submerged to a certain depth to release automatically",
+	"option2":"It must be wet before it will release",
+	"option3":"It should be kept in a watertight cover except in an emergency"
+	},
+
+	{
+	"question":"If you are forced to abandon ship in a lifeboat, you should __________?",
+	"option1":"remain in the immediate vicinity",
+	"option2":"run for your life",
+	"option3":"put on your life jacket"
+	},
+
+	{
+	"question":"How can an inflatable life raft be manually released from its cradle?",
+	"option1":"By pushing the button on the hydrostatic release",
+	"option2":"By cutting the straps that enclose the container",
+	"option3":"By removing the rubber sealing strip from the container"
+	},
+	{
+	"question":"If more than one raft is manned after the vessel has sunk, you should __________?",
+	"option1":"tie the rafts together and try to stay in a single group",
+	"option2":"Go to different direction in search of land",
+	"option3":"Spread out to increase the possibility of a search aircraft finding you"
+	},
+
+	{
+	"question":"A liferaft which has inflated bottom-up on the water __________?",
+	"option1":"should be righted by standing on the carbon dioxide cylinder, holding the righting straps, and leaning backwards",
+	"option2":"should be righted by standing on the life line, holding the righting straps, and leaning backwards",
+	"option3":"will right itself when the canopy tubes inflate"
+	},
+
+	{
+	"question":"The greatest effect on stability occurs from loose liquids flowing __________?",
+	"option1":"in and out of a vessel that is holed in a wing tank",
+	"option2":"from side to side in the tanks of the vessel",
+	"option3":"from fore to aft in the tanks of a vessel"
+	},
+	{
+	"question":"When a sea anchor is used in landing stern first in a heavy surf, sternway is checked by __________?",
+	"option1":"slacking the tripping line and towing the sea anchor by the holding line",
+	"option2":"slacking the tripping line and towing the sea anchor from the stern",
+	"option3":"towing with the tripping line and leaving the holding line slack"
+	},
+
+	{
+	"question":"To turn over an inflatable liferaft that is upside down, you should pull on the __________?",
+	"option1":"righting strap",
+	"option2":"canopy",
+	"option3":"manropes"
+	},
+
+	{
+	"question":"If you reach shore in a liferaft, what is the first thing to do?",
+	"option1":"Drag the raft ashore and lash it down for a shelter",
+	"option2":"Find some wood for a fire",
+	"option3":"Get the provisions out of the raft"
+	},
+	{
+	"question":"What is the center of flotation of a vessel?",
+	"option1":"The point in the waterplane which the vessel lists and trims",
+	"option2":"The point in the waterplane which coincides with the center of buoyancy",
+	"option3":"The point in the waterplane which, in the absence of external forces, is always vertically aligned with the center of gravity"
+	},
+
+	{
+	"question":"While adrift in an inflatable liferaft in hot and tropical weather, what should you possibly do?",
+	"option1":"Deflate the floor panels to cool personnel",
+	"option2":"The canopy should be deflated so that it will not block cooling breezes",
+	"option3":"The pressure valve may be periodically opened to prevent excessive air pressure"
+	},
+
+	{
+	"question":"One can check the functioning of the SART by__________?",
+	"option1":"activating the SART and checking the effect on the radar screen",
+	"option2":"testing the SART",
+	"option3":"off the SART"
+	},
+	{
+	"question":"Which statement best describe a hydrostatic release mechanism for a life raft?",
+	"option1":"It must be submerged to a certain depth to release automatically",
+	"option2":"It must be wet before it will release",
+	"option3":"It should be kept in a watertight cover except in an emergency"
+	},
+
+	{
+	"question":"A hydrostatic release mechanism for a life raft__________________?",
+	"option1":"must be submerged to a certain depth to release automatically",
+	"option2":"It must be wet before it will release",
+	"option3":"It should be kept in a watertight cover except in an emergency"
+	},
+
+	{
+	"question":"Which among the choices is part of the required equipment for a lifeboat?",
+	"option1":"Painter",
+	"option2":"Paint",
+	"option3":"Roller"
+	},
+	{
+	"question":"You are underway when a fire breaks out in the forward part of your vessel. If possible, you should __________?",
+	"option1":"put the vessel's stern into the wind",
+	"option2":"abandon ship to windward",
+	"option3":"call for assistance"
+	},
+
+	{
+	"question":"The Master shall insure that the Emergency Position Indicating Radio beacon (EPIRB) is __________?",
+	"option1":"tested monthly",
+	"option2":"tested annually",
+	"option3":"secured inside the wheelhouse"
+	},
+
+	{
+	"question":"After abandoning ship, you should deploy the sea anchor from a liferaft to __________?",
+	"option1":"stay in the general location",
+	"option2":"keep the liferaft from capsizing",
+	"option3":"Navigate against the current"
+	},
+	{
+	"question":"What is the meaning of an orange colored smoke signal or detonating luminous signals fired at interval of one minute?",
+	"option1":"We see you, we will provide help as soon as possible",
+	"option2":"To embark here is dangerous",
+	"option3":"This is the most suitable place to embark"
+	},
+
+	{
+	"question":"Where must a lifeline be connected to the life raft?",
+	"option1":"All around",
+	"option2":"At the bow",
+	"option3":"At the stern"
+	},
+
+	{
+	"question":"If, for any reason, it is necessary to abandon ship while far out at sea, it is important that the crew members should __________?",
+	"option1":"remain together in the area because rescuers will start searching at the vessel's last known position",
+	"option2":"Immediately head for the nearest land",
+	"option3":"Get away from the area because sharks will be attracted to the vessel"
+	},
+	{
+	"question":"In lifeboat situations, which of the following visual distress signals is acceptable for daylight use only?",
+	"option1":"Orange smoke signal",
+	"option2":"Handheld red flare",
+	"option3":"Self-contained rocket propelled parachute red flare"
+	},
+
+	{
+	"question":"On an oceangoing vessel, for each person a lifeboat (without desalting kits) is certified to carry, the boat must be supplied with __________?",
+	"option1":"3 liters of water",
+	"option2":"2 kilograms of condensed milk",
+	"option3":"a signaling whistle"
+	},
+
+	{
+	"question":"You have abandoned ship and are in charge of a liferaft.How much water per day should you permit each occupant to drink after the first 24 hours?",
+	"option1":"0.5 liter",
+	"option2":"1 liter",
+	"option3":"2 liters"
+	},
+	{
+	"question":"Which of the following is considered primary life-saving equipment?",
+	"option1":"Lifeboat",
+	"option2":"Life Preserver",
+	"option3":"Lifering"
+	},
+
+	{
+	"question":"After the lifeboat has reached the top of the davit heads, davit arms begin moving up the tracks. Until when the movement is stopped by itself?",
+	"option1":"When the limit switch is touched",
+	"option2":"When brake handle is touched",
+	"option3":"When preventer bar is energized"
+	},
+
+	{
+	"question":"While adrift in an inflatable liferaft in hot, tropical weather __________?",
+	"option1":"deflating the floor panels may help to cool personnel",
+	"option2":"The canopy should be deflated so that it will not block cooling breezes",
+	"option3":"The pressure valve may be periodically opened to prevent excessive air pressure"
+	},
+	{
+	"question":"When a sea anchor is used in landing stern first in a heavy surf, how can sternway be checked?",
+	"option1":"Slack the tripping line and tow the sea anchor by the holding line",
+	"option2":"slacking the tripping line and towing the sea anchor from the stern",
+	"option3":"towing with the tripping line and leaving the holding line slack"
+	},
+
+	{
+	"question":"The purpose of the tripping line on a sea anchor is to __________?",
+	"option1":"aid in its recovery",
+	"option2":"aid in casting off",
+	"option3":"direct the drift of the vessel"
+	},
+
+	{
+	"question":"To disengage a survival craft suspended from the cable above the water, you must pull the safety pin and __________?",
+	"option1":"pull the hook release handle and use the ratchet bar",
+	"option2":"pull the hook release handle",
+	"option3":"use the ratchet bar and depress the retainer"
+	},
+	{
+	"question":"Generally, what is used to inflate life rafts?",
+	"option1":"Non-toxic inert gas",
+	"option2":"Oxygen",
+	"option3":"Hydrogen"
+	},
+
+	{
+	"question":"After having thrown the life raft and stowage container into the water, how is the life raft inflated?",
+	"option1":"By pulling on the painter line",
+	"option2":"By forcing open the container which operates the CO2",
+	"option3":"By hitting the hydrostatic release"
+	},
+
+	{
+	"question":"You have abandoned ship and are in charge of a liferaft. How much water per day should you permit each occupant to drink after the first 24 hours?",
+	"option1":"0.5 liter",
+	"option2":"2 liters",
+	"option3":"3 liters"
+	},
+	{
+	"question":"If an inflatable liferaft inflates upside down, you can right it by __________?",
+	"option1":"standing on the CO2 bottle, holding the bottom straps, and throwing your weight backwards",
+	"option2":"standing on the CO2 bottle",
+	"option3":"throwing your weight backwards"
+	},
+
+	{
+	"question":"How are lifelines attached to a life float?",
+	"option1":"Securely attached around the outside in bights no longer than three feet",
+	"option2":"By serving",
+	"option3":"By splicing one end of the line around the apparatus"
+	},
+
+	{
+	"question":"The battery of an EPIRB__________?",
+	"option1":"load must be checked weekly",
+	"option2":"It must be totally drained before replacement",
+	"option3":"It must be renewed every year"
+	},
+	{
+	"question":"Most enclosed lifeboats will right themselves after capsizing IF the __________?",
+	"option1":"passengers are strapped to their seats",
+	"option2":"Sea anchor is deployed to windward",
+	"option3":" Fuel tanks are not less than half full"
+	},
+
+	{
+	"question":"The following information must be given on the SART?",
+	"option1":"the MMSI number",
+	"option2":"date of replacement of the hydrostatic release unit",
+	"option3":"date of replacement of the battery"
+	},
+
+	{
+	"question":"The purpose of the tripping line on a sea anchor is to __________?",
+	"option1":"aid in its recovery",
+	"option2":"To aid in casting off",
+	"option3":"To direct the drift of the vessel"
+	},
+	{
+	"question":"The number 2 lifeboat on a tanker would be found __________?",
+	"option1":"on the port side",
+	"option2":"on the bow",
+	"option3":"on the starboard side"
+	},
+
+	{
+	"question":"Generally, which of the following gases is used to inflate life rafts?",
+	"option1":"CO2",
+	"option2":"Oxygen",
+	"option3":"Hydrogen"
+	},
+
+	{
+	"question":"The Emergency Position Indicating Radio beacon on a cargo vessel must be stowed __________?",
+	"option1":"so that it will float free if the vessel sinks",
+	"option2":"so that it is accessible from the bridge of the vessel",
+	"option3":"in an approved bracket"
+	},
+	{
+	"question":"Lifejackets should always be stowed in____________?",
+	"option1":"readily accessible spaces",
+	"option2":"Locked watertight containers",
+	"option3":"Mess room"
+	},
+
+	{
+	"question":"After the lifeboat has reached the top of the davit heads, the davit arms begin moving up the tracks until the movement is stopped by the______________?",
+	"option1":"when the limit switch is touched",
+	"option2":"When brake handle is touched",
+	"option3":"When preventer bar is energized"
+	},
+
+	{
+	"question":"The center of flotation of a vessel is the point in the waterplane __________?",
+	"option1":"about which the vessel lists and trims",
+	"option2":"which coincides with the center of buoyancy",
+	"option3":"which, in the absence of external forces, is always vertically aligned with the center of gravity"
+	},
+	{
+	"question":"To disengage a survival craft suspended from the cable above the water, you must pull the safety pin and __________?",
+	"option1":"pull the hook release handle and use the ratchet bar",
+	"option2":"pull the hook release handle",
+	"option3":"use the ratchet bar and depress the retainer"
+	},
+	{
+	"question":"If an inflatable liferaft inflates upside down, what should you do to right it?",
+	"option1":"Stand on the CO2 bottle, hold the bottom straps, and throw your weight backward",
+	"option2":"Push up on one side",
+	"option3":"Get at least three or four men to push down on the side containing the CO2 cylinder"
+	},
+
+	{
+	"question":"What should you do with your EPIRB if you are in a life raft during storm conditions?",
+	"option1":"Bring it inside the life raft and leave it on",
+	"option2":"Bring it inside the life raft and turn it off until the storm passes",
+	"option3":"Bring it inside the life raft and turn it on until the storm passes"
+	},
+
+	{
+	"question":"Which is an indication of reserve buoyancy?",
+	"option1":"Freeboard",
+	"option2":"Metacentric height",
+	"option3":"Righting moment"
+	},
+	{
+	"question":"How are lifelines attached to a life float?",
+	"option1":"Securely attached around the outside in bights no longer than three feet",
+	"option2":"By serving",
+	"option3":"By splicing one end of the line around the apparatus"
+	},
+	{
+	"question":"How can you check the function of the SART?",
+	"option1":"Activate the SART and check the effect on the radar screen",
+	"option2":"Switch on the SART",
+	"option3":"Switch off the SART"
+	},
+
+	{
+	"question":"A life raft with a capacity of 8 people in ocean service is required by regulation to carry what amount of water?",
+	"option1":"12 liters of fresh water",
+	"option2":"12 units of provisions",
+	"option3":"24 units of provisions"
+	},
+
+	{
+	"question":"You have abandoned ship and after two days in a raft, you can see an aircraft near the horizon apparently carrying out a search pattern. What should you do?",
+	"option1":"Use visual distress signals in conjunction with the EPIRB",
+	"option2":" Turn on the strobe light on the top of the EPIRB",
+	"option3":" Use the voice transmission capability of the EPIRB to guide the aircraft to your raft"
+	},
+	{
+	"question":"Which among the choices are most lifeboats equipped with?",
+	"option1":"Unbalanced rudders",
+	"option2":"Balanced rudders",
+	"option3":"Contraguide rudders"
+	}
+]}

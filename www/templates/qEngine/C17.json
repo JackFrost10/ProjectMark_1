@@ -1,0 +1,576 @@
+   {"quizlist" :[
+   	{
+	"question":"You are fighting a fire in the electrical switchboard in the engine room. You should secure the power, then __________.?",
+	"option1":"use a portable CO2 extinguisher",
+	"option2":"use a portable foam extinguisher",
+	"option3":"use a portable dry powder extinguisher"
+	},
+	{
+	"question":"Fire hose stations shall be marked in red letters and figures such as Fire Station No. '1', '2', '3', etc. The height of the letters and figures must be at least __________.?",
+	"option1":"2 in",
+	"option2":"2 cm",
+	"option3":"3 in"
+	},
+	{
+	"question":"When two fire hose teams are attacking a fire they should __________.?",
+	"option1":"not attack the fire from opposite sides",
+	"option2":"use different fire hose pressures",
+	"option3":"use fire hoses of different sizes"
+	},
+	{
+	"question":"A safety ring pin is usually inserted in the handle of a CO2 fire extinguisher to prevent________ .?",
+	"option1":"accidental discharge from the extinguisher",
+	"option2":"the cylinder valve from coming loose",
+	"option3":"the handle from contacting the cylinder"
+	},
+	{
+	"question":"After an engine is started you should __________.?",
+	"option1":"check operating pressures and temperatures, and check for leaks",
+	"option2":"increase engine speed to insure adequate flow of oil to all parts of the engine",
+	"option3":"pay no attention unless there are unusual noises from the engine"
+	},
+	{
+	"question":"A good approach to personnel safety is to assume that all tanks and pump rooms are potentially dangerous. You should immediately leave an area whenever________.?",
+	"option1":"any of the above conditions occur",
+	"option2":"you have irritation of the eyes, nose, or throat",
+	"option3":"you smell an unusual odor"
+	},
+	{
+	"question":"Before using a fixed CO2 system to fight an engine room fire, you must __________.?",
+	"option1":"evacuate all engine room personnel",
+	"option2":"secure the work",
+	"option3":"secure the tools"
+	},
+	{
+	"question":"To prevent the spread of fire by convection you should __________.?",
+	"option1":"close all openings to the area",
+	"option2":"shut off all electrical power",
+	"option3":"remove combustibles from direct exposure"
+	},
+	{
+	"question":"Which statement is TRUE of a gasoline spill?",
+	"option1":"It is visible for a shorter time than a fuel oil spill.",
+	"option2":"It does little harm to marine life.",
+	"option3":"It is not covered by the pollution laws."
+	},
+	{
+	"question":"Each fireman's outfit and its spare equipment on a tankship must be stowed in a(n) __________.?",
+	"option1":"separate and accessible location",
+	"option2":"locked cabinet in the machinery space",
+	"option3":"unlocked cabinet in the machinery space"
+	},
+	{
+	"question":"Each hand portable fire extinguisher must be marked with __________.?",
+	"option1":"an identification number",
+	"option2":"the name of the vessel on which it is located",
+	"option3":"the date that it was installed"
+	},
+	{
+	"question":"When instructing a crew member concerning the right way to lift a weight, you would instruct him to __________.?",
+	"option1":"bend his knees and lift with his legs",
+	"option2":"arch the back to add strength to the muscles",
+	"option3":"bend his back and stoop"
+	},
+	{
+	"question":"One of the limitations of foam as an extinguishing agent is that foam_____.?",
+	"option1":"conducts electricity",
+	"option2":"is corrosive and a hazard to fire fighters",
+	"option3":"is heavier than oil and sinks below its surface"
+	},
+	{
+	"question":"The maximum number of personnel allowed on a personnel transfer basket is __________.?",
+	"option1":"4",
+	"option2":"2",
+	"option3":"6"
+	},
+	{
+	"question":"What do oil discharge in large quantities form which affect birds at sea and may strand on beaches if these  do not disperse into the water as water droplets before reaching shore?",
+	"option1":"slicks",
+	"option2":"patches",
+	"option3":"spills"
+	},
+	{
+	"question":"To treat a person suffering from heat exhaustion, you should __________.?",
+	"option1":"Give him sips of cool water",
+	"option2":"Administer artificial respiration",
+	"option3":"Put him in a tub of ice water"
+	},
+	{
+	"question":"What is a contingency plan for ships?",
+	"option1":"Plan for safety preparedness",
+	"option2":"Plan for maintenance and repair",
+	"option3":"Loading plan for general cargo"
+	},
+	{
+	"question":"If heavy smoke is coming from the paint locker, what should be the FIRST firefighting response?",
+	"option1":"Secure the ventilation",
+	"option2":"Enter and use a portable extinguisher",
+	"option3":"Open the door to evaluate the extent of the fire"
+	},
+	{
+	"question":"How does low expansion foam act as an extinguishing agent when dealing with oil fires?",
+	"option1":"By smothering and also providing some cooling",
+	"option2":"By smothering only",
+	"option3":"The heat from the fire causes the foam to produce an inert gas which gradually extinguishes the fire."
+	},
+	{
+	"question":"The scuppers had been plugged as required at the time an oil spill occurs on deck. After shutting down the transfer, the engineroom should first be informed and then __________.?",
+	"option1":"spread an absorbent material, such as sawdust",
+	"option2":"rig a fire hose and call for water on deck",
+	"option3":"remove the plugs from the scuppers"
+	},
+	{
+	"question":"Small oil spills on deck can be kept from going overboard by ______:?",
+	"option1":"plugging the scuppers",
+	"option2":"driving wooden plugs into the vents",
+	"option3":"closing the lids on the vents"
+	},
+	{
+	"question":"When instructing a crew member concerning the rightv way to lift a weight, you would instruct him to __________.?",
+	"option1":"bend his knees and lift with his legs",
+	"option2":"arch the back to add strength to the muscles",
+	"option3":"bend his back and stoop"
+	},
+	{
+	"question":"Fire hose couplings __________.?",
+	"option1":"are made of bronze, brass, or soft alloy metals",
+	"option2":"should be painted red in order to identify hose lengths",
+	"option3":"are specially hardened to prevent crushing"
+	},
+	{
+	"question":"In order to discharge a CO2 portable fire extinguisher, the operator must FIRST __________.?",
+	"option1":"remove the locking pin",
+	"option2":"invert the CO2 extinguisher",
+	"option3":"squeeze the two trigger handles together"
+	},
+	{
+	"question":"The primary concern in aiding a back injury patient is __________.?",
+	"option1":"Avoiding possible injury to the spinal cord by incorrect handling",
+	"option2":"Relieving the patient's pain by giving aspirin or stronger medication",
+	"option3":"Preventing convulsions and muscle spasms caused by the pain"
+	},
+	{
+	"question":"Each hand portable fire extinguisher must be marked with __________.?",
+	"option1":"an identification number",
+	"option2":"the name of the vessel on which it is located",
+	"option3":"the date that it was installed"
+	},
+	{
+	"question":"If you have a fire in the engine room, your first act should be to __________.?",
+	"option1":"secure the fuel supply and ventilation to the engine room.",
+	"option2":"discharge the fixed CO2 system into the engine room",
+	"option3":"maneuver your vessel into the wind"
+	},
+	{
+	"question":"Control of fire should be addressed __________.?",
+	"option1":"immediately",
+	"option2":"immediately after restoring vital services",
+	"option3":"following control of flooding"
+	},
+	{
+	"question":"Which statement is TRUE of a gasoline spill?",
+	"option1":"It is visible for a shorter time than aIt is visible for a shorter time than a fuel oil spill.",
+	"option2":"It does little harm to marine life.",
+	"option3":"It is not covered by the pollution laws."
+	},
+	{
+	"question":"To ensure the early and efficient collection and exchange of security-related information is one of the objectives of_______.?",
+	"option1":"ISPS Code",
+	"option2":"STCW",
+	"option3":"MARPOL"
+	},
+	{
+	"question":"The number and type of hand portable fire extinguishers required outside and in the vicinity of the paint locker exit is __________.?",
+	"option1":"one B-II",
+	"option2":"one A-I",
+	"option3":"two A-IIs"
+	},
+	{
+	"question":"In order to discharge a CO2 portable fire extinguisher, the operator must FIRST __________.?",
+	"option1":"remove the locking pin",
+	"option2":"invert the CO2 extinguisher",
+	"option3":"squeeze the two trigger handles together"
+	},
+	{
+	"question":"When administering first aid, what should you avoid?",
+	"option1":"Unnecessary haste and appearance of uncertainty",
+	"option2":"Any conversation with the patient",
+	"option3":"Instructing bystanders"
+	},
+	{
+	"question":"Since electrical burn victims may be in shock, the FIRST medical response is to check for __________.?",
+	"option1":"Breathing and heartbeat",
+	"option2":"Symptoms of concussion",
+	"option3":"Indication of broken bones"
+	},
+	{
+	"question":"To prevent the spread of fire by convection you should __________.?",
+	"option1":"close all openings to the area",
+	"option2":"shut off all electrical power",
+	"option3":"remove combustibles from direct exposure"
+	},
+	{
+	"question":"When oil is discharged overboard, an entry is required in the __________.?",
+	"option1":"Oil Record Book",
+	"option2":"Official Logbook",
+	"option3":"engine rough log"
+	},
+	{
+	"question":"If you observe any situation which presents a safety or pollution hazard during fuel transfer operations which action should you take first?",
+	"option1":"Shut down the operation.",
+	"option2":"Wait for the person-in- charge to act.",
+	"option3":"Notify the ballast control operator."
+	},
+	{
+	"question":"Before using a fixed CO2 system to fight an engine room fire, you must __________.?",
+	"option1":"evacuate all engine room personnel",
+	"option2":"secure the work",
+	"option3":"secure the tools"
+	},
+	{
+	"question":"Injuries resulting from slips and falls constitute the largest percentage of accidents that occur in the catering department. What shall be done to reduce this high accident rate?",
+	"option1":"Keep the floors and decks free from fat and grease.",
+	"option2":"Ensure that slippery substances are not left where several persons are expected to be around.",
+	"option3":"Install thermostat to avoid water from freezing to ice."
+	},
+	{
+	"question":"What is the primary concern in aiding a back injury patient ?",
+	"option1":"Avoiding possible injury to the spinal cord by incorrect handling",
+	"option2":"Relieving the patient's pain by giving aspirin or stronger medication",
+	"option3":"Preventing convulsions and muscle spasms caused by the pain"
+	},
+	{
+	"question":"A precaution you should take before bunkering is to __________ ?",
+	"option1":"plug the scuppers",
+	"option2":"plug the vents",
+	"option3":"plug the sounding pipes"
+	},
+	{
+	"question":"After an engine is started you should __________.?",
+	"option1":"check operating pressures and temperatures, and check for leaks",
+	"option2":"increase engine speed to insure adequate flow of oil to all parts of the engine",
+	"option3":"pay no attention unless there are unusual noises from the engine"
+	},
+	{
+	"question":"If heavy smoke is coming from the paint locker, what should be the FIRST firefighting response?",
+	"option1":"Secure the ventilation",
+	"option2":"Enter and use a portable extinguisher",
+	"option3":"Open the door to evaluate the extent of the fire"
+	},
+	{
+	"question":"A safety outlet is provided on the CO2 discharge piping to prevent_________ .?",
+	"option1":"over pressurization of the CO2 discharge piping",
+	"option2":"over pressurization of the space being flooded",
+	"option3":"rupture of cylinder due to temperature increase"
+	},
+	{
+	"question":"Each fireman's outfit and its spare equipment on a tankship must be stowed in __________.?",
+	"option1":"separate and accessible location",
+	"option2":"locked cabinet in the machinery space",
+	"option3":"unlocked cabinet in the machinery space"
+	},
+	{
+	"question":"What equipment must be on a life float? (small passenger vessel regulations)?",
+	"option1":"Two paddles, a light, painter, lifeline and pendants",
+	"option2":"Water-light, painter, and signal mirror",
+	"option3":"Water-light and painter only"
+	},
+	{
+	"question":"If you observe any situation which presents a safety or pollution hazard during fuel transfer operations which action should you take first?",
+	"option1":"Shut down the operation.",
+	"option2":"Close the valves at the manifold.",
+	"option3":"Notify the person in charge of the shore facility."
+	},
+	{
+	"question":"Since electrical burn victims may be in shock, the FIRST medical response is to check for __________.?",
+	"option1":"Breathing and heartbeat",
+	"option2":"Symptoms of concussion",
+	"option3":"Indication of broken bones"
+	},
+	{
+	"question":"There is a fire aft aboard your vessel. To help fight the fire, you should put the __________.?",
+	"option1":"Bow into the wind and decrease speed",
+	"option2":" wind off either beam",
+	"option3":"Stern into the wind and increase speed"
+	},
+	{
+	"question":"A precaution you should take before bunkering is to __________?",
+	"option1":"plug the scuppers",
+	"option2":"plug the vents",
+	"option3":"plug the sounding pipes"
+	},
+	{
+	"question":"When administering first aid you should avoid __________.?",
+	"option1":"Unnecessary haste and appearance of uncertainty",
+	"option2":"Any conversation with the patient",
+	"option3":"Instructing bystanders"
+	},
+	{
+	"question":"Fire in an engine compartment is best extinguished with carbon dioxide gas (CO2) and by__________.?",
+	"option1":"completely closing the compartment",
+	"option2":"leaving the compartment open to the air",
+	"option3":"closing the compartment except for the ventilators"
+	},
+	{
+	"question":"A patient in shock should NOT be placed in which position?",
+	"option1":"Arms above their head",
+	"option2":"On their side if unconscious",
+	"option3":"Head down and feet up, no injuries to face or head"
+	},
+	{
+	"question":"The number and type of hand portable fire extinguishers required outside and in the vicinity of the paint locker exit is __________.?",
+	"option1":"one B-II",
+	"option2":"one A-I",
+	"option3":"two A-IIs"
+	},
+	{
+	"question":"Fire hose stations shall be marked in red letters and figures such as Fire Station No. 1, 2, 3 and others. The height of the letters and figures must be at least __________.?",
+	"option1":"5 cm",
+	"option2":"3 cm",
+	"option3":"4 cm"
+	},
+	{
+	"question":"What equipment must be on a life float? (small passenger vessel regulations)?",
+	"option1":"Two paddles, a light, painter, lifeline and pendants",
+	"option2":"Water-light, painter, and signal mirror",
+	"option3":"Water-light and painter only"
+	},
+	{
+	"question":"The spread of fire is prevented by __________.?",
+	"option1":"removing combustibles from the endangered area",
+	"option2":"heating surfaces adjacent to the fire",
+	"option3":"heating surfaces adjacent to the fire"
+	},
+	{
+	"question":"Control of fire should be addressed __________.?",
+	"option1":"immediately",
+	"option2":"immediately after restoring vital services",
+	"option3":"following control of flooding"
+	},
+	{
+	"question":"Which activity will have the greatest fire-fighting effect in case of a fire?",
+	"option1":"Extinguishing attempt is started immediately",
+	"option2":"Call the Chief Officer",
+	"option3":"All possible fire-fighting equipment is brought to the scene"
+	},
+	{
+	"question":"Which fire-fighting equipment is most efficient and with least side effects in case of a large fire in the engine room?",
+	"option1":"Central gas extinguishing system and/or water fog.",
+	"option2":"Sprinkler system",
+	"option3":"Sprinkler system"
+	},
+	{
+	"question":"Which of the following is NOT TRUE why there may not be enough oxygen in an enclosed space or tank?",
+	"option1":"Enclosed space has no proper circulation of air.",
+	"option2":"Cargo inside may have absorb the oxygen.",
+	"option3":"Oxygen is depleted as oxidation may have taken place."
+	},
+	{
+	"question":"Which extinguishing agent is the best for use on electrical fires?",
+	"option1":"CO2",
+	"option2":"Dry chemical",
+	"option3":"Water fog"
+	},
+	{
+	"question":"How do you treat a person suffering from heat exhaustion?",
+	"option1":"Give him sips of cool water",
+	"option2":"Administer artificial respiration",
+	"option3":"Put him in a tub of ice water"
+	},
+	{
+	"question":"When bunkering is complete, the hoses should be__________.?",
+	"option1":"drained, blanked off, and stored securely",
+	"option2":"When bunkering is complete",
+	"option3":"washed out with hot soapy water"
+	},
+	{
+	"question":"You are fighting a fire in the electrical switchboard in the engine room. You should secure the power, then __________.?",
+	"option1":"use a portable CO2 extinguisher",
+	"option2":"use a portable foam extinguisher",
+	"option3":"use a low-velocity fog adapter with the fire hose"
+	},
+	{
+	"question":"What is the most important consideration when determining how to fight an electrical fire?",
+	"option1":"Danger of shock to personnel",
+	"option2":"Whether the fire is in machinery or passenger spaces",
+	"option3":"The amount of toxic fumes created by the extinguisher"
+	},
+	{
+	"question":"What is the most important consideration when determining how to fight an electrical fire?",
+	"option1":"Danger of shock to personnel",
+	"option2":"Whether the fire is in machinery or passenger spaces",
+	"option3":"The amount of toxic fumes created by the extinguisher"
+	},
+	{
+	"question":"Before CPR is started, you should ____________.?",
+	"option1":"establish an open airway",
+	"option2":"make the victim comfortable",
+	"option3":"treat any bleeding wounds"
+	},
+	{
+	"question":"The maximum number of personnel allowed on a personnel transfer basket is __________.?",
+	"option1":"4",
+	"option2":"2",
+	"option3":"3"
+	},	{
+	"question":"The spread of fire is prevented by __________.?",
+	"option1":"removing combustibles from the endangered area",
+	"option2":"heating surfaces adjacent to the fire",
+	"option3":"heating surfaces adjacent to the fire"
+	},
+	{
+	"question":"Oil discharge in large quantities form ______ which will affect birds at sea and may strand on beaches if these do not disperse into the water as water droplets before reaching shore:?",
+	"option1":"slicks",
+	"option2":"patches",
+	"option3":"spills"
+	},
+
+	{
+	"question":"A liquid, as listed on a Material Safety Data Sheet MSDS, having a flash point below 37.78°C is called ________ .?",
+	"option1":"flammable liquid",
+	"option2":"viscous liquid",
+	"option3":"viscous liquid"
+	},
+	{
+	"question":"Which of the following is NOT TRUE why there may notv be enough oxygen in an enclosed space or tank?",
+	"option1":"Enclosed space has no proper circulation of air.",
+	"option2":"Cargo inside may have absorb the oxygen.",
+	"option3":"Oxygen is depleted as oxidation may have taken place."
+	},
+	{
+	"question":"A health hazard term listed on a Material Safety Data Sheet (MSDS) that indicates allergic-like reaction in some people after repeated exposure is _____________.?",
+	"option1":"sensitizer",
+	"option2":"pyrophoric hazard",
+	"option3":"oxidizer"
+	},
+	{
+	"question":"Fire in an engine compartment is best extinguished with carbon dioxide gas (CO2) and by __________.?",
+	"option1":"completely closing the compartment",
+	"option2":"leaving the compartment open to the air",
+	"option3":"closing the compartment except for the ventilators"
+	},
+	{
+	"question":"There is a fire aft aboard your vessel. To help fight the fire, you should put the __________.?",
+	"option1":"Bow into the wind and decrease speed",
+	"option2":"wind off either beam",
+	"option3":"Stern into the wind and increase speed"
+	},
+	{
+	"question":"Fire and abandon ship stations and duties may be found in the __________.?",
+	"option1":"muster List",
+	"option2":"shipping articles",
+	"option3":"crewman's duty list"
+	},
+	{
+	"question":"Each fireman's outfit and its spare equipment on a tankship must be stowed in __________.?",
+	"option1":"separate and accessible location",
+	"option2":"locked cabinet in the machinery space",
+	"option3":"unlocked cabinet in the machinery space"
+	},
+	{
+	"question":"The primary concern in aiding a back injury patient is __________.?",
+	"option1":"Avoiding possible injury to the spinal cord by incorrect handling",
+	"option2":"Relieving the patient's pain by giving aspirin or stronger medication",
+	"option3":"Preventing convulsions and muscle spasms caused by the pain"
+	},
+	{
+	"question":"If heavy smoke is coming from the paint locker, the FIRST firefighting response should be to __________.?",
+	"option1":"Secure the ventilation",
+	"option2":"Enter and use a portable extinguisher",
+	"option3":"Open the door to evaluate the extent of the fire"
+	},	{
+	"question":"The scuppers had been plugged as required at the time an oil spill occurs on deck. After shutting down the transfer, the engineroom should first be informed and then __________.?",
+	"option1":"spread an absorbent material, such as sawdust",
+	"option2":"rig a fire hose and call for water on deck",
+	"option3":"remove the plugs from the scuppers"
+	},
+	{
+	"question":"One of the requirements for an oil tanker operating with Dedicated Clean Ballast shall be that it is equipped with_________.?",
+	"option1":"An oil content meter",
+	"option2":"Oily water seperator",
+	"option3":"Crude Oil Washing"
+	},
+	{
+	"question":"When two fire hose teams are attacking a fire they should __________.?",
+	"option1":"not attack the fire from opposite sides",
+	"option2":"use different fire hose pressures",
+	"option3":"use fire hoses of different sizes"
+	},
+	{
+	"question":"When oil is discharged overboard, an entry is required in the __________.?",
+	"option1":"Oil Record Book",
+	"option2":"engine rough log",
+	"option3":"Official Logbook"
+	},
+	{
+	"question":"Fire hose couplings __________.?",
+	"option1":"are made of bronze, brass, or soft alloy metals",
+	"option2":"should be painted red in order to identify hose lengths",
+	"option3":"are specially hardened to prevent crushing"
+	},
+	{
+	"question":"Fire hose stations shall be marked in red letters and figures such as Fire Station No. 1, 2, 3 and others. The height of the letters and figures must be at least __________.?",
+	"option1":"5 cm",
+	"option2":"2 cm",
+	"option3":"3 cm"
+	},
+	{
+	"question":"When bunkering is complete, the hoses should be __________.?",
+	"option1":"drained, blanked off, and stored securely",
+	"option2":"cleaned internally with a degreaser",
+	"option3":"washed out with hot soapy water"
+	},
+	{
+	"question":"Fire in an engine compartment is best extinguished with carbon dioxide gas (CO2) and by__________.?",
+	"option1":"completely closing the compartment",
+	"option2":"leaving the compartment open to the air",
+	"option3":"closing the compartment except for the ventilators"
+	},
+	{
+	"question":"A patient in shock should NOT be placed in which position?",
+	"option1":"Arms above their head",
+	"option2":"On their side if unconscious",
+	"option3":"Head down and feet up, no injuries to face or head"
+	},
+	{
+	"question":"If you have a fire in the engine room, your first act should be to __________.?",
+	"option1":"secure the fuel supply and ventilation to the engine room.",
+	"option2":"discharge the fixed CO2 system into the engine room",
+	"option3":"maneuver your vessel into the wind"
+	},
+	{
+	"question":"If you observe any situation which presents a safety or pollution hazard during fuel transfer operations on a MODU (Mobile Offshore Drilling Unit), which of the listed actions should be taken first?",
+	"option1":"Shutdown the transfer operations.",
+	"option2":"Wait for the person-in- charge to act",
+	"option3":"Notify the ballast control operator"
+	},
+	{
+	"question":"A chemical material, as listed on a Material Safety Data Sheet that reacts with water or moist air, and produces a health or physical hazard, is called _______ .?",
+	"option1":"water-reactive",
+	"option2":"toxic",
+	"option3":"flammable"
+	},
+	{
+	"question":"What is the line roughly following the 180th meridian called?",
+	"option1":"International date line",
+	"option2":"Rhumbline",
+	"option3":"Equator"
+	},
+	{
+	"question":"Which of the following is false why there may not be enough oxygen in an enclosed space or tank?",
+	"option1":"Enclosed space has no proper circulation of air.",
+	"option2":"Enclosed space has proper circulation of air",
+	"option3":"Enclosed space has high oxygen content"
+	},
+	{
+	"question":"For the safety of personnel working with fire hoses, fire pumps are fitted with ____________.?",
+	"option1":"pressure gage and relief valve on the discharge side",
+	"option2":"butterfly valve on the discharge side",
+	"option3":"air priming valve on the impeller housing"
+	},
+	{
+	"question":"Which statement is FALSE regarding Halon as a fire extinguishing agent?",
+	"option1":"It is always non-toxic.",
+	"option2":"It is toxic",
+	"option3":"It destroys the ozone layer"
+	}]}

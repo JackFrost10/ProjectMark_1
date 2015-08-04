@@ -1,0 +1,220 @@
+{
+    "quizlist": [
+        {
+            "question": "What will happen when there is an excessive wear on a centrifugal pump shaft?",
+            "option1": "There will be an excessive leakage past the packing gland",
+            "option2": "The discharge pressure will decrease",
+            "option3": "The pump bearings will be damage"
+        },
+        {
+            "question": "What is used as a jointing materials for fresh and sea water pipes?",
+            "option1": "Rubber",
+            "option2": "Flange",
+            "option3": "Rivet"
+        },
+        {
+            "question": "In hydraulic system, all machines which are consumers of hydraulic power equipped with ________.?",
+            "option1": "motor",
+            "option2": "rotor",
+            "option3": "hydraulic stabilizer"
+        },
+        {
+            "question": "4/3 Way valve is a type of directional valve with ___________ .?",
+            "option1": "4 ports and 3 positions",
+            "option2": "3 ports and 2 positions",
+            "option3": "3 ports and 4 positions"
+        },
+        {
+            "question": "The following are parts of the main bowl of purifier except___________.?",
+            "option1": "Bolt",
+            "option2": "Hood",
+            "option3": "Nut"
+        },
+        {
+            "question": "A hydraulic system where all oil goes back to the tank is termed as____________.?",
+            "option1": "Open loop system",
+            "option2": "Close loop system",
+            "option3": "Semi Open loop system"
+        },
+        {
+            "question": "Return port of a hydraulic directional valve is designated by letter __________.?",
+            "option1": "T",
+            "option2": "S",
+            "option3": "R"
+        },
+        {
+            "question": "After installing a new hydraulic pump in a system, what special attention should be given to the hydraulic system?",
+            "option1": "The filters and strainers should be checked frequently.",
+            "option2": "The relief valves in the system should be readjusted.",
+            "option3": "All system pressure should be readjusted."
+        },
+        {
+            "question": "What should be done if localized scoring is discovered on the pump shaft sleeve during routine maintenance inspection?",
+            "option1": "Correct the cause of scoring and install a new shaft sleeve.",
+            "option2": "Reassemble the pump and provide more water leak off for lubrication.",
+            "option3": "Check for parallel alignment of the sleeve radial face to the sleeve bore."
+        },
+        {
+            "question": "What will be the result of badly leaking refrigeration compressor discharge valves?",
+            "option1": "Continues running of the compressor",
+            "option2": "Overfeeding of the expansion valve",
+            "option3": "Damage to the condenser"
+        },
+        {
+            "question": "The nut of the bowl assembly is confirmed tight___________.?",
+            "option1": "when marks on the body and nut are aligned",
+            "option2": "by a torque wrench",
+            "option3": "when the nut is no longer move after several hammer blows"
+        },
+        {
+            "question": "What factors shorten the life of valve springs?",
+            "option1": "Fatigue and compression",
+            "option2": "Corrosion and fatigue",
+            "option3": "Compression and corrosion"
+        },
+        {
+            "question": "An aligning punch is used to_______________.?",
+            "option1": "line up corresponding holes in adjacent parts",
+            "option2": "completely loosen a jammed bolt",
+            "option3": "mark centers and lines in layout work"
+        },
+        {
+            "question": "A fixed displacement pump is a hydraulic pump in which the________.?",
+            "option1": "discharge capacity is constant",
+            "option2": "suction capacity is constant",
+            "option3": "discharge capacity is not constant"
+        },
+        {
+            "question": "Important check to be done during overhauling of the pump is the______.?",
+            "option1": "wear ring clearance against impeller",
+            "option2": "pump shaft condition",
+            "option3": "mechanical seal condition"
+        },
+        {
+            "question": "Routine maintenance on a Central Control Room hermetically sealed air conditioning unit should include__________.?",
+            "option1": "changing the air filter",
+            "option2": "recharging the system",
+            "option3": "changing compressor lubricant"
+        },
+        {
+            "question": "An oil film of a lubricant is affected by the______.?",
+            "option1": "working temperature of the engine",
+            "option2": "thinner grade of oil",
+            "option3": "thicker grade of oil"
+        },
+        {
+            "question": "4/3 Way valve is a type of directional valve with ___________ .?",
+            "option1": "4 ports and 3 positions",
+            "option2": "3 ports and 4 positions",
+            "option3": "3 ports and 2 positions"
+        },
+        {
+            "question": "Which of the following will speed up the recovery process when performing maintenance on a refrigeration system _______?",
+            "option1": "chilling the recovery vessel and heating the appliance",
+            "option2": "chilling the recovery vessel only",
+            "option3": "heating the appliance only"
+        },
+        {
+            "question": "One of the four basic components of hydraulic system that provides the flow of oil in the system is called__________.?",
+            "option1": "pump",
+            "option2": "motor",
+            "option3": "power"
+        },
+        {
+            "question": "Most common type of hydraulic pump is _____.?",
+            "option1": "piston pump",
+            "option2": "gear pump",
+            "option3": "rotary pump"
+        },
+        {
+            "question": "The size of flexible hose used in a hydraulic system is indicated by______________.?",
+            "option1": "the numerical designation found on the 'skin' of the hose",
+            "option2": "the thickness of the tube wall",
+            "option3": "the inside diameter of the tube"
+        },
+        {
+            "question": "A dial indicator is used to measure________.?",
+            "option1": "shaft eccentricity",
+            "option2": "positive readings only",
+            "option3": "torque of a shaft"
+        },
+        {
+            "question": "A welding procedure used for joining dissimilar metals used in the construction of a MODU would be recorded in the?",
+            "option1": "welding plan",
+            "option2": "construction portfolio",
+            "option3": "ASTM specifications"
+        },
+        {
+            "question": "Good maintenance is decisive and best be achieved in the engine room if there is________________.?",
+            "option1": "high degree of safety",
+            "option2": "natural routine work",
+            "option3": "maintenance work"
+        },
+        {
+            "question": "Which of the fittings listed should be used for the installation of piping to permit removal of the pump for servicing??",
+            "option1": "Union",
+            "option2": "Coupling",
+            "option3": "Quick disconnect"
+        },
+        {
+            "question": "After installing a new hydraulic pump in a system, what special attention should be given to the hydraulic system?",
+            "option1": "The filters and strainers should be checked frequently.",
+            "option2": "The relief valves in the system should be readjusted.",
+            "option3": "All system pressure should be readjusted."
+        },
+        {
+            "question": "The size of flexible hose used in a hydraulic system is indicated by______________.?",
+            "option1": "the numerical designation found on the 'skin' of the hose",
+            "option2": "a color code on the armor",
+            "option3": "the thickness of the tube wall"
+        },
+        {
+            "question": "Before carrying-out maintenance to the engine, one should __________.?",
+            "option1": "engage turning gear and switch off power",
+            "option2": "close the fuel oil valve",
+            "option3": "shut-off the jacket cooling heating"
+        },
+        {
+            "question": "Which of the fittings listed should be used for the installation of piping to permit removal of the pump for servicing?",
+            "option1": "Union",
+            "option2": "Coupling",
+            "option3": "Quick disconnect"
+        },
+        {
+            "question": "The filter element of hydraulic oil in the system is ___________.?",
+            "option1": "disposable",
+            "option2": "reusable",
+            "option3": "to be disposed after second use"
+        },
+        {
+            "question": "Improper maintenance of fuel oil burner in an auxiliary boiler could result to ________.?",
+            "option1": "decrease boiler efficiency",
+            "option2": "fan motor failure",
+            "option3": "fuel oil pump failure"
+        },
+        {
+            "question": "Expansion valve maintenance should include which of the following procedures?",
+            "option1": "Ensuring that the thermal bulb is in good contact with the suction line.",
+            "option2": "lapping the seat ",
+            "option3": "clean the seat with abrasive"
+        },
+        {
+            "question": "As part of a safe and effective maintenance onboard, the first valve to be opened first after the complete assembly of a newly ovehauled and clean big luboil cooler is the_____.?",
+            "option1": "Sea water outlet",
+            "option2": "Luboil inlet",
+            "option3": "Sea water inlet"
+        },
+        {
+            "question": "Most common type of hydraulic pump is _____.?",
+            "option1": "piston pump",
+            "option2": "gear pump",
+            "option3": "rotary pump"
+        },
+        {
+            "question": "As part of a safe and effective maintenance onboard, the first valve to be opened first after the complete assembly of a newly ovehauled and clean big luboil cooler is the_____.?",
+            "option1": "Sea water outlet",
+            "option2": "Luboil inlet",
+            "option3": "Sea water inlet"
+        }
+    ]
+}

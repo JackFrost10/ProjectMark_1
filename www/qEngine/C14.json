@@ -1,0 +1,403 @@
+ {"quizlist" :[
+	{
+	"question":"The ABC-rules are an important part of the First Aiders know how. What does the First Aid ABC-rules stands for?",
+	"option1":"Airway Breathing Circulation",
+	"option2":"Airway Blood Circulation",
+	"option3":"Airway Body Circulation"
+	},
+	{
+	"question":"What first aid is appropriate for skin contact with tankresidue from a cargo of leaded gasoline?",
+	"option1":"unnecessary haste and appearance of uncertainty",
+	"option2":"Any conversation with the patient",
+	"option3":"Instructing bystanders"
+	},
+	{
+	"question":"What is the primary objective of First Aid",
+	"option1":"To prevent further injury",
+	"option2":"To alleviate pain",
+	"option3":"To help a patient"
+	},
+	{
+	"question":"Treatment of burns and scalds depends on the severity of the injury. What is the correct thing to do for minor burns and scalds?",
+	"option1":"Place the injured part under slowly running cold water for at least 10 minutes, but preferably until the pain is gone. If no water is available, use any cold, harmless liquid.",
+	"option2":"Apply lotions, ointments or fat to the injury.",
+	"option3":"Remove all sticky clothing from the casualty."
+	},
+	{
+	"question":"What is the primary purpose for applying a splint when administering first aid?",
+	"option1":"Immobilize the fracture",
+	"option2":"Control bleeding",
+	"option3":"Reduce pain"
+	},
+	{
+	"question":"A person slowly feel more sleepy and thirsty. The skin become very dry and there is a sweet taste of the breath. The glucose reaction shows positive. What kind of medicine will the person need as soon as possible?",
+	"option1":"Insulin",
+	"option2":"Sugar lump, sugar drink or something sweet",
+	"option3":"Nothing at all"
+	},
+	{
+	"question":"A drip tray containing oil is on fire. The only fire fighting equipment available is water hose with spray jet/spray nozzle. How, if at all, should you attempt to put out this fire using water?",
+	"option1":"The water can be applied in a fine spray starting from the front in a sweeping motion.",
+	"option2":"Water should be applied in a jet to the back of the fire.",
+	"option3":"Water should be applied to the oil in a single jet only."
+	},
+	{
+	"question":"A seaman has a small, gaping laceration of the arm that is not bleeding excessively. What can be done as an alternative to suturing to close the wound?",
+	"option1":"Apply butterfly strips, then a sterile dressing.",
+	"option2":"Use temporary stitches of sail twine.",
+	"option3":"Wrap a tight bandage around the wound."
+	},
+	{
+	"question":"You are part of a team of two First Aiders in a resuscitation situation. What is the rhythm of resuscitation with two First Aiders?",
+	"option1":"5 compressions after every 1 inflation",
+	"option2":"10 compressions within every 3 inflations.",
+	"option3":"7 inflations before every 5 compressions"
+	},
+	{
+	"question":"In the event of fire in the crew's quarter, one of your first act is to:?",
+	"option1":"Close all ventillation to the quarters",
+	"option2":"Ventilate the quarters",
+	"option3":"Prepare to abandonship"
+	},
+	{
+	"question":"First aid treatment for small cuts and open wounds is to __________.?",
+	"option1":"stop the bleeding, clean, medicate, and cover the wound",
+	"option2":"Apply a hot towel to purge the wound, then medicate and cover it",
+	"option3":"Lay the patient down and cover the wound when the bleeding  stops"
+	},
+	{
+	"question":"What is the frequency of service for inflatable life raft , inflatable lifejacket and hydrostatic release units?",
+	"option1":"Every 12 months",
+	"option2":"Every 24 months",
+	"option3":"Every 18 months"
+	},
+	{
+	"question":"If a person suffering from possible broken bones and internal injuries is correctly being administered first aid, what statement is true?",
+	"option1":"The person should not be moved, unless remaining on the scene is unsafe but made comfortable until medical assistance arrives.",
+	"option2":"The person should be examined on the scene and then walked to a bunk to await the arrival of medical assistance.",
+	"option3":"The person should be moved from the scene but not allowed to walk on their own power without assistance."
+	},
+	{
+	"question":"A shipmate suffers a heart attack and stops breathing. What you must do",
+	"option1":"Check his pulse and start CPR",
+	"option2":"Let him lie on his side",
+	"option3":"Administer oxygen immediately"
+	},
+	{
+	"question":"Treatment of burns and scalds depends on the severity of the injury. What is the correct thing to do for minor burns and scalds?",
+	"option1":"Place the injured part under slowly running cold water for at least 10 minutes, but preferably until the pain is gone. If no water is available, use any cold, harmless liquid.",
+	"option2":"Apply lotions, ointments or fat to the injury.",
+	"option3":"Remove all sticky clothing from the casualty."
+	},
+	{
+	"question":"The most effective first aid treatment for chemical burns is to immediately __________.?",
+	"option1":"flood the affected area with water",
+	"option2":"apply ointment to burned area",
+	"option3":"wrap the burn with sterile dressing"
+	},
+	{
+	"question":"A lifejacket should be provided with__________ .?",
+	"option1":"a whistle and a light",
+	"option2":"On ships built after February 1992 all lifejackets should be fitted with a light",
+	"option3":"A light"
+	},
+	{
+	"question":"When can a tourniquet be used to control bleeding?",
+	"option1":"When all other means have failed",
+	"option2":"with puncture wounds",
+	"option3":"when the victim is unconscious"
+	},
+	{
+	"question":"How are first, second, and third degree burns classified?",
+	"option1":"According to layers of skin affected",
+	"option2":" According to source of heat causing the burn",
+	"option3":"  According to area of the body burned"
+	},
+	{
+	"question":"crew member has suffered frostbite to the toes of his right foot. Which of the following is not an acceptable first aid measure?",
+	"option1":"Rub the toes briskly",
+	"option2":"Elevate the foot slightly",
+	"option3":"Warm the frost bitten toes rapidly"
+	},
+	{
+	"question":"The primary objective of First Aid is:?",
+	"option1":"To prevent further injury",
+	"option2":"To alleviate pain",
+	"option3":"To help a patient"
+	},
+	{
+	"question":"When giving first aid you should avoid __________________.?",
+	"option1":"Unnecessary haste and appearance of uncertainty",
+	"option2":"Any conversation with the patient",
+	"option3":"Instructing bystanders"
+	},
+	{
+	"question":"What is the most important element in administering CPR?",
+	"option1":"Start the treatment quickly",
+	"option2":"Have the proper equipment for the process",
+	"option3":"Treat for traumatic shock"
+	},
+	{
+	"question":"While underway, fire break out in the forward part of the vessel. Whenever practicable, what will be the first thing you will do if your are on watch?",
+	"option1":"Put the vessel's stern into the wind",
+	"option2":"Keep going on half spead",
+	"option3":"Abandonship to windward"
+	},
+	{
+	"question":"What is the first aid treatment for small cuts and open  wounds?",
+	"option1":"Stop the bleeding, clean, medicate and cover the wound",
+	"option2":"cover the wound",
+	"option3":"clean, medicate and cover the wound"
+	},
+	{
+	"question":"Every inflatable life raft , inflatable lifejacket and hydrostatic release units shall be serviced__________ ?",
+	"option1":"every 12 months.",
+	"option2":"every 11 months.",
+	"option3":"every 9 months."
+	},
+	{
+	"question":"A high-velocity fog stream can be used in fire fighting situations to drive heat and smoke ahead of the fire fighters in a passageway. This technique should only be  used when ________.?",
+	"option1":"There is an outlet for the smoke and heat",
+	"option2":"At least two fog streams can be used",
+	"option3":"The fire is totally contained by the ship’s structure"
+	},
+	{
+	"question":"As with heat burns the damage of frostbite /hypothermia may be either superficial or deep, and the affected tissues may be destroyed. What kind of first aid should be given a person with frostbite?",
+	"option1":"Hand or body heat the affected parts skin-to-skin, example frozen hand in persons opposite armpit",
+	"option2":"Apply cold water",
+	"option3":"Leave the affected area untouched"
+	},
+	{
+	"question":"The MOST important element in administering CPR is:?",
+	"option1":"Starting the treatment quickly",
+	"option2":"Starting the treatment after 1 hour",
+	"option3":"Survey the scene"
+	},
+	{
+	"question":"Which of the following procedures is always recommended in the rescue of an unconscious person from a compartment containing an unsafe atmosphere?",
+	"option1":"Have the rescuers wear an approved self-contained breathing apparatus.",
+	"option2":"Have the rescuers move quickly",
+	"option3":"Have the rescuers move without Protective Equipment"
+	},
+	{
+	"question":"If it is necessary to remove a victim from a life threatening situation, what must a person giving first aid do??",
+	"option1":"Avoid subjecting the victim to any unnecessary disturbance during movement",
+	"option2":"Pull the victim by the feet",
+	"option3":"Do not move the victim to a another location until all injuries have been assessed"
+	},
+	{
+	"question":"What should you avoid when administering first aid?",
+	"option1":"Unnecessary haste and appearance of uncertainty",
+	"option2":"Any conversation with the patient",
+	"option3":"Instructing bystanders"
+	},
+	{
+	"question":"What should you include in the first aid treatment for battery acid or alkali burns, especially in the eyes?",
+	"option1":"Flushing with large amounts of fresh water and seeking medical attention ashore or by radio",
+	"option2":"Wiping the affected area with a clean dry cloth and resting quietly for several hours",
+	"option3":"Drying the acid or alkali with a rag followed by applying a light cream"
+	},
+	{
+	"question":"A high-velocity fog stream can be used in fire fighting situations to drive heat and smoke ahead of the fire fighters in a passageway. This technique should only be used when:?",
+	"option1":"There is an outlet for the smoke and heat",
+	"option2":"At least two fog streams can be used",
+	"option3":"The fire is totally contained by the ship’s structure"
+	},
+	{
+	"question":"First aid treatment for battery acid or alkali burns, especially in the eyes, includes_____________ .?",
+	"option1":"flushing with large amounts of fresh water and seeking medical attention ashore or by radio",
+	"option2":"Wiping the affected area with a clean dry cloth and resting quietly for several hours",
+	"option3":"Drying the acid or alkali with a rag followed by applying a light cream"
+	},
+	{
+	"question":"In the event of fire in the crew's quarter, one of your first act is to_________.?",
+	"option1":"Close all ventillation to the quarters",
+	"option2":"Ventilate the quarters",
+	"option3":"Prepare to abandonship"
+	},
+	{
+	"question":"Since electrical burn victims have been subjected to electric shock, what is the first medical response?",
+	"option1":"To check for breathing and heartbeat",
+	"option2":"To check for location of burns",
+	"option3":"To check for bleeding injuries"
+	},
+	{
+	"question":"How are first, second, and third degree burns classified?",
+	"option1":"According to layers of skin affected",
+	"option2":"According to source of heat causing the burn",
+	"option3":"According to area of the body burned"
+	},
+	{
+	"question":"If it is necessary to remove a victim from a life threatening situation, the person giving first aid must__________ .?",
+	"option1":"avoid subjecting the victim to any unnecessary disturbance during movement",
+	"option2":"Pull the victim by the feet",
+	"option3":"Do not move the victim to a another location until all injuries have been assessed"
+	},
+	{
+	"question":"What is the most effective first aid treatment for chemical burns?",
+	"option1":"To immediately flood the affected area with water",
+	"option2":"To immediately apply ointment to burned area",
+	"option3":"To wrap the burn with sterile dressing"
+	},
+	{
+	"question":"A drip tray containing oil is on fire. The only fire fighting equipment available is water hose with spray jet/spray nozzle. How, if at all, should you attempt to put out this fire using water?",
+	"option1":"The water can be applied in a fine spray starting from the front in a sweeping motion.",
+	"option2":"Water should be applied in a jet to the back of the fire.",
+	"option3":"Water should be applied to the oil in a single jet only."
+	},
+	{
+	"question":"A shipmate suffers a heart attack and stops breathing. You must:?",
+	"option1":"Check his pulse and start CPR",
+	"option2":"Let him lie on his side",
+	"option3":"Administer oxygen immediately"
+	},
+	{
+	"question":"What is first aid?",
+	"option1":"Emergency treatment at the scene of the injury",
+	"option2":"medical treatment of accident",
+	"option3":"setting of broken bones"
+	},
+	{
+	"question":"When should training in personal survival techniques be given?",
+	"option1":"Before being employed",
+	"option2":"After one period at sea",
+	"option3":"During the first week on board"
+	},
+	{
+	"question":"The ABC-rules are an important part of the First Aiders know how. What does the First Aid ABC-rules stands for?",
+	"option1":"Airway Breathing Circulation",
+	"option2":"Airway Blood Circulation",
+	"option3":"Airway Body Circulation"
+	},
+	{
+	"question":"A person slowly feel more sleepy and thirsty. The skin become very dry and there is a sweet taste of the breath. The glucose reaction shows positive. What kind of medicine will the person need as soon as possible?",
+	"option1":"Insulin",
+	"option2":"Sugar lump, sugar drink or something sweet",
+	"option3":"Nothing at all"
+	},
+	{
+	"question":"A tourniquet should be used to control bleeding ONLY __________.?",
+	"option1":"when all other means have failed",
+	"option2":"with puncture wounds",
+	"option3":"when the victim is unconscious"
+	},
+	{
+	"question":"water is rising in the bilge of a survival craft, what should you do first?",
+	"option1":"Check the bilge drain plug",
+	"option2":"Check the cracks in the hull",
+	"option3":"Shift all personnel to the stern"
+	},
+	{
+	"question":"What do you call a device used to immobilize fractures and help prevent bone displacement?",
+	"option1":"Splint",
+	"option2":"Bandage",
+	"option3":"Tourniquet"
+	},
+	{
+	"question":"If water is rising in the bilge of a survival craft, your should first:?",
+	"option1":"Check the bilge drain plug",
+	"option2":"Check the cracks in the hull",
+	"option3":"Shift all personnel to the stern"
+	},
+	{
+	"question":"What is the primary purpose for applying a splint in first aid?",
+	"option1":"It immobilizes fractured bone",
+	"option2":"It controls bleeding",
+	"option3":"all of these"
+	},
+	{
+	"question":"What does the abbreviation ABC mean in first aid?",
+	"option1":"Air, Breathing, Circulation.",
+	"option2":"Airway Blood Circulation",
+	"option3":"Airway Body Circulation"
+	},
+	{
+	"question":"A seaman has a small, gaping laceration of the arm that is not bleeding excessively. What can be done as an alternative to suturing to close the wound?",
+	"option1":"Apply butterfly strips, then a sterile dressing.",
+	"option2":"Use temporary stitches of sail twine.",
+	"option3":"Wrap a tight bandage around the wound."
+	},
+	{
+	"question":"First, second, and third degree burns are classifie according to the:?",
+	"option1":"Layers of skin affected",
+	"option2":" According to source of heat causing the burn",
+	"option3":"  According to area of the body burned"
+	},
+	{
+	"question":"Which position is the best to stop bleeding from the nose?",
+	"option1":"Sitting on a chair, leaning forward, with two fingers pressing the nose together",
+	"option2":"Holding the nose above steamed water",
+	"option3":"Laying on the back, holding a wet, cold towel on the top of the nose"
+	},
+	{
+	"question":"In reviving a person who has been overcomed by gas fumes, which of the following would you avoid doing?",
+	"option1":"Giving stimulants",
+	"option2":"Prompt removal of the patient from the suffocating atmosphere",
+	"option3":"Applying artificial respiration and massage"
+	},
+	{
+	"question":"First aid to poisoning bitten by spider. I. clean wound by alcohol I I. lie down victim keep quiet?",
+	"option1":"I ,II & III",
+	"option2":"I & II",
+	"option3":"II & III"
+	},
+	{
+	"question":"A device used to immobilize fractures and help prevent bone displacement is:?",
+	"option1":"Splint",
+	"option2":"Bandage",
+	"option3":"Tourniquet"
+	},
+	{
+	"question":"First aid means __________.?",
+	"option1":"emergency treatment at the scene of the injury",
+	"option2":"medical treatment of accident",
+	"option3":"setting of broken bones"
+	},
+	{
+	"question":"Which one of the listed routine test and inspections of life-saving appliances is not required by the regulations?",
+	"option1":"General emergency alarm to be tested daily",
+	"option2":"Lifeboat engines to be run for at least 3 minutes every week",
+	"option3":"Survival crafts and rescue boats with launching appliances shall be visually inspected weekly to ensure they are ready for use"
+	},
+	{
+	"question":"What should a lifejacket be provided with?",
+	"option1":"A whistle and a light",
+	"option2":"On ships built after February 1992 all lifejackets should be fitted with a light",
+	"option3":"A light"
+	},
+	{
+	"question":"First aid treatment for small cuts and open wounds is to___________ .?",
+	"option1":"stop the bleeding, clean, medicate, and cover the wound",
+	"option2":"Apply a hot towel to purge the wound, then medicate and cover it",
+	"option3":"Lay the patient down and cover the wound when the bleeding  stops"
+	},
+	{
+	"question":"As with heat burns the damage of frostbite and hypothermia may be either superficial or deep, and th affected tissues may be destroyed. What kind of first aid should be given a person with frostbite?",
+	"option1":"Hand or body heat the affected parts skin-to-skin, example frozen hand in persons opposite armpit",
+	"option2":"Give the casualty a cigarette.",
+	"option3":"Heat the affected area with hot-water bottles."
+	},
+	{
+	"question":"First aid to poisoning bitten by spider. I. clean wound by alcohol I I. lie down victim keep quiet?",
+	"option1":"I ,II & III",
+	"option2":"I & II",
+	"option3":"II & III"
+	},
+	{
+	"question":"When giving first aid, aside from understanding on how to conduct primary and secondary surveys what are the other aspect you should consider?",
+	"option1":"The limits of your capabilities",
+	"option2":"Which medications to prescribe",
+	"option3":"How to diagnose an illness from symptoms"
+	},
+	{
+	"question":"Which of the following procedures is always recommended in the rescue of an unconscious person from a compartment containing an unsafe atmosphere?",
+	"option1":"Have the rescuers wear an approved self-contained breathing apparatus.",
+	"option2":"Have the rescuers carry in a stokes basket for the victim.",
+	"option3":"Have the rescuer carry an emergency first aid kit for the victim."
+	},
+	{
+	"question":"Since electrical burn victims have been subjected to electric shock, what is the first medical response?",
+	"option1":"To check for breathing and heartbeat",
+	"option2":"To check for location of burns",
+	"option3":"To check for bleeding injuries"
+	}]}

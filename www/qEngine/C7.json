@@ -1,0 +1,490 @@
+{
+    "quizlist": [
+        {
+            "question": "When a megohmmeter is being used to test insulation resistance, current leakage along the surface of the insulation is indicated by the megohmmeter's pointer ______ .?",
+            "option1": "kicking slightly down scale as voltage is applied",
+            "option2": "fluctuating around a constant resistance reading",
+            "option3": "dipping toward zero then raising slowly"
+        },
+        {
+            "question": "The charge of a lead-acid battery can be restored by________.?",
+            "option1": "passing a direct electric current through the cell",
+            "option2": "passing an alternating electric current through the cell",
+            "option3": "adding acid to the electrolyte"
+        },
+        {
+            "question": "The division of kilowatt load between two paralleled alternators is determined by the______ .?",
+            "option1": "load-speed characteristics of the governors",
+            "option2": "high-speed characteristics of the governors",
+            "option3": "low-speed characteristics of the governors"
+        },
+        {
+            "question": "When a flourescent lamp has reached the end of its useful life, it should be replaced immediately, or the resultant flashing may____.",
+            "option1": "Damage the starter and the ballast",
+            "option2": "Damage the connection and the ballast",
+            "option3": "Damage the flourescent lamp and the ballast"
+        },
+        {
+            "question": "Which of the following precautions should you take when securing propulsion generators and motors for an extended period of time?",
+            "option1": "Lift the brushes from commutator collector rings and use the built-in heater to prevent moisture accumulation",
+            "option2": "Lift the brushes from commutator collector rings and  circulate cool dry air through the units",
+            "option3": "Disconnect the brush pigtails from their contacts and  circulate air through the units."
+        },
+        {
+            "question": "Third color band on a resistor is used to indicate the_______.?",
+            "option1": "number of zeros following the first two significant figures in the resistance value",
+            "option2": "tolerance of the resistor",
+            "option3": "first significant figure of the resistance"
+        },
+        {
+            "question": "To protect the fuse from getting damaged during removal from a fuse holder, it is detached with the aid of a ____________.?",
+            "option1": "Fuse puller tool",
+            "option2": "gear puller tool",
+            "option3": "lamp puller tool"
+        },
+        {
+            "question": "On AC vessels, which of the following statements represents the most difficult problem involved in obtaining a DC potential suitable for use by computer components?",
+            "option1": "the voltage must be rectified and made ripple free",
+            "option2": "the voltage are free to flow",
+            "option3": "either of 1 and 2"
+        },
+        {
+            "question": "When soldering a printed circuit board component, you should be careful to prevent circuit and board damage for what reason?",
+            "option1": "Using soldering iron heat sparingly",
+            "option2": "Using soldering iron can re-heat sparingly",
+            "option3": "Using soldering iron can joint to wires"
+        },
+        {
+            "question": "Most three-phase induction motors of five (5) horsepower or less, are started by_______.?",
+            "option1": "across-the-line starters",
+            "option2": "reactor starters",
+            "option3": "autotransformer starters"
+        },
+        {
+            "question": "A full-wave rectifier has one diode burned out in an open condition, what will be the output characteristic of the device?",
+            "option1": "Half-wave rectified",
+            "option2": "Zero",
+            "option3": "Full-wave rectified"
+        },
+        {
+            "question": "When a megohmmeter is being used to test insulation resistance, current leakage along the surface of the insulation is indicated by the megohmmeter's pointer ______ .?",
+            "option1": "kicking slightly down scale as voltage is applied",
+            "option2": "fluctuating around a constant resistance reading",
+            "option3": "dipping toward zero then raising slowly"
+        },
+        {
+            "question": "When troubleshooting an electronic circuit, a cold solder joint can be located with the aid of an ohmmeter. Once the problem has been located, you should______.?",
+            "option1": "reheat connection with a soldering tool and recheck with an ohmmeter",
+            "option2": "do nothing as this is the normal condition",
+            "option3": "reheat the circuit in an oven to an even temperature and recheck with an ohmmeter"
+        },
+        {
+            "question": "In an impressed current cathodic protection system, the anode is_______?",
+            "option1": "insulated from the hull and does not waste away.",
+            "option2": "connected to the hull and deteriorates with time",
+            "option3": "connected to the hull but does not waste away"
+        },
+        {
+            "question": "For maintenance of non-sealed batteries, the statements below are TRUE except ____________.?",
+            "option1": "It should be placed in a tightly closed compartment",
+            "option2": "It should be placed in a loosen closed compartment",
+            "option3": "It should be placed in a closed compartment"
+        },
+        {
+            "question": "A molded-case breaker provides protection against short circuits by using a/an_______.?",
+            "option1": "electromagnet",
+            "option2": "shading coil",
+            "option3": "arc quencher"
+        },
+        {
+            "question": "When troubleshooting electronic equipment, the first step to be taken before testing the circuit voltage is to_____.?",
+            "option1": "check the voltage supply from the power source",
+            "option2": "set the meter to the lowest range",
+            "option3": "remove the suspected component"
+        },
+        {
+            "question": "In an impressed current cathodic protection system, the anode is_______ .?",
+            "option1": "insulated from the hull and does not waste away.",
+            "option2": "connected to the hull and deteriorates with time",
+            "option3": "connected to the hull but does not waste away"
+        },
+        {
+            "question": "In order to protect the generator in service from overload, the non-essential load is isolated from the system by this device.?",
+            "option1": "Preferential tripping system",
+            "option2": "stripping system",
+            "option3": "isolated system"
+        },
+        {
+            "question": "The division of kilowatt load between two paralleled alternators is determined by the______ .?",
+            "option1": "load-speed characteristics of the governors",
+            "option2": "low-speed characteristics of the governors",
+            "option3": "high-speed characteristics of the governors"
+        },
+        {
+            "question": "The standard procedure for maintaining the charge in an emergency diesel starting battery is to trickle charge the battery ________.?",
+            "option1": "Continuously",
+            "option2": "Before",
+            "option3": "After"
+        },
+        {
+            "question": "Normally, the FIRST step in troubleshooting a transistor circuit card is to _______________.?",
+            "option1": "Give the circuit an initial test with a signal generator",
+            "option2": "Give the circuit an pre-test with a signal generator",
+            "option3": "Give the circuit an final test with a signal generator"
+        },
+        {
+            "question": "When testing a capacitor with an analog type ohmmeter, a good capacitor will be indicated by________.?",
+            "option1": "the meter deflects to a low resistance value and slowly increases towards infinity",
+            "option2": "the meter deflects to a low resistance value and increases rapidly to a higher value, but stays fairly low",
+            "option3": "there is no meter deflection"
+        },
+        {
+            "question": "Controller contacts should be routinely cleaned by______.?",
+            "option1": "wiping with a clean dry cloth",
+            "option2": "blowing with compressed air",
+            "option3": "filing with a bastard file"
+        },
+        {
+            "question": "The charging of lead-acid storage batteries will always result in_________.?",
+            "option1": "a dangerously explosive gas being liberated",
+            "option2": "dangerous acid burns",
+            "option3": "the danger of lead poisoning"
+        },
+        {
+            "question": "When soldering a printed circuit board component, you should be careful to prevent damage by ____________.?",
+            "option1": "Using the soldering iron tip sparingly",
+            "option2": "Using the soldering iron tip continuosly",
+            "option3": "Using the soldering iron tip precisely"
+        },
+        {
+            "question": "What precaution should be taken with a vessel's impressed current cathodic protection system after a drydocking period during which the hull has been painted?",
+            "option1": "The unit should remain off for the specified amount of time so as not to disturb curing.",
+            "option2": "A slight (10-15%) overcurrent to the anodes should be allowed in order to speed drying.",
+            "option3": "Output currents should be carefully monitored to assure  operation at nearly 100 % capacity for proper curing"
+        },
+        {
+            "question": "Electrically operated safety devices on auxiliary diesel engines functions to stop the engine by _________.?",
+            "option1": "shutting off fuel supply",
+            "option2": "shutting off lube oil supply",
+            "option3": "shutting off cooling supply"
+        },
+        {
+            "question": "As a general rule, the first troubleshooting action to be taken in checking faulty electric control devices is to______ .?",
+            "option1": "test all fuses and measure the line voltage",
+            "option2": "draw a one line diagram of the circuitry",
+            "option3": "take megger readings"
+        },
+        {
+            "question": "The electrolyte in a lead-acid storage battery consists of distilled water and ___________?",
+            "option1": "sulfuric acid",
+            "option2": "hydrogen chloride ",
+            "option3": "calcium chloride "
+        },
+        {
+            "question": "Complete maintenance of electrical motors should include checks for machine's ______________.?",
+            "option1": "vibration",
+            "option2": "leaking",
+            "option3": "pressures"
+        },
+        {
+            "question": "Most three-phase induction motors of five (5) horsepower or less, are started by_______.?",
+            "option1": "across-the-line starters",
+            "option2": "before the line starters",
+            "option3": "after the line starters"
+        },
+        {
+            "question": "During troubleshooting a magnetic controller, it is found that the contacts are welded together, what is the most probable cause?",
+            "option1": "Low voltage on the operating coil",
+            "option2": "high voltage on the operating coil",
+            "option3": "short voltage on the operating coil"
+        },
+        {
+            "question": "Heat sinks are frequently used with____ .?",
+            "option1": "power transistors",
+            "option2": "vacuum tubes",
+            "option3": "tunnel rectifier diodes"
+        },
+        {
+            "question": "When troubleshooting electronic equipment, you should use a high impedance multimeter ________.?",
+            "option1": "so as not to load down the circuit and obtain erroneous voltage readings",
+            "option2": "to prevent excess current flow through the meter that would damage it",
+            "option3": "for AC measurements only and a low resistance meter for DC measurements"
+        },
+        {
+            "question": "Heat sinks are frequently used with____ .?",
+            "option1": "power transistors",
+            "option2": "vacuum tubes",
+            "option3": "tunnel rectifier diodes"
+        },
+        {
+            "question": "When troubleshooting a lead-acid storage battery, a weak or dead cell is best detected by ____________?",
+            "option1": "measuring and comparing all cells specific gravity",
+            "option2": "measuring and testing all cells specific gravity",
+            "option3": "testing and comparing all cells specific gravity"
+        },
+        {
+            "question": "In order to check the performance of a transistor removed from its circuit, the instrument to be used should be a/an_____.?",
+            "option1": "ohmmeter or transistor tester",
+            "option2": "voltmeter or transistor tester",
+            "option3": "sensitive potentiometer"
+        },
+        {
+            "question": "The mica used in the commutators of DC machinery is _____________.?",
+            "option1": "Harder than copper",
+            "option2": "Harder than titanium",
+            "option3": "Harder than stainles steel"
+        },
+        {
+            "question": "When supplying emergency lighting loads, the storage battery initial voltage must exceed the standard system voltage by more that_______.?",
+            "option1": "5%",
+            "option2": "10%",
+            "option3": "8%"
+        },
+        {
+            "question": "To repair small electrical motor that has been submerged in saltwater , you should________.?",
+            "option1": "Wash it fresh water and apply external heat",
+            "option2": "Wash it sea water and apply external heat",
+            "option3": "Wash it sea water and apply internal heat"
+        },
+        {
+            "question": "When troubleshooting electronic equipment, the first step to be taken before testing the circuit voltage is to_____.?",
+            "option1": "check the voltage supply from the power source",
+            "option2": "set the meter to the lowest range",
+            "option3": "remove the suspected component"
+        },
+        {
+            "question": "The electrolyte in a lead-acid storage battery consists of distilled water and ___________?",
+            "option1": "sulfuric acid",
+            "option2": "hydrogen chloride ",
+            "option3": "calcium chloride "
+        },
+        {
+            "question": "Signal injection/trading is a method commonly used in troubleshooting ______.?",
+            "option1": "A radio",
+            "option2": "A VHF",
+            "option3": "A Transponder"
+        },
+        {
+            "question": "In order to check the performance of a transistor removed from its circuit, the instrument to be used should be a/an_____.?",
+            "option1": "ohmmeter or transistor tester",
+            "option2": "voltmeter or transistor tester",
+            "option3": "impedance meter"
+        },
+        {
+            "question": "What kind of maintenance system replaces a heavily wornout impeller during its operation?",
+            "option1": "Breakdown",
+            "option2": "PMS",
+            "option3": "Weekly maintenance"
+        },
+        {
+            "question": "After each overhaul of electric motors, it shall be started at _______________.?",
+            "option1": "No load",
+            "option2": "overload",
+            "option3": "light load"
+        },
+        {
+            "question": "What is the best procedure for locating grounded circuit if the light on main electrical switchboard is indicating a ground?",
+            "option1": "Open the circuit breaker on the distribution panel, one at a time, until the light no longer indicate a ground",
+            "option2": "short the circuit breaker on the distribution panel, one at a time, until the light no longer indicate a ground",
+            "option3": "trip off the circuit breaker on the distribution panel, one at a time, until the light no longer indicate a ground"
+        },
+        {
+            "question": "What is the maintenance system which checks if equipment, engines motors are overhauled as per schedule?",
+            "option1": "Planned",
+            "option2": "weekly",
+            "option3": "Monthly"
+        },
+        {
+            "question": "To determine if a stator coil is grounded, you should use a/an _______.?",
+            "option1": "megger",
+            "option2": "ammeter",
+            "option3": "ground detection lamp"
+        },
+        {
+            "question": "During troubleshooting a magnetic controller, it is found that the contacts are welded together the most probable cause is______.?",
+            "option1": "Low voltage on the operating coil",
+            "option2": "high voltage on the operating coil",
+            "option3": "short voltage on the operating coil"
+        },
+        {
+            "question": "When troubleshooting most electronic circuits, 'loading effect' can be minimized by using a voltmeter with a/an________?",
+            "option1": "input impedance much greater than the impedance across which the voltage is being measured",
+            "option2": "input impedance much less than the impedance across   which the voltage is being measured",
+            "option3": "sensitivity of less than 1000 ohms/volt"
+        },
+        {
+            "question": "The charging of lead-acid storage batteries will always result in_________.?",
+            "option1": "a dangerously explosive gas being liberated",
+            "option2": "dangerous acid burns",
+            "option3": "the danger of lead poisoning"
+        },
+        {
+            "question": "Why is it a poor practice to use a high wattage soldering iron when soldering or desoldering components on a printed circuit board?",
+            "option1": "The foil wire bonded to the board may come loosened from the board",
+            "option2": "The circuit board will blister and warp.",
+            "option3": "The circuit board has a low melting temperature."
+        },
+        {
+            "question": "When troubleshooting an electronic circuit, a cold solder joint can be located with the aid of an ohmmeter. Once the problem has been located, you should______.?",
+            "option1": "reheat connection with a soldering tool and recheck with an ohmmeter",
+            "option2": "do nothing as this is the normal condition",
+            "option3": "reheat the circuit in an oven to an even temperature and recheck with an ohmmeter"
+        },
+        {
+            "question": "When troubleshooting most electronic circuits, 'loadingeffect' can be minimized by using a voltmeter with a/an________?",
+            "option1": "input impedance much greater than the impedance across which the voltage is being measured",
+            "option2": "input impedance much less than the impedance across   which the voltage is being measured",
+            "option3": "sensitivity of less than 1000 ohms/volt"
+        },
+        {
+            "question": "When trouble shooting motor controllers, a shorted relay or contactor coil is often indicated by_______.?",
+            "option1": "Charged insulation and or a blown control fuse",
+            "option2": "disCharged insulation and or a blown control fuse",
+            "option3": "OverCharged insulation and or a blown control fuse"
+        },
+        {
+            "question": "Which of the damages listed below can occur to the components of a winch motor?",
+            "option1": "rapid corrosion of switch components",
+            "option2": "unrapid corrosion of switch components",
+            "option3": "fast rapid corrosion of switch components"
+        },
+        {
+            "question": "When testing for blown fuses in a three-phase supply circuit to a motor, you should first _____________.?",
+            "option1": "de-energize the circuit and then use a continuity tester",
+            "option2": "over-energize the circuit and then use a continuity tester",
+            "option3": "short-energize the circuit and then use a continuity tester"
+        },
+        {
+            "question": "The purpose of DC generator brushes is to____________.?",
+            "option1": "Conduct electric current to an outside circuit",
+            "option2": "Conduct electric current to an open circuit",
+            "option3": "Conduct electric current to an short circuit"
+        },
+        {
+            "question": "If all of the ground detection lamps burn with equal brilliance whether the test button is depressed or release then __________.?",
+            "option1": "No grounds exist",
+            "option2": "With grounds exist",
+            "option3": "open Ground exist"
+        },
+        {
+            "question": "When troubleshooting AC motors, portable growler can be used for locating ____________.?",
+            "option1": "Shorted stator coils",
+            "option2": "long stator coils",
+            "option3": "save stator coils"
+        },
+        {
+            "question": "When you are troubleshooting a DC motor that fails to start, the first thing to check is the ______.?",
+            "option1": "Fuses and circuit breaker",
+            "option2": "Ballast and circuit breaker",
+            "option3": "Trip and circuit breaker"
+        },
+        {
+            "question": "To check the three lines fuses of a three phase system consisting of a threephase motor, you must___.?",
+            "option1": "Place the starter in the “stop” position",
+            "option2": "Place the starter in the “on” position",
+            "option3": "Place the starter in the “off” position"
+        },
+        {
+            "question": "While troubleshooting a circuit in an engine room central control console, a resistor is suspected of being faulty Which of the following precautions must be observed if an ohmmeter is to be used to check its value.?",
+            "option1": "Resistor's circuit must be de-energized and at least one end of the component isolated.",
+            "option2": "Correct polarity must be observed because reverse bias will damage the component.",
+            "option3": "Meter leads must not be twisted so as to cancel out the  individual magnetic fields."
+        },
+        {
+            "question": "What kind of maintenance system repairs a cargo winch motor due to unusual sound of bearing during loading or unloading of cargo?",
+            "option1": "Condition",
+            "option2": "PMS",
+            "option3": "Monthly"
+        },
+        {
+            "question": "The purpose of a main switchboard circuit breaker reverse power trips is to ________.?",
+            "option1": "Prevent alternator motorization",
+            "option2": "Dont Prevent alternator motorization",
+            "option3": "not Prevent alternator motorization"
+        },
+        {
+            "question": "Before reassembling any electrical equipment, you should _______________.?",
+            "option1": "Clean any corroded surfaces",
+            "option2": " dont Clean any corroded surfaces",
+            "option3": "Clean any damage surfaces"
+        },
+        {
+            "question": "Before testing insulation with a megohmmeter, the winding of large machines should be grounded for about 15 minutes just prior to the test because the _____________.?",
+            "option1": "Static charge of the machine may give a false reading",
+            "option2": "Rotary charge of the machine may give a false reading",
+            "option3": "Static charge of the machine may give a True reading"
+        },
+        {
+            "question": "Third color band on a resistor is used to indicate the_______.?",
+            "option1": "number of zeros following the first two significant figures in the resistance value",
+            "option2": "tolerance of the resistor",
+            "option3": "first significant figure of the resistance"
+        },
+        {
+            "question": "Commutators and brushes are used on DC generators to _____________.?",
+            "option1": "Convert the induced sine-wave to DC output",
+            "option2": "Convert the induced cosine-wave to DC output",
+            "option3": "Convert the induced sine-wave to AC output"
+        },
+        {
+            "question": "Sparking of DC motor brushes can be caused by _____________.?",
+            "option1": "Series-wound",
+            "option2": "Parallel-wound",
+            "option3": "Load-wound"
+        },
+        {
+            "question": "Which of the listed items will stop a motor due to a reduction in voltage and restart it when the voltage is restored to normal?",
+            "option1": "Low voltage release circuit",
+            "option2": "High voltage release circuit",
+            "option3": "No voltage release circuit"
+        },
+        {
+            "question": "A molded-case breaker provides protection against short circuits by using a/an_______.?",
+            "option1": "electromagnet",
+            "option2": "shading coil",
+            "option3": "arc quencher"
+        },
+        {
+            "question": "What is the general rule in troubleshooting electrical system fault?",
+            "option1": "make sure to test all fuses and measure the line voltage",
+            "option2": "make sure not to test all fuses and measure the line voltage",
+            "option3": "make sure to secure all fuses and measure the line voltage"
+        },
+        {
+            "question": "As a general rule, the first troubleshooting action to be taken in checking faulty electric control devices is to______ .?",
+            "option1": "test all fuses and measure the line voltage",
+            "option2": "test all ballast and measure the line voltage",
+            "option3": "test all fuses and ballast the line voltage"
+        },
+        {
+            "question": "Which procedures should be carried out to prevent moisture damage into an electrical apparatus during extended periods of idleness??",
+            "option1": "Place heat lamps in motor housing",
+            "option2": "Place no lamps in motor housing",
+            "option3": "Place pre-heat lamps in motor housing"
+        },
+        {
+            "question": "Which of the listed items will stop a motor due to a reduction in voltage and restart it when the voltage is restored to normal?",
+            "option1": "Low voltage release circuit",
+            "option2": "High voltage release circuit",
+            "option3": "Short voltage release circuit"
+        },
+        {
+            "question": "A solid-state circuit is inoperative; the first action that should be taken is to_______.?",
+            "option1": "check the DC supply voltage",
+            "option2": "check the DC and AC supply voltage",
+            "option3": "check the AC supply voltage"
+        },
+        {
+            "question": "To determine if a stator coil is grounded, you should use a/an _______.?",
+            "option1": "megger",
+            "option2": "ammeter",
+            "option3": "ground detection lamp"
+        },
+        {
+            "question": "One method of testing for a reversed shunt field coil in a DC generator of motor is by connecting the field to a direct current source at reduced field rated voltage and test for polarity using a/an ______________.?",
+            "option1": "Magnetic compass placed near each field",
+            "option2": "Magnetic compass placed away each field",
+            "option3": "Magnetic compass placed before each field"
+        }
+    ]
+}
